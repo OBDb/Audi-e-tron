@@ -1,0 +1,43 @@
+command_id: 7E0.7E8.22F442
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562F442304B
+  expected_values:
+    AUDI_VPWR: 12.363
+- response: 7E80562F44236C7
+  expected_values:
+    AUDI_VPWR: 14.023
+- response: 7E80562F44236DA
+  expected_values:
+    AUDI_VPWR: 14.042
+- response: 7E80562F44236EE
+  expected_values:
+    AUDI_VPWR: 14.062
+- response: 7E80562F4423702
+  expected_values:
+    AUDI_VPWR: 14.082
+- response: 7E80562F442373C
+  expected_values:
+    AUDI_VPWR: 14.14
+- response: 7E80562F4423750
+  expected_values:
+    AUDI_VPWR: 14.16
+- response: 7E80562F4423763
+  expected_values:
+    AUDI_VPWR: 14.179
+- response: 7E80562F4423777
+  expected_values:
+    AUDI_VPWR: 14.199
+- response: 7E80562F44237C5
+  expected_values:
+    AUDI_VPWR: 14.277
+- response: 7E80562F442383A
+  expected_values:
+    AUDI_VPWR: 14.394
+- response: 7E80562F4423911
+  expected_values:
+    AUDI_VPWR: 14.609
+- response: 7E80562F44239AD
+  expected_values:
+    AUDI_VPWR: 14.765
