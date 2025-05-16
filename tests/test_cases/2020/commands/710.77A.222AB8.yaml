@@ -4,19 +4,29 @@ extended_addressing_enabled: false
 test_cases:
 - response: |-
     77A100B622AB8000000
-    77A21FF00000000AAAA
+    77A21B700000000AAAA
   expected_values:
-    AUDI_HVBAT_KWH_V2: 0.00019
+    AUDI_HVBAT_KWH_V2: 0.00014
+- response: |-
+    77A100B622AB8000000
+    77A21BF00000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00015
+- response: |-
+    77A100B622AB8000000
+    77A21C000000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00015
+- response: |-
+    77A100B622AB8000000
+    77A21F000000000AAAA
+  expected_values:
+    AUDI_HVBAT_KWH_V2: 0.00018
 - response: |-
     77A100B622AB8000001
     77A210200000000AAAA
   expected_values:
     AUDI_HVBAT_KWH_V2: 0.0002
-- response: |-
-    77A100B622AB8000001
-    77A212000000000AAAA
-  expected_values:
-    AUDI_HVBAT_KWH_V2: 0.00022
 - response: |-
     77A100B622AB8000002
     77A210200000000AAAA

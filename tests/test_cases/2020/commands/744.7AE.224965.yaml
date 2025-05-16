@@ -3,30 +3,35 @@ can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
 - response: |-
+    7AE100D624965005C00
+    7AE210000019000F069
+  expected_values:
+    AUDI_HVBAT_KWH: 4.6
+- response: |-
+    7AE100D624965005CFC
+    7AE21D9000E6800F169
+  expected_values:
+    AUDI_HVBAT_KWH: 4.6
+- response: |-
+    7AE100D624965005CFE
+    7AE211F000E6800F169
+  expected_values:
+    AUDI_HVBAT_KWH: 4.6
+- response: |-
+    7AE100D624965005EFF
+    7AE212C000E4500F469
+  expected_values:
+    AUDI_HVBAT_KWH: 4.7
+- response: |-
+    7AE100D624965005FFF
+    7AE21F8000E3B00F569
+  expected_values:
+    AUDI_HVBAT_KWH: 4.75
+- response: |-
     7AE100D624965008002
     7AE2136000E0E012700
   expected_values:
     AUDI_HVBAT_KWH: 6.4
-- response: |-
-    7AE100D624965008200
-    7AE2100000190012A00
-  expected_values:
-    AUDI_HVBAT_KWH: 6.5
-- response: |-
-    7AE100D6249650082FF
-    7AE214B000E0E012B00
-  expected_values:
-    AUDI_HVBAT_KWH: 6.5
-- response: |-
-    7AE100D6249650082FF
-    7AE21EF000E0E012A00
-  expected_values:
-    AUDI_HVBAT_KWH: 6.5
-- response: |-
-    7AE100D6249650082FF
-    7AE21FF000E0E012A00
-  expected_values:
-    AUDI_HVBAT_KWH: 6.5
 - response: |-
     7AE100D6249650086FD
     7AE21BD000E0E013000
@@ -37,11 +42,6 @@ test_cases:
     7AE2117000D7F01A300
   expected_values:
     AUDI_HVBAT_KWH: 10.05
-- response: |-
-    7AE100D62496500FBFE
-    7AE21CF000C17021E69
-  expected_values:
-    AUDI_HVBAT_KWH: 12.55
 - response: |-
     7AE100D62496500FE01
     7AE21D6000C4C021F69

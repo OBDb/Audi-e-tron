@@ -2,9 +2,9 @@ command_id: 7E5.7ED.221E3B
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7ED05621E3B0E4C
+- response: 7ED05621E3B0E35
   expected_values:
-    AUDI_HVBAT_VOLTS: 915
+    AUDI_HVBAT_VOLTS: 909.25
 - response: 7ED05621E3B0EFD
   expected_values:
     AUDI_HVBAT_VOLTS: 959.25
