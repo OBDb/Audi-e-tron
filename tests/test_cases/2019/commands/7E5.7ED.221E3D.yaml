@@ -1,0 +1,10 @@
+command_id: 7E5.7ED.221E3D
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7ED06621E3D024AA4
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
+- response: 7ED06621E3D024AA9
+  expected_values:
+    AUDI_HVBAT_CURRENT: -200
