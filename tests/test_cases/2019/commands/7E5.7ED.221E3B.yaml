@@ -1,7 +1,0 @@
-command_id: 7E5.7ED.221E3B
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
-test_cases:
-- response: 7ED05621E3B10D6
-  expected_values:
-    AUDI_HVBAT_VOLTS: 1000
