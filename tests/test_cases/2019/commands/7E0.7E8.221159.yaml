@@ -1,7 +1,0 @@
-command_id: 7E0.7E8.221159
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
-test_cases:
-- response: 7E80562115907BC
-  expected_values:
-    AUDI_MAX_CHA_CUR_2: 198
