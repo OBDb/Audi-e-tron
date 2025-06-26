@@ -1,17 +1,17 @@
 command_id: 710.77A.222A0B
 test_cases:
-- response: 77A04622A0B33
-  expected_values:
+- expected_values:
     AUDI_SSB_T: 11
-- response: 77A04622A0B34
-  expected_values:
+  response: 77A04622A0B33
+- expected_values:
     AUDI_SSB_T: 12
-- response: 77A04622A0B37
-  expected_values:
+  response: 77A04622A0B34
+- expected_values:
     AUDI_SSB_T: 15
-- response: 77A04622A0B3C
-  expected_values:
+  response: 77A04622A0B37
+- expected_values:
     AUDI_SSB_T: 20
-- response: 77A04622A0B3D
-  expected_values:
+  response: 77A04622A0B3C
+- expected_values:
     AUDI_SSB_T: 21
+  response: 77A04622A0B3D
