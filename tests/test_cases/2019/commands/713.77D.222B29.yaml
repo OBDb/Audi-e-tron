@@ -1,5 +1,19 @@
 command_id: 713.77D.222B29
 test_cases:
-- response: 77D05622B290056
-  expected_values:
-    AUDI_STEER_ANGLE: 0.086
+- expected_values:
+    AUDI_STEER_ANGLE: -0.543
+  response: |-
+    222B291
+    77D05622B29FDE1
+- expected_values:
+    AUDI_STEER_ANGLE: 0.002
+  response: 77D05622B290002
+- expected_values:
+    AUDI_STEER_ANGLE: -1.538
+  response: 77D05622B29F9FE
+- expected_values:
+    AUDI_STEER_ANGLE: -1.535
+  response: 77D05622B29FA01
+- expected_values:
+    AUDI_STEER_ANGLE: -0.15
+  response: 77D05622B29FF6A
