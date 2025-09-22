@@ -6,8 +6,8 @@ test_cases:
     2210141
     77E046210149D
 - expected_values:
-    AUDI_AAT: 94
-  response: '77E0462101490'
+    AUDI_AAT: 91
+  response: 77E046210148D
 - expected_values:
     AUDI_AAT: 109
   response: 77E046210149F

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22115B
+test_cases:
+- expected_values:
+    AUDI_VSS_DIR: 0
+  response: 7E80562115B0000
+- expected_values:
+    AUDI_VSS_DIR: 67.98438
+  response: 7E80562115B10FF
+- expected_values:
+    AUDI_VSS_DIR: -3.59375
+  response: 7E80562115BFF1A
