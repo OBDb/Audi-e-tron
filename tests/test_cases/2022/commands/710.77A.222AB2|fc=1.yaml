@@ -1,0 +1,23 @@
+command_id: 710.77A.222AB2|fc=1
+test_cases:
+- expected_values:
+    AUDI_HVBAT_CAP: 11450
+  response: 77A07622AB200E50400
+- expected_values:
+    AUDI_HVBAT_CAP: 11500
+  response: 77A07622AB200E60400
+- expected_values:
+    AUDI_HVBAT_CAP: 11650
+  response: 77A07622AB200E90400
+- expected_values:
+    AUDI_HVBAT_CAP: 11700
+  response: 77A07622AB200EA0400
+- expected_values:
+    AUDI_HVBAT_CAP: 12700
+  response: 77A07622AB200FE0400
+- expected_values:
+    AUDI_HVBAT_CAP: 12750
+  response: 77A07622AB200FF0400
+- expected_values:
+    AUDI_HVBAT_CAP: 12850
+  response: 77A07622AB201010400

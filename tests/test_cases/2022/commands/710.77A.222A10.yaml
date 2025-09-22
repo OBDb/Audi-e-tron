@@ -1,0 +1,32 @@
+command_id: 710.77A.222A10
+test_cases:
+- expected_values:
+    AUDI_SSB_V_REST: 18.10588
+  response: 77A04622A102B
+- expected_values:
+    AUDI_SSB_V_REST: 18.31765
+  response: 77A04622A102C
+- expected_values:
+    AUDI_SSB_V_REST: 18.52941
+  response: 77A04622A102D
+- expected_values:
+    AUDI_SSB_V_REST: 18.74118
+  response: 77A04622A102E
+- expected_values:
+    AUDI_SSB_V_REST: 18.95294
+  response: 77A04622A102F
+- expected_values:
+    AUDI_SSB_V_REST: 19.16471
+  response: 77A04622A1030
+- expected_values:
+    AUDI_SSB_V_REST: 19.37647
+  response: 77A04622A1031
+- expected_values:
+    AUDI_SSB_V_REST: 19.58824
+  response: 77A04622A1032
+- expected_values:
+    AUDI_SSB_V_REST: 19.8
+  response: 77A04622A1033
+- expected_values:
+    AUDI_SSB_V_REST: 20.01176
+  response: 77A04622A1034
