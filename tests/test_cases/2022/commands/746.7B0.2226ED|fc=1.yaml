@@ -1,14 +1,14 @@
 command_id: 746.7B0.2226ED|fc=1
 test_cases:
 - expected_values:
-    AUDI_AIR_POLUTION: 1
-  response: 7B0076226ED0A3D200A
+    AUDI_AIR_POLUTION: 0.9
+  response: 7B0076226ED094F3A94
+- expected_values:
+    AUDI_AIR_POLUTION: 0.9
+  response: 7B0076226ED094F3C00
 - expected_values:
     AUDI_AIR_POLUTION: 1
   response: 7B0076226ED0A770000
-- expected_values:
-    AUDI_AIR_POLUTION: 1
-  response: 7B0076226ED0A792F94
 - expected_values:
     AUDI_AIR_POLUTION: 1
   response: 7B0076226ED0A8EFF80
@@ -17,7 +17,7 @@ test_cases:
   response: 7B0076226ED0AFF2F80
 - expected_values:
     AUDI_AIR_POLUTION: 1.1
-  response: 7B0076226ED0B014880
+  response: 7B0076226ED0B014500
 - expected_values:
     AUDI_AIR_POLUTION: 1.3
   response: 7B0076226ED0D014400
