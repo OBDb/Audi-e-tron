@@ -2,7 +2,10 @@ command_id: 746.7B0.2226ED|fc=1
 test_cases:
 - expected_values:
     AUDI_AIR_POLUTION: 0.9
-  response: 7B0076226ED094F3A94
+  response: 7B0076226ED0913393C
+- expected_values:
+    AUDI_AIR_POLUTION: 0.9
+  response: 7B0076226ED093D3BC6
 - expected_values:
     AUDI_AIR_POLUTION: 0.9
   response: 7B0076226ED094F3C00
