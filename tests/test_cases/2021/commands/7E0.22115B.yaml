@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22115B
+command_id: 7E0.22115B
 test_cases:
 - expected_values:
     AUDI_VSS_DIR: 0
