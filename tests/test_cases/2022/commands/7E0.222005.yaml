@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.222005
+command_id: 7E0.222005
 test_cases:
 - expected_values:
     AUDI_BRAKE_BST_P: 0
