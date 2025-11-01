@@ -19,4 +19,4 @@ test_cases:
   response: 7ED06621E3D0221FF
 - expected_values:
     AUDI_HVBAT_CURRENT: -200
-  response: 7ED06621E3D023302
+  response: 7ED06621E3D024801
