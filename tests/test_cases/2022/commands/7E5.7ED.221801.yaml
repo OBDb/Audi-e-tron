@@ -10,5 +10,5 @@ test_cases:
     AUDI_HVBAT_VOLT: 716.8
   response: 7ED056218011C00
 - expected_values:
-    AUDI_HVBAT_VOLT: 793.7
-  response: 7ED056218011F01
+    AUDI_HVBAT_VOLT: 819.9
+  response: 7ED056218012007
