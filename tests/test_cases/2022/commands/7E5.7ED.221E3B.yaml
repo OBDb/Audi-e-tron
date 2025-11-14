@@ -11,4 +11,4 @@ test_cases:
   response: 7ED05621E3B1C00
 - expected_values:
     AUDI_HVBAT_VOLTS: 1000
-  response: 7ED05621E3B200A
+  response: 7ED05621E3B2001
