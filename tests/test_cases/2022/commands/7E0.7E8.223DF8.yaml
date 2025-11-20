@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.223DF8
+test_cases:
+- expected_values:
+    AUDI_ENG_MOTOR_RPM: 1411
+  response: 7E805623DF80B06
+- expected_values:
+    AUDI_ENG_MOTOR_RPM: 4389
+  response: 7E805623DF8224A
