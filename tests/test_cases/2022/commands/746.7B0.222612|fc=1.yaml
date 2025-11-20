@@ -1,0 +1,11 @@
+command_id: 746.7B0.222612|fc=1
+test_cases:
+- expected_values:
+    AUDI_HVAC_EVAP_T: 2.2
+  response: 7B0056226120016
+- expected_values:
+    AUDI_HVAC_EVAP_T: 3
+  response: 7B005622612001E
+- expected_values:
+    AUDI_HVAC_EVAP_T: 15.4
+  response: 7B005622612009A
