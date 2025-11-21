@@ -1,0 +1,22 @@
+command_id: 7E5.221839|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD25_T1: 4
+    AUDI_HVBAT_MOD25_T2: 4
+    AUDI_HVBAT_MOD25_T3: 8
+  response: 7ED0662183936363A
+- expected_values:
+    AUDI_HVBAT_MOD25_T1: 32
+    AUDI_HVBAT_MOD25_T2: 31
+    AUDI_HVBAT_MOD25_T3: 34
+  response: 7ED06621839525154
+- expected_values:
+    AUDI_HVBAT_MOD25_T1: 33
+    AUDI_HVBAT_MOD25_T2: 32
+    AUDI_HVBAT_MOD25_T3: 35
+  response: 7ED06621839535255
+- expected_values:
+    AUDI_HVBAT_MOD25_T1: 33
+    AUDI_HVBAT_MOD25_T2: 33
+    AUDI_HVBAT_MOD25_T3: 35
+  response: 7ED06621839535355

@@ -1,0 +1,14 @@
+command_id: 7E5.221810|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_BMCE_T_CAN: 4
+  response: 7ED0462181058
+- expected_values:
+    AUDI_BMS_BMCE_T_CAN: 33.5
+  response: 7ED0462181093
+- expected_values:
+    AUDI_BMS_BMCE_T_CAN: 34.5
+  response: 7ED0462181095
+- expected_values:
+    AUDI_BMS_BMCE_T_CAN: 35
+  response: 7ED0462181096
