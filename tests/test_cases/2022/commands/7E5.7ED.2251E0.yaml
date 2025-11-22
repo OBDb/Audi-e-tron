@@ -1,6 +1,9 @@
 command_id: 7E5.7ED.2251E0
 test_cases:
 - expected_values:
+    AUDI_HVBAT_SOH: 87.757
+  response: 7ED056251E03A05
+- expected_values:
     AUDI_HVBAT_SOH: 88.011
   response: 7ED056251E03A07
 - expected_values:
