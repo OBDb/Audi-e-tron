@@ -1,0 +1,27 @@
+command_id: 7E5.22182E|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD14_T1: 4
+    AUDI_HVBAT_MOD14_T2: 4
+    AUDI_HVBAT_MOD14_T3: 8
+  response: 7ED0662182E36363A
+- expected_values:
+    AUDI_HVBAT_MOD14_T1: 4
+    AUDI_HVBAT_MOD14_T2: 4
+    AUDI_HVBAT_MOD14_T3: 9
+  response: 7ED0662182E36363B
+- expected_values:
+    AUDI_HVBAT_MOD14_T1: 31
+    AUDI_HVBAT_MOD14_T2: 31
+    AUDI_HVBAT_MOD14_T3: 37
+  response: 7ED0662182E515157
+- expected_values:
+    AUDI_HVBAT_MOD14_T1: 32
+    AUDI_HVBAT_MOD14_T2: 32
+    AUDI_HVBAT_MOD14_T3: 37
+  response: 7ED0662182E525257
+- expected_values:
+    AUDI_HVBAT_MOD14_T1: 33
+    AUDI_HVBAT_MOD14_T2: 33
+    AUDI_HVBAT_MOD14_T3: 38
+  response: 7ED0662182E535358
