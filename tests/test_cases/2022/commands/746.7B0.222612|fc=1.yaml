@@ -1,0 +1,42 @@
+command_id: 746.7B0.222612|fc=1
+test_cases:
+- expected_values:
+    AUDI_CLIMATE_T_AFTER_EVAP: 0
+    AUDI_HVAC_EVAP_T: 2.2
+  response: 7B0056226120016
+- expected_values:
+    AUDI_CLIMATE_T_AFTER_EVAP: 0
+    AUDI_HVAC_EVAP_T: 2.9
+  response: 7B005622612001D
+- expected_values:
+    AUDI_CLIMATE_T_AFTER_EVAP: 0
+    AUDI_HVAC_EVAP_T: 3
+  response: 7B005622612001E
+- expected_values:
+    AUDI_CLIMATE_T_AFTER_EVAP: 0
+    AUDI_HVAC_EVAP_T: 3.1
+  response: 7B005622612001F
+- expected_values:
+    AUDI_CLIMATE_T_AFTER_EVAP: 0
+    AUDI_HVAC_EVAP_T: 3.3
+  response: 7B0056226120021
+- expected_values:
+    AUDI_CLIMATE_T_AFTER_EVAP: 0
+    AUDI_HVAC_EVAP_T: 3.5
+  response: 7B0056226120023
+- expected_values:
+    AUDI_CLIMATE_T_AFTER_EVAP: 0
+    AUDI_HVAC_EVAP_T: 4.3
+  response: 7B005622612002B
+- expected_values:
+    AUDI_CLIMATE_T_AFTER_EVAP: 0
+    AUDI_HVAC_EVAP_T: 5.4
+  response: 7B0056226120036
+- expected_values:
+    AUDI_CLIMATE_T_AFTER_EVAP: 0
+    AUDI_HVAC_EVAP_T: 5.8
+  response: 7B005622612003A
+- expected_values:
+    AUDI_CLIMATE_T_AFTER_EVAP: 0
+    AUDI_HVAC_EVAP_T: 15.4
+  response: 7B005622612009A
