@@ -1,0 +1,23 @@
+command_id: FC00.FE007B.221E1B|ta=7B,c=17
+test_cases:
+- expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 37.8
+  response: 17FE007B05621E1B00BD
+- expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 38
+  response: 17FE007B05621E1B00BE
+- expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 38.4
+  response: 17FE007B05621E1B00C0
+- expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 38.8
+  response: 17FE007B05621E1B00C2
+- expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 39.4
+  response: 17FE007B05621E1B00C5
+- expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 45.6
+  response: 17FE007B05621E1B00E4
+- expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 92.6
+  response: 17FE007B05621E1B01CF

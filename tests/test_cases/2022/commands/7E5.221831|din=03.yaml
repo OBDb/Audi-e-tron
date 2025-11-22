@@ -1,0 +1,32 @@
+command_id: 7E5.221831|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD17_T1: 4
+    AUDI_HVBAT_MOD17_T2: 4
+    AUDI_HVBAT_MOD17_T3: 8
+  response: 7ED0662183136363A
+- expected_values:
+    AUDI_HVBAT_MOD17_T1: 9
+    AUDI_HVBAT_MOD17_T2: 9
+    AUDI_HVBAT_MOD17_T3: 14
+  response: 7ED066218313B3B40
+- expected_values:
+    AUDI_HVBAT_MOD17_T1: 9
+    AUDI_HVBAT_MOD17_T2: 9
+    AUDI_HVBAT_MOD17_T3: 15
+  response: 7ED066218313B3B41
+- expected_values:
+    AUDI_HVBAT_MOD17_T1: 10
+    AUDI_HVBAT_MOD17_T2: 9
+    AUDI_HVBAT_MOD17_T3: 15
+  response: 7ED066218313C3B41
+- expected_values:
+    AUDI_HVBAT_MOD17_T1: 10
+    AUDI_HVBAT_MOD17_T2: 10
+    AUDI_HVBAT_MOD17_T3: 15
+  response: 7ED066218313C3C41
+- expected_values:
+    AUDI_HVBAT_MOD17_T1: 35
+    AUDI_HVBAT_MOD17_T2: 35
+    AUDI_HVBAT_MOD17_T3: 37
+  response: 7ED06621831555557
