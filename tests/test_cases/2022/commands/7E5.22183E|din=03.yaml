@@ -1,0 +1,12 @@
+command_id: 7E5.22183E|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD30_T1: 4
+    AUDI_HVBAT_MOD30_T2: 4
+    AUDI_HVBAT_MOD30_T3: 8
+  response: 7ED0662183E36363A
+- expected_values:
+    AUDI_HVBAT_MOD30_T1: 34
+    AUDI_HVBAT_MOD30_T2: 35
+    AUDI_HVBAT_MOD30_T3: 38
+  response: 7ED0662183E545558
