@@ -1,0 +1,52 @@
+command_id: 7E5.22183A|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD26_T1: 4
+    AUDI_HVBAT_MOD26_T2: 4
+    AUDI_HVBAT_MOD26_T3: 8
+  response: 7ED0662183A36363A
+- expected_values:
+    AUDI_HVBAT_MOD26_T1: 8
+    AUDI_HVBAT_MOD26_T2: 8
+    AUDI_HVBAT_MOD26_T3: 10
+  response: 7ED0662183A3A3A3C
+- expected_values:
+    AUDI_HVBAT_MOD26_T1: 8
+    AUDI_HVBAT_MOD26_T2: 8
+    AUDI_HVBAT_MOD26_T3: 12
+  response: 7ED0662183A3A3A3E
+- expected_values:
+    AUDI_HVBAT_MOD26_T1: 8
+    AUDI_HVBAT_MOD26_T2: 8
+    AUDI_HVBAT_MOD26_T3: 13
+  response: 7ED0662183A3A3A3F
+- expected_values:
+    AUDI_HVBAT_MOD26_T1: 8
+    AUDI_HVBAT_MOD26_T2: 8
+    AUDI_HVBAT_MOD26_T3: 14
+  response: 7ED0662183A3A3A40
+- expected_values:
+    AUDI_HVBAT_MOD26_T1: 9
+    AUDI_HVBAT_MOD26_T2: 9
+    AUDI_HVBAT_MOD26_T3: 14
+  response: 7ED0662183A3B3B40
+- expected_values:
+    AUDI_HVBAT_MOD26_T1: 9
+    AUDI_HVBAT_MOD26_T2: 9
+    AUDI_HVBAT_MOD26_T3: 15
+  response: 7ED0662183A3B3B41
+- expected_values:
+    AUDI_HVBAT_MOD26_T1: 10
+    AUDI_HVBAT_MOD26_T2: 10
+    AUDI_HVBAT_MOD26_T3: 15
+  response: 7ED0662183A3C3C41
+- expected_values:
+    AUDI_HVBAT_MOD26_T1: 11
+    AUDI_HVBAT_MOD26_T2: 11
+    AUDI_HVBAT_MOD26_T3: 16
+  response: 7ED0662183A3D3D42
+- expected_values:
+    AUDI_HVBAT_MOD26_T1: 33
+    AUDI_HVBAT_MOD26_T2: 33
+    AUDI_HVBAT_MOD26_T3: 35
+  response: 7ED0662183A535355
