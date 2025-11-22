@@ -1,0 +1,29 @@
+command_id: 744.7AE.221DD0|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 26
+  response: 7AE04621DD034
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 26.5
+  response: 7AE04621DD035
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 75.5
+  response: 7AE04621DD097
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 76
+  response: 7AE04621DD098
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 76.5
+  response: 7AE04621DD099
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 80
+  response: 7AE04621DD0A0
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 80.5
+  response: 7AE04621DD0A1
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 81
+  response: 7AE04621DD0A2
+- expected_values:
+    AUDI_CHRGR_SOC_DISP: 83
+  response: 7AE04621DD0A6

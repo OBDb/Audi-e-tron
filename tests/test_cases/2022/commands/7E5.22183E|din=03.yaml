@@ -1,0 +1,37 @@
+command_id: 7E5.22183E|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD30_T1: 4
+    AUDI_HVBAT_MOD30_T2: 4
+    AUDI_HVBAT_MOD30_T3: 8
+  response: 7ED0662183E36363A
+- expected_values:
+    AUDI_HVBAT_MOD30_T1: 4
+    AUDI_HVBAT_MOD30_T2: 4
+    AUDI_HVBAT_MOD30_T3: 9
+  response: 7ED0662183E36363B
+- expected_values:
+    AUDI_HVBAT_MOD30_T1: 9
+    AUDI_HVBAT_MOD30_T2: 9
+    AUDI_HVBAT_MOD30_T3: 15
+  response: 7ED0662183E3B3B41
+- expected_values:
+    AUDI_HVBAT_MOD30_T1: 9
+    AUDI_HVBAT_MOD30_T2: 10
+    AUDI_HVBAT_MOD30_T3: 15
+  response: 7ED0662183E3B3C41
+- expected_values:
+    AUDI_HVBAT_MOD30_T1: 10
+    AUDI_HVBAT_MOD30_T2: 10
+    AUDI_HVBAT_MOD30_T3: 15
+  response: 7ED0662183E3C3C41
+- expected_values:
+    AUDI_HVBAT_MOD30_T1: 10
+    AUDI_HVBAT_MOD30_T2: 10
+    AUDI_HVBAT_MOD30_T3: 16
+  response: 7ED0662183E3C3C42
+- expected_values:
+    AUDI_HVBAT_MOD30_T1: 34
+    AUDI_HVBAT_MOD30_T2: 35
+    AUDI_HVBAT_MOD30_T3: 38
+  response: 7ED0662183E545558
