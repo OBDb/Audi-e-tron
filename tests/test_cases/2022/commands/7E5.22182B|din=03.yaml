@@ -1,0 +1,17 @@
+command_id: 7E5.22182B|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD11_T1: 4
+    AUDI_HVBAT_MOD11_T2: 4
+    AUDI_HVBAT_MOD11_T3: 8
+  response: 7ED0662182B36363A
+- expected_values:
+    AUDI_HVBAT_MOD11_T1: 33
+    AUDI_HVBAT_MOD11_T2: 33
+    AUDI_HVBAT_MOD11_T3: 39
+  response: 7ED0662182B535359
+- expected_values:
+    AUDI_HVBAT_MOD11_T1: 34
+    AUDI_HVBAT_MOD11_T2: 34
+    AUDI_HVBAT_MOD11_T3: 39
+  response: 7ED0662182B545459

@@ -1,0 +1,20 @@
+command_id: 7E5.22192B|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_COOL_PUMP_PWR_SP: 12
+  response: 7ED0462192B18
+- expected_values:
+    AUDI_BMS_COOL_PUMP_PWR_SP: 29
+  response: 7ED0462192B3A
+- expected_values:
+    AUDI_BMS_COOL_PUMP_PWR_SP: 31
+  response: 7ED0462192B3E
+- expected_values:
+    AUDI_BMS_COOL_PUMP_PWR_SP: 32
+  response: 7ED0462192B40
+- expected_values:
+    AUDI_BMS_COOL_PUMP_PWR_SP: 33
+  response: 7ED0462192B42
+- expected_values:
+    AUDI_BMS_COOL_PUMP_PWR_SP: 88
+  response: 7ED0462192BB0
