@@ -1,0 +1,17 @@
+command_id: 7E5.7ED.22182A|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD10_T1: 4
+    AUDI_HVBAT_MOD10_T2: 4
+    AUDI_HVBAT_MOD10_T3: 8
+  response: 7ED0662182A36363A
+- expected_values:
+    AUDI_HVBAT_MOD10_T1: 34
+    AUDI_HVBAT_MOD10_T2: 33
+    AUDI_HVBAT_MOD10_T3: 37
+  response: 7ED0662182A545357
+- expected_values:
+    AUDI_HVBAT_MOD10_T1: 34
+    AUDI_HVBAT_MOD10_T2: 34
+    AUDI_HVBAT_MOD10_T3: 37
+  response: 7ED0662182A545457
