@@ -1,0 +1,29 @@
+command_id: 746.7B0.222609|fc=1
+test_cases:
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B005622609000A
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B005622609000F
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B0056226090014
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B0056226090019
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B005622609001E
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B005622609002D
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B0056226090037
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B005622609003C
+- expected_values:
+    AUDI_AAT_V2: 0
+  response: 7B0056226090041
