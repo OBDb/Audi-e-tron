@@ -19,6 +19,9 @@ test_cases:
     AUDI_BMS_SHUNT_T: 12
   response: 7ED0462180F3E
 - expected_values:
+    AUDI_BMS_SHUNT_T: 13
+  response: 7ED0462180F3F
+- expected_values:
     AUDI_BMS_SHUNT_T: 14
   response: 7ED0462180F40
 - expected_values:
