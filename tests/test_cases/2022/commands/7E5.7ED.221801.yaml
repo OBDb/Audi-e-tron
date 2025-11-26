@@ -1,8 +1,8 @@
 command_id: 7E5.7ED.221801
 test_cases:
 - expected_values:
-    AUDI_HVBAT_VOLT: 664.4
-  response: 7ED0562180119F4
+    AUDI_HVBAT_VOLT: 662.7
+  response: 7ED0562180119E3
 - expected_values:
     AUDI_HVBAT_VOLT: 665.6
   response: 7ED056218011A00
