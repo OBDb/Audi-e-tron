@@ -5,9 +5,13 @@ test_cases:
     AUDI_BMS_T_MIN_CELL: 9
   response: 7ED05621E0F6809
 - expected_values:
-    AUDI_BMS_T_MIN: 8
-    AUDI_BMS_T_MIN_CELL: 27
-  response: 7ED05621E0F6C1B
+    AUDI_BMS_T_MIN: 10
+    AUDI_BMS_T_MIN_CELL: 2
+  response: 7ED05621E0F6E02
+- expected_values:
+    AUDI_BMS_T_MIN: 10
+    AUDI_BMS_T_MIN_CELL: 32
+  response: 7ED05621E0F6E20
 - expected_values:
     AUDI_BMS_T_MIN: 34
     AUDI_BMS_T_MIN_CELL: 12
