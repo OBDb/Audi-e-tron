@@ -5,7 +5,7 @@ test_cases:
   response: 17FE007B06621E3487FA1B
 - expected_values:
     AUDI_HVBAT_CELL_V_MIN: 15.997
-  response: 17FE007B06621E3492E008
+  response: 17FE007B06621E348A8401
 - expected_values:
     AUDI_HVBAT_CELL_V_MIN: 15.997
   response: 17FE007B06621E34940214
