@@ -11,4 +11,4 @@ test_cases:
   response: 17FE007B05621E2C3806
 - expected_values:
     AUDI_HVBAT_CELL_SOC_MAX: 100
-  response: 17FE007B05621E2C5006
+  response: 17FE007B05621E2C598E

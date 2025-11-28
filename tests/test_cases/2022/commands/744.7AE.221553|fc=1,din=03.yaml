@@ -4,8 +4,8 @@ test_cases:
     AUDI_CHRGR_BOOST_HI_I: 0
   response: 7AE056215530800
 - expected_values:
-    AUDI_CHRGR_BOOST_HI_I: 119.25
-  response: 7AE0562155309DD
+    AUDI_CHRGR_BOOST_HI_I: 121.75
+  response: 7AE0562155309E7
 - expected_values:
-    AUDI_CHRGR_BOOST_HI_I: 130.25
-  response: 7AE056215530A09
+    AUDI_CHRGR_BOOST_HI_I: 128
+  response: 7AE056215530A00
