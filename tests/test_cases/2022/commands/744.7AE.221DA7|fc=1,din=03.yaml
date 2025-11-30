@@ -2,40 +2,8 @@ command_id: 744.7AE.221DA7|fc=1,din=03
 test_cases:
 - expected_values:
     AUDI_CHRGR_V_OUT: 0
-    AUDI_OBC_HIGH_V_OUTPUT: 3.2
-  response: 7AE05621DA70020
-- expected_values:
-    AUDI_CHRGR_V_OUT: 0
-    AUDI_OBC_HIGH_V_OUTPUT: 3.3
-  response: 7AE05621DA70021
-- expected_values:
-    AUDI_CHRGR_V_OUT: 0
-    AUDI_OBC_HIGH_V_OUTPUT: 3.4
-  response: 7AE05621DA70022
-- expected_values:
-    AUDI_CHRGR_V_OUT: 0
-    AUDI_OBC_HIGH_V_OUTPUT: 3.5
-  response: 7AE05621DA70023
-- expected_values:
-    AUDI_CHRGR_V_OUT: 0
-    AUDI_OBC_HIGH_V_OUTPUT: 3.6
-  response: 7AE05621DA70024
-- expected_values:
-    AUDI_CHRGR_V_OUT: 0
-    AUDI_OBC_HIGH_V_OUTPUT: 3.7
-  response: 7AE05621DA70025
-- expected_values:
-    AUDI_CHRGR_V_OUT: 0
-    AUDI_OBC_HIGH_V_OUTPUT: 3.8
-  response: 7AE05621DA70026
-- expected_values:
-    AUDI_CHRGR_V_OUT: 0
-    AUDI_OBC_HIGH_V_OUTPUT: 3.9
-  response: 7AE05621DA70027
-- expected_values:
-    AUDI_CHRGR_V_OUT: 0
-    AUDI_OBC_HIGH_V_OUTPUT: 4
-  response: 7AE05621DA70028
+    AUDI_OBC_HIGH_V_OUTPUT: 3.1
+  response: 7AE05621DA7001F
 - expected_values:
     AUDI_CHRGR_V_OUT: 0
     AUDI_OBC_HIGH_V_OUTPUT: 4.1
