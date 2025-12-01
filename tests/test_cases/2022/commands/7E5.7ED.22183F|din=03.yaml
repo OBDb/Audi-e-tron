@@ -8,6 +8,11 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD31_T1: 35
     AUDI_HVBAT_MOD31_T2: 36
+    AUDI_HVBAT_MOD31_T3: 43
+  response: 7ED0662183F55565D
+- expected_values:
+    AUDI_HVBAT_MOD31_T1: 35
+    AUDI_HVBAT_MOD31_T2: 36
     AUDI_HVBAT_MOD31_T3: 45
   response: 7ED0662183F55565F
 - expected_values:
