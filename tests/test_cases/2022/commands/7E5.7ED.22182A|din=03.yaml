@@ -8,8 +8,13 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD10_T1: 35
     AUDI_HVBAT_MOD10_T2: 35
-    AUDI_HVBAT_MOD10_T3: 48
-  response: 7ED0662182A555562
+    AUDI_HVBAT_MOD10_T3: 44
+  response: 7ED0662182A55555E
+- expected_values:
+    AUDI_HVBAT_MOD10_T1: 36
+    AUDI_HVBAT_MOD10_T2: 35
+    AUDI_HVBAT_MOD10_T3: 43
+  response: 7ED0662182A56555D
 - expected_values:
     AUDI_HVBAT_MOD10_T1: 36
     AUDI_HVBAT_MOD10_T2: 35
