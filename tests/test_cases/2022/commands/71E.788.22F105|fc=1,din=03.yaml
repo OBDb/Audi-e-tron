@@ -7,9 +7,9 @@ test_cases:
   response: 7880662F1051B1B1B
 - expected_values:
     AUDI_DIFF_CLUTCH_T: 24
-    AUDI_DIFF_MOTOR_T: 18
-    AUDI_DIFF_OIL_T: 18
-  response: 7880662F105222225
+    AUDI_DIFF_MOTOR_T: 16
+    AUDI_DIFF_OIL_T: 16
+  response: 7880662F105212125
 - expected_values:
     AUDI_DIFF_CLUTCH_T: 20
     AUDI_DIFF_MOTOR_T: 20

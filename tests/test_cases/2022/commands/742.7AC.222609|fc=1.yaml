@@ -1,8 +1,8 @@
 command_id: 742.7AC.222609|fc=1
 test_cases:
 - expected_values:
-    AUDI_PTC_OUTSIDE_T: -1
-  response: 7AC0462260962
+    AUDI_PTC_OUTSIDE_T: -3
+  response: 7AC046226095E
 - expected_values:
-    AUDI_PTC_OUTSIDE_T: 10
-  response: 7AC0462260978
+    AUDI_PTC_OUTSIDE_T: 11
+  response: 7AC046226097A
