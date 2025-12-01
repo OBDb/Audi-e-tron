@@ -16,3 +16,7 @@ test_cases:
     AUDI_BAT_INT_R: 4.6
     AUDI_SSB_R: 4.6
   response: 77A04622A0E17
+- expected_values:
+    AUDI_BAT_INT_R: 5
+    AUDI_SSB_R: 5
+  response: 77A04622A0E19
