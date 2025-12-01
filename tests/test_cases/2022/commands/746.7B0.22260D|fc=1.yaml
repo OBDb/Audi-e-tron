@@ -5,4 +5,4 @@ test_cases:
   response: 7B00562260D002B
 - expected_values:
     AUDI_CLIMATE_FR_R_DEFL_T: 0
-  response: 7B00562260D00D0
+  response: 7B00562260D00D1
