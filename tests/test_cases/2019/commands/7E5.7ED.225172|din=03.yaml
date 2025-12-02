@@ -4,6 +4,21 @@ test_cases:
     AUDI_BMS_V_CHG_PRED_MIN: 403.5
   response: 7ED056251720FC3
 - expected_values:
+    AUDI_BMS_V_CHG_PRED_MIN: 403.9
+  response: 7ED056251720FC7
+- expected_values:
+    AUDI_BMS_V_CHG_PRED_MIN: 404.1
+  response: 7ED056251720FC9
+- expected_values:
+    AUDI_BMS_V_CHG_PRED_MIN: 404.2
+  response: 7ED056251720FCA
+- expected_values:
+    AUDI_BMS_V_CHG_PRED_MIN: 404.3
+  response: 7ED056251720FCB
+- expected_values:
+    AUDI_BMS_V_CHG_PRED_MIN: 404.4
+  response: 7ED056251720FCC
+- expected_values:
     AUDI_BMS_V_CHG_PRED_MIN: 404.5
   response: 7ED056251720FCD
 - expected_values:

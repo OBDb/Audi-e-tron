@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
-    AUDI_ECU_TEMP: 42
-  response: 7E80562028D01A4
+    AUDI_ECU_TEMP: 29
+  response: 7E80562028D0122
 - expected_values:
     AUDI_ECU_TEMP: 51
   response: 7E80562028D01FE
