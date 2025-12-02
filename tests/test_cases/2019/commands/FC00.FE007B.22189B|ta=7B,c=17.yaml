@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_AFTER_CONTACTS_V: 966
   response: 17FE007B0562189B0F5C
+- expected_values:
+    AUDI_HVBAT_AFTER_CONTACTS_V: 972.5
+  response: 17FE007B0562189B0F69
+- expected_values:
+    AUDI_HVBAT_AFTER_CONTACTS_V: 973.5
+  response: 17FE007B0562189B0F6B
+- expected_values:
+    AUDI_HVBAT_AFTER_CONTACTS_V: 976
+  response: 17FE007B0562189B0F70

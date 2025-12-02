@@ -4,5 +4,8 @@ test_cases:
     AUDI_OBC_V_PROX_A: 4985
   response: 7AE056215251379
 - expected_values:
+    AUDI_OBC_V_PROX_A: 4990
+  response: 7AE05621525137E
+- expected_values:
     AUDI_OBC_V_PROX_A: 4995
   response: 7AE056215251383
