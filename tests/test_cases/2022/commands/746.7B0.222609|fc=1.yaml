@@ -5,7 +5,8 @@ test_cases:
   response: 7B0056226090000
 - expected_values:
     AUDI_AAT_V2: -0.5
-  response: 7B005622609FFE7
+    AUDI_HVAC_OUTSIDE_T: -5
+  response: 7B005622609FFCE
 - expected_values:
     AUDI_AAT_V2: -0.5
   response: 7B005622609FFFB

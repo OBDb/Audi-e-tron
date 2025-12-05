@@ -1,10 +1,10 @@
 command_id: 7E5.7ED.221835|din=03
 test_cases:
 - expected_values:
-    AUDI_HVBAT_MOD21_T1: 1
-    AUDI_HVBAT_MOD21_T2: 1
+    AUDI_HVBAT_MOD21_T1: -1
+    AUDI_HVBAT_MOD21_T2: -1
     AUDI_HVBAT_MOD21_T3: 4
-  response: 7ED06621835333336
+  response: 7ED06621835313136
 - expected_values:
     AUDI_HVBAT_MOD21_T1: 4
     AUDI_HVBAT_MOD21_T2: 4
