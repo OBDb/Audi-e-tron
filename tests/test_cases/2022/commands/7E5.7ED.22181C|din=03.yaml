@@ -1,8 +1,8 @@
 command_id: 7E5.7ED.22181C|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_COOL_IN_T: -1
-  response: 7ED0462181C31
+    AUDI_BMS_COOL_IN_T: -2
+  response: 7ED0462181C30
 - expected_values:
     AUDI_BMS_COOL_IN_T: 2
   response: 7ED0462181C34
