@@ -4,5 +4,5 @@ test_cases:
     AUDI_SOC_DISP: 2.02609
   response: 17FE007B0462028C13
 - expected_values:
-    AUDI_SOC_DISP: 33.06957
-  response: 17FE007B0462028C59
+    AUDI_SOC_DISP: 36.17391
+  response: 17FE007B0462028C60
