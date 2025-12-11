@@ -6,6 +6,11 @@ test_cases:
     AUDI_HVBAT_MOD20_T3: 4
   response: 7ED06621834313136
 - expected_values:
+    AUDI_HVBAT_MOD20_T1: 1
+    AUDI_HVBAT_MOD20_T2: 1
+    AUDI_HVBAT_MOD20_T3: 3
+  response: 7ED06621834333335
+- expected_values:
     AUDI_HVBAT_MOD20_T1: 4
     AUDI_HVBAT_MOD20_T2: 4
     AUDI_HVBAT_MOD20_T3: 8

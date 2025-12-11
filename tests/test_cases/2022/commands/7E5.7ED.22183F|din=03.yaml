@@ -8,8 +8,8 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD31_T1: 0
     AUDI_HVBAT_MOD31_T2: 0
-    AUDI_HVBAT_MOD31_T3: 3
-  response: 7ED0662183F323235
+    AUDI_HVBAT_MOD31_T3: 2
+  response: 7ED0662183F323234
 - expected_values:
     AUDI_HVBAT_MOD31_T1: 4
     AUDI_HVBAT_MOD31_T2: 4
