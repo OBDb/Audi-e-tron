@@ -6,6 +6,11 @@ test_cases:
     AUDI_HVBAT_MOD33_T3: 3
   response: 7ED06621841313135
 - expected_values:
+    AUDI_HVBAT_MOD33_T1: 0
+    AUDI_HVBAT_MOD33_T2: 0
+    AUDI_HVBAT_MOD33_T3: 2
+  response: 7ED06621841323234
+- expected_values:
     AUDI_HVBAT_MOD33_T1: 35
     AUDI_HVBAT_MOD33_T2: 35
     AUDI_HVBAT_MOD33_T3: 42
