@@ -6,6 +6,11 @@ test_cases:
     AUDI_HVBAT_MOD23_T3: 4
   response: 7ED06621837313136
 - expected_values:
+    AUDI_HVBAT_MOD23_T1: 0
+    AUDI_HVBAT_MOD23_T2: 0
+    AUDI_HVBAT_MOD23_T3: 3
+  response: 7ED06621837323235
+- expected_values:
     AUDI_HVBAT_MOD23_T1: 4
     AUDI_HVBAT_MOD23_T2: 4
     AUDI_HVBAT_MOD23_T3: 8
