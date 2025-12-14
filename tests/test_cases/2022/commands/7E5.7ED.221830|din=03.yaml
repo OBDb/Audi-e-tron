@@ -3,8 +3,8 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD16_T1: -1
     AUDI_HVBAT_MOD16_T2: -1
-    AUDI_HVBAT_MOD16_T3: 4
-  response: 7ED06621830313136
+    AUDI_HVBAT_MOD16_T3: 2
+  response: 7ED06621830313134
 - expected_values:
     AUDI_HVBAT_MOD16_T1: 0
     AUDI_HVBAT_MOD16_T2: 0
