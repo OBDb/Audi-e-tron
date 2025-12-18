@@ -16,5 +16,17 @@ test_cases:
     AUDI_HVBAT_I_LIM_CHG: 74
   response: 17FE007B05621E1B0172
 - expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 78.4
+  response: 17FE007B05621E1B0188
+- expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 78.8
+  response: 17FE007B05621E1B018A
+- expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 82.8
+  response: 17FE007B05621E1B019E
+- expected_values:
+    AUDI_HVBAT_I_LIM_CHG: 83.2
+  response: 17FE007B05621E1B01A0
+- expected_values:
     AUDI_HVBAT_I_LIM_CHG: 91.4
   response: 17FE007B05621E1B01C9
