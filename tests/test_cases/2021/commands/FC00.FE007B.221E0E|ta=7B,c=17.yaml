@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_T_MAX: 449.125
   response: 17FE007B05621E0E7048
+- expected_values:
+    AUDI_HVBAT_T_MAX: 452.625
+  response: 17FE007B05621E0E7128
+- expected_values:
+    AUDI_HVBAT_T_MAX: 464.60938
+  response: 17FE007B05621E0E7427
+- expected_values:
+    AUDI_HVBAT_T_MAX: 464.625
+  response: 17FE007B05621E0E7428
