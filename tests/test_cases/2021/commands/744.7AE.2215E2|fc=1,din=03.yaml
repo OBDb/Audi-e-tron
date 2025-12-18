@@ -1,6 +1,9 @@
 command_id: 744.7AE.2215E2|fc=1,din=03
 test_cases:
 - expected_values:
+    AUDI_CHRGR_COOLANT_T: 14
+  response: 7AE046215E236
+- expected_values:
     AUDI_CHRGR_COOLANT_T: 16
   response: 7AE046215E238
 - expected_values:
