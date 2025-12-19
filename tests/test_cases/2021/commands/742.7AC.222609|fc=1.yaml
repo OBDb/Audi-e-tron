@@ -4,6 +4,9 @@ test_cases:
     AUDI_PTC_OUTSIDE_T: 6
   response: 7AC0462260970
 - expected_values:
+    AUDI_PTC_OUTSIDE_T: 9
+  response: 7AC0462260976
+- expected_values:
     AUDI_PTC_OUTSIDE_T: 11
   response: 7AC046226097A
 - expected_values:
