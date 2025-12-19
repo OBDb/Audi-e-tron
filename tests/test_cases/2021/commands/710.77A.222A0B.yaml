@@ -4,6 +4,9 @@ test_cases:
     AUDI_SSB_T: 11
   response: 77A04622A0B33
 - expected_values:
+    AUDI_SSB_T: 13
+  response: 77A04622A0B35
+- expected_values:
     AUDI_SSB_T: 15
   response: 77A04622A0B37
 - expected_values:

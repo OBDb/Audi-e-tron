@@ -1,6 +1,10 @@
 command_id: 744.7AE.221DA7|fc=1,din=03
 test_cases:
 - expected_values:
+    AUDI_CHRGR_V_OUT: 0
+    AUDI_OBC_HIGH_V_OUTPUT: 0.9
+  response: 7AE05621DA70009
+- expected_values:
     AUDI_CHRGR_V_OUT: 1
     AUDI_OBC_HIGH_V_OUTPUT: 39.5
   response: 7AE05621DA7018B
