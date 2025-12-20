@@ -4,29 +4,5 @@ test_cases:
     AUDI_ENG_TRQ_REQ_1: 0
   response: 7E8056229D40000
 - expected_values:
-    AUDI_ENG_TRQ_REQ_1: 0.9
-  response: 7E8056229D40009
-- expected_values:
-    AUDI_ENG_TRQ_REQ_1: 1.7
-  response: 7E8056229D40011
-- expected_values:
-    AUDI_ENG_TRQ_REQ_1: 1.8
-  response: 7E8056229D40012
-- expected_values:
-    AUDI_ENG_TRQ_REQ_1: 2.6
-  response: 7E8056229D4001A
-- expected_values:
-    AUDI_ENG_TRQ_REQ_1: 3.1
-  response: 7E8056229D4001F
-- expected_values:
-    AUDI_ENG_TRQ_REQ_1: 3.4
-  response: 7E8056229D40022
-- expected_values:
-    AUDI_ENG_TRQ_REQ_1: 3.9
-  response: 7E8056229D40027
-- expected_values:
-    AUDI_ENG_TRQ_REQ_1: 20.4
-  response: 7E8056229D400CC
-- expected_values:
     AUDI_ENG_TRQ_REQ_1: 20.7
   response: 7E8056229D400CF

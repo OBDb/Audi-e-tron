@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     AUDI_CHRGR_E_TOTAL: 244680
   response: 7AE076215EF0003BBC8
+- expected_values:
+    AUDI_CHRGR_E_TOTAL: 244973
+  response: 7AE076215EF0003BCED
