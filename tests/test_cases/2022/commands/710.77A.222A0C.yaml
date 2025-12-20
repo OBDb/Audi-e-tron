@@ -1,9 +1,9 @@
 command_id: 710.77A.222A0C
 test_cases:
 - expected_values:
-    AUDI_BAT_SOC: 38
-    AUDI_SSB_SOC: 38
-  response: 77A04622A0C26
+    AUDI_BAT_SOC: 37
+    AUDI_SSB_SOC: 37
+  response: 77A04622A0C25
 - expected_values:
     AUDI_BAT_SOC: 100
     AUDI_SSB_SOC: 100
