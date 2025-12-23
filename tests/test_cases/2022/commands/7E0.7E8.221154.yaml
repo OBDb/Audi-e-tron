@@ -2,6 +2,9 @@ command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
     AUDI_EM_TORQ_2: 0
+  response: '7E8 05 62 11 54 00 00 '
+- expected_values:
+    AUDI_EM_TORQ_2: 0
   response: '7E8056211540000'
 - expected_values:
     AUDI_EM_TORQ_2: 7.5
