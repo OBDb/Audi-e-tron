@@ -7,5 +7,5 @@ test_cases:
     AUDI_BMS_BMCE_T1: 4
   response: 7ED0462180C36
 - expected_values:
-    AUDI_BMS_BMCE_T1: 22
-  response: 7ED0462180C48
+    AUDI_BMS_BMCE_T1: 23
+  response: 7ED0462180C49
