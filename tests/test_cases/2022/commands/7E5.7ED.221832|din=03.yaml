@@ -1,15 +1,10 @@
 command_id: 7E5.7ED.221832|din=03
 test_cases:
 - expected_values:
-    AUDI_HVBAT_MOD18_T1: -1
-    AUDI_HVBAT_MOD18_T2: -1
-    AUDI_HVBAT_MOD18_T3: 4
-  response: 7ED06621832313136
-- expected_values:
-    AUDI_HVBAT_MOD18_T1: 0
-    AUDI_HVBAT_MOD18_T2: 0
-    AUDI_HVBAT_MOD18_T3: 3
-  response: 7ED06621832323235
+    AUDI_HVBAT_MOD18_T1: -2
+    AUDI_HVBAT_MOD18_T2: -2
+    AUDI_HVBAT_MOD18_T3: 1
+  response: 7ED06621832303033
 - expected_values:
     AUDI_HVBAT_MOD18_T1: 4
     AUDI_HVBAT_MOD18_T2: 4
