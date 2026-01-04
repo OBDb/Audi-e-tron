@@ -1,10 +1,10 @@
 command_id: 71E.788.22F105|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_DIFF_CLUTCH_T: -2
+    AUDI_DIFF_CLUTCH_T: -4
     AUDI_DIFF_MOTOR_T: -2
     AUDI_DIFF_OIL_T: -4
-  response: 7880662F105181718
+  response: 7880662F105181717
 - expected_values:
     AUDI_DIFF_CLUTCH_T: 32
     AUDI_DIFF_MOTOR_T: 28
