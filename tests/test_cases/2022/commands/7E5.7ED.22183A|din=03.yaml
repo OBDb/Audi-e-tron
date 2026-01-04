@@ -1,10 +1,10 @@
 command_id: 7E5.7ED.22183A|din=03
 test_cases:
 - expected_values:
-    AUDI_HVBAT_MOD26_T1: -2
-    AUDI_HVBAT_MOD26_T2: -2
-    AUDI_HVBAT_MOD26_T3: 1
-  response: 7ED0662183A303033
+    AUDI_HVBAT_MOD26_T1: -3
+    AUDI_HVBAT_MOD26_T2: -3
+    AUDI_HVBAT_MOD26_T3: -1
+  response: 7ED0662183A2F2F31
 - expected_values:
     AUDI_HVBAT_MOD26_T1: 4
     AUDI_HVBAT_MOD26_T2: 4
