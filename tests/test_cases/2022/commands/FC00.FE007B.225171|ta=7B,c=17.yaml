@@ -1,5 +1,8 @@
 command_id: FC00.FE007B.225171|ta=7B,c=17
 test_cases:
 - expected_values:
+    AUDI_MAXIMUM_CHARGE_V: 4590
+  response: 17FE007B0562517111EE
+- expected_values:
     AUDI_MAXIMUM_CHARGE_V: 8340
   response: 17FE007B056251712094

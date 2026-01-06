@@ -1,0 +1,8 @@
+command_id: FC00.FE007B.22189B|ta=7B,c=17
+test_cases:
+- expected_values:
+    AUDI_HVBAT_AFTER_CONTACTS_V: 1123.5
+  response: 17FE007B0562189B1097
+- expected_values:
+    AUDI_HVBAT_AFTER_CONTACTS_V: 1128.5
+  response: 17FE007B0562189B10A1

@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_I_LIM_DSCH: 153.6
   response: 17FE007B05621E1C0300
+- expected_values:
+    AUDI_HVBAT_I_LIM_DSCH: 220
+  response: 17FE007B05621E1C044C

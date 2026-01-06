@@ -1,14 +1,11 @@
 command_id: 744.7AE.221554|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CHRGR_BOOST_HI_V: 674.25
-  response: 7AE056215540A89
+    AUDI_CHRGR_BOOST_HI_V: 0
+  response: 7AE056215540000
 - expected_values:
     AUDI_CHRGR_BOOST_HI_V: 703.75
   response: 7AE056215540AFF
-- expected_values:
-    AUDI_CHRGR_BOOST_HI_V: 704
-  response: 7AE056215540B00
 - expected_values:
     AUDI_CHRGR_BOOST_HI_V: 768
   response: 7AE056215540C00

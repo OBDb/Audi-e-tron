@@ -1,8 +1,8 @@
 command_id: 7E0.221158
 test_cases:
 - expected_values:
-    AUDI_MAX_DCHA_CUR_2: -860
-  response: 7E805621158DE68
+    AUDI_MAX_DCHA_CUR_2: -1100
+  response: 7E805621158D508
 - expected_values:
     AUDI_MAX_DCHA_CUR_2: -845
   response: 7E805621158DEFE
