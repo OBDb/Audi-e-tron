@@ -1,3 +1,7 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_e-tron"
+  - "https://en.wikipedia.org/wiki/Audi_Q8_e-tron"
+
 generations:
   - name: "First Generation"
     start_year: 2018
