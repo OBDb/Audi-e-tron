@@ -3,7 +3,11 @@ references:
   - "https://en.wikipedia.org/wiki/Audi_Q8_e-tron"
 
 generations:
-  - name: "First Generation"
-    start_year: 2018
-    end_year: 2023
-    description: "The original Audi e-tron was the brand's first mass-produced fully electric vehicle, taking the form of a mid-size luxury SUV. Built on a modified MLB Evo platform, it featured dual electric motors providing quattro all-wheel drive with a total output of up to 402 HP in boost mode. The 95 kWh battery delivered a range of approximately 220-250 miles (depending on the version and test cycle). The e-tron pioneered features like optional virtual side mirrors using cameras and displays, and was capable of 150 kW DC fast charging. The lineup expanded to include the e-tron Sportback with a more coupe-like roofline. The original e-tron established Audi's electric vehicle design language and technology foundation before being renamed Q8 e-tron in 2023 for its major update."
+  - name: "First Generation (Audi e-tron)"
+    start_year: 2019
+    end_year: 2022
+    description: "The original Audi e-tron was the brand's first mass-produced fully electric mid-size luxury SUV, produced from 2018 with first customer deliveries in May 2019. Built on the Volkswagen Group MLB Evo platform, it featured dual electric motors providing quattro all-wheel drive with outputs ranging from 230 kW (313 hp) in the 50 quattro variant to 300-370 kW (408 hp) in boost mode for the 55 quattro variant. The battery options included a 71 kWh pack (50 quattro) or 95 kWh pack (55 quattro), delivering an EPA range of approximately 204-222 miles depending on the version. The e-tron pioneered several advanced features including optional virtual side mirrors using cameras and displays, regenerative braking contributing approximately 30% to the vehicle's range, and DC fast charging capability at 150 kW. The lineup was expanded in 2020 to include the e-tron Sportback, a coupe-style variant with a sloping roofline. In November 2022, the vehicle was facelifted and renamed to the Audi Q8 e-tron, featuring an upgraded 114 kWh battery and enhanced performance characteristics."
+  - name: "Second Generation (Audi Q8 e-tron / Facelifted)"
+    start_year: 2022
+    end_year: 2025
+    description: "The facelifted Audi Q8 e-tron was revealed on November 9, 2022, as the renamed successor to the original Audi e-tron. This major update maintained the same MLB Evo platform but featured a redesigned exterior, improved efficiency, and an upgraded 114 kWh lithium-ion battery (with 106 kWh usable capacity), significantly increasing the EPA range to approximately 285 miles. The Q8 e-tron lineup includes the 50 quattro variant (183 kW/249 hp), the 55 quattro variant (220 kW/300 hp), and the performance-oriented SQ8 e-tron (370 kW/505 hp). DC fast charging speeds were increased to 170 kW for the 55 e-tron and SQ8 e-tron variants, while the 50 e-tron variant charged at 150 kW. Both standard SUV and Sportback variants were available throughout this period. Production ended in February 2025."
