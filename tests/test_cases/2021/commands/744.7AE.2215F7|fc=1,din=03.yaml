@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_CHRGR_3V_SUPPLY: 3.31
   response: 7AE046215F715
+- expected_values:
+    AUDI_CHRGR_3V_SUPPLY: 3.33
+  response: 7AE046215F717
