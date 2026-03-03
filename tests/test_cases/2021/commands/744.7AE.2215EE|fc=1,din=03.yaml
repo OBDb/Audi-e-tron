@@ -1,32 +1,8 @@
 command_id: 744.7AE.2215EE|fc=1,din=03
 test_cases:
 - expected_values:
+    AUDI_CHRGR_DUR_TOTAL: 96249
+  response: 7AE076215EE000177F9
+- expected_values:
     AUDI_CHRGR_DUR_TOTAL: 268037
   response: 7AE076215EE00041705
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 269388
-  response: 7AE076215EE00041C4C
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 269645
-  response: 7AE076215EE00041D4D
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 269867
-  response: 7AE076215EE00041E2B
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 270271
-  response: 7AE076215EE00041FBF
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 270523
-  response: 7AE076215EE000420BB
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 270903
-  response: 7AE076215EE00042237
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 271219
-  response: 7AE076215EE00042373
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 271345
-  response: 7AE076215EE000423F1
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 274012
-  response: 7AE076215EE00042E5C

@@ -1,8 +1,8 @@
-command_id: 746.7B0.222603|fc=1
+command_id: 746.7B0.222603|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CLIMATE_A_C_COMP_SPD: 0
+    AUDI_PQ35_AC_COMP_SPD: 0
   response: '7B0 05 62 26 03 00 00 '
 - expected_values:
-    AUDI_CLIMATE_A_C_COMP_SPD: 0
+    AUDI_PQ35_AC_COMP_SPD: 0
   response: 7B0056226030000
