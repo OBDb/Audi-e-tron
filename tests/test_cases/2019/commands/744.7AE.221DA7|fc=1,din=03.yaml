@@ -26,6 +26,10 @@ test_cases:
   response: 7AE05621DA70194
 - expected_values:
     AUDI_CHRGR_V_OUT: 1
+    AUDI_OBC_HIGH_V_OUTPUT: 41.9
+  response: 7AE05621DA701A3
+- expected_values:
+    AUDI_CHRGR_V_OUT: 1
     AUDI_OBC_HIGH_V_OUTPUT: 42.2
   response: 7AE05621DA701A6
 - expected_values:
