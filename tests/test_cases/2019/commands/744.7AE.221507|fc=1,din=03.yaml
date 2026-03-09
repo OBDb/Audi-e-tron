@@ -1,6 +1,13 @@
 command_id: 744.7AE.221507|fc=1,din=03
 test_cases:
 - expected_values:
+    AUDI_CHRGR_RAIL1_E: 84.9
+    AUDI_CHRGR_RAIL2_E: 78.9
+    AUDI_CHRGR_RAIL3_E: 78.3
+  response: |-
+    7AE100C621507000351
+    7AE2100031500030F00
+- expected_values:
     AUDI_CHRGR_RAIL1_E: 97.1
     AUDI_CHRGR_RAIL2_E: 84
     AUDI_CHRGR_RAIL3_E: 83.1
