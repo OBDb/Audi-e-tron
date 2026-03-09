@@ -7,9 +7,9 @@ test_cases:
     222A0C1
     77A04622A0C62
 - expected_values:
-    AUDI_MQB_BAT_CHG_COND: 88
-    AUDI_SSB_SOC: 88
-  response: 77A04622A0C58
+    AUDI_MQB_BAT_CHG_COND: 45
+    AUDI_SSB_SOC: 45
+  response: 77A04622A0C2D
 - expected_values:
     AUDI_MQB_BAT_CHG_COND: 99
     AUDI_SSB_SOC: 99
