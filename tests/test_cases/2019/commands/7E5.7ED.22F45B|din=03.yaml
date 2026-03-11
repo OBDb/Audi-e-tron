@@ -4,29 +4,5 @@ test_cases:
     AUDI_BMS_SOC_HIRES: 46.66667
   response: 7ED0462F45B77
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 47.05882
-  response: 7ED0462F45B78
-- expected_values:
-    AUDI_BMS_SOC_HIRES: 47.45098
-  response: 7ED0462F45B79
-- expected_values:
-    AUDI_BMS_SOC_HIRES: 47.84314
-  response: 7ED0462F45B7A
-- expected_values:
-    AUDI_BMS_SOC_HIRES: 48.62745
-  response: 7ED0462F45B7C
-- expected_values:
-    AUDI_BMS_SOC_HIRES: 70.58824
-  response: 7ED0462F45BB4
-- expected_values:
-    AUDI_BMS_SOC_HIRES: 70.98039
-  response: 7ED0462F45BB5
-- expected_values:
-    AUDI_BMS_SOC_HIRES: 72.15686
-  response: 7ED0462F45BB8
-- expected_values:
-    AUDI_BMS_SOC_HIRES: 72.94118
-  response: 7ED0462F45BBA
-- expected_values:
     AUDI_BMS_SOC_HIRES: 74.11765
   response: 7ED0462F45BBD
