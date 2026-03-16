@@ -5,19 +5,4 @@ test_cases:
   response: 17FE007B05621E440DD2
 - expected_values:
     AUDI_HVBAT_CELL_V_005: 4.5
-  response: 17FE007B05621E440E05
-- expected_values:
-    AUDI_HVBAT_CELL_V_005: 4.5
-  response: 17FE007B05621E440E48
-- expected_values:
-    AUDI_HVBAT_CELL_V_005: 4.5
-  response: 17FE007B05621E440E49
-- expected_values:
-    AUDI_HVBAT_CELL_V_005: 4.5
-  response: 17FE007B05621E440E4A
-- expected_values:
-    AUDI_HVBAT_CELL_V_005: 4.5
   response: 17FE007B05621E440F03
-- expected_values:
-    AUDI_HVBAT_CELL_V_005: 4.5
-  response: 17FE007B05621E440F05
