@@ -37,6 +37,12 @@ test_cases:
     77A100D622AB4000000
     77A21F0000000000015
 - expected_values:
+    AUDI_HVBAT_CSMP_AVG_INT: 45
+    AUDI_RANGE_EST_INT: 256
+  response: |-
+    77A100D622AB4000001
+    77A210000000000002D
+- expected_values:
     AUDI_HVBAT_CSMP_AVG_INT: 46
     AUDI_RANGE_EST_INT: 261
   response: |-
