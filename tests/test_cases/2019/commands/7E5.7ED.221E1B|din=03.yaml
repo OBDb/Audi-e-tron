@@ -4,8 +4,8 @@ test_cases:
     AUDI_BMS_I_CHG_LIM_DYN: 422
   response: 7ED05621E1B01A6
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_DYN: 508
-  response: 7ED05621E1B01FC
+    AUDI_BMS_I_CHG_LIM_DYN: 509
+  response: 7ED05621E1B01FD
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_DYN: 519
-  response: 7ED05621E1B0207
+    AUDI_BMS_I_CHG_LIM_DYN: 518
+  response: 7ED05621E1B0206
