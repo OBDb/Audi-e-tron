@@ -4,5 +4,5 @@ test_cases:
     AUDI_BMS_SOC_HIRES: 46.27451
   response: 7ED0462F45B76
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 74.5098
-  response: 7ED0462F45BBE
+    AUDI_BMS_SOC_HIRES: 87.45098
+  response: 7ED0462F45BDF
