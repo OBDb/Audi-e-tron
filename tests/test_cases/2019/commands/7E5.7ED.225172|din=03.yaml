@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_BMS_V_CHG_PRED_MIN: 411.2
   response: 7ED056251721010
+- expected_values:
+    AUDI_BMS_V_CHG_PRED_MIN: 444.8
+  response: 7ED056251721160

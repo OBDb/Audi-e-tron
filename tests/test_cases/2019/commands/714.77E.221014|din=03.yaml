@@ -8,10 +8,10 @@ test_cases:
     2210141
     77E046210149D
 - expected_values:
-    AUDI_AAT: 62
-    AUDI_DASH_AMBIENT_AIR_T: 6
-    AUDI_PQ35_AMB_T: 6
-  response: '77E0462101470'
+    AUDI_AAT: 58
+    AUDI_DASH_AMBIENT_AIR_T: 4
+    AUDI_PQ35_AMB_T: 4
+  response: 77E046210146C
 - expected_values:
     AUDI_AAT: 109
     AUDI_DASH_AMBIENT_AIR_T: 29.5
