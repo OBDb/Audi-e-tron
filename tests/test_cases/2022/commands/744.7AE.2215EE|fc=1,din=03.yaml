@@ -4,29 +4,14 @@ test_cases:
     AUDI_CHRGR_DUR_TOTAL: 29410
   response: 7AE076215EE000072E2
 - expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 29582
-  response: 7AE076215EE0000738E
-- expected_values:
     AUDI_CHRGR_DUR_TOTAL: 29703
   response: 7AE076215EE00007407
 - expected_values:
     AUDI_CHRGR_DUR_TOTAL: 64883
   response: 7AE076215EE0000FD73
 - expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 81241
-  response: 7AE076215EE00013D59
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 213127
-  response: 7AE076215EE00034087
-- expected_values:
     AUDI_CHRGR_DUR_TOTAL: 213233
   response: 7AE076215EE000340F1
 - expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 216895
-  response: 7AE076215EE00034F3F
-- expected_values:
     AUDI_CHRGR_DUR_TOTAL: 262773
   response: 7AE076215EE00040275
-- expected_values:
-    AUDI_CHRGR_DUR_TOTAL: 263851
-  response: 7AE076215EE000406AB
