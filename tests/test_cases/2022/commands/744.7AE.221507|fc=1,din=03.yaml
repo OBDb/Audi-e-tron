@@ -24,6 +24,13 @@ test_cases:
 
     ERR91
 - expected_values:
+    AUDI_CHRGR_RAIL1_E: 19.7
+    AUDI_CHRGR_RAIL2_E: 15.9
+    AUDI_CHRGR_RAIL3_E: 15.9
+  response: |-
+    7AE100C6215070000C5
+    7AE2100009F00009F55
+- expected_values:
     AUDI_CHRGR_RAIL1_E: 33.2
     AUDI_CHRGR_RAIL2_E: 30.8
     AUDI_CHRGR_RAIL3_E: 29.8
