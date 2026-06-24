@@ -1,0 +1,14 @@
+command_id: 742.7AC.2227D6|fc=1
+test_cases:
+- expected_values:
+    AUDI_PTC_PUMP_PWR: 0
+    AUDI_PTC_PUMP_RPM: 0
+  response: 7AC066227D6000000
+- expected_values:
+    AUDI_PTC_PUMP_PWR: 0
+    AUDI_PTC_PUMP_RPM: 0
+  response: 7AC066227D600D500
+- expected_values:
+    AUDI_PTC_PUMP_PWR: 920
+    AUDI_PTC_PUMP_RPM: 2700
+  response: 7AC066227D609C617
