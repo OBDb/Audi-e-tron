@@ -1,9 +1,9 @@
 command_id: 7E5.7ED.221E3B|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_CELL_V_SUM: 391.5
-    AUDI_HVBAT_VOLTS: 978.75
-  response: 7ED05621E3B0F4B
+    AUDI_BMS_CELL_V_SUM: 387.5
+    AUDI_HVBAT_VOLTS: 968.75
+  response: 7ED05621E3B0F23
 - expected_values:
     AUDI_BMS_CELL_V_SUM: 691.1
     AUDI_HVBAT_VOLTS: 1000
