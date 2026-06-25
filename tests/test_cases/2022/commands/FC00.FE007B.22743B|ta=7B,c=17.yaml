@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_CIRC_PUMP_FLOW: 100
   response: 17FE007B0462743B18
+- expected_values:
+    AUDI_CIRC_PUMP_FLOW: 100
+  response: 17FE007B0462743B72
