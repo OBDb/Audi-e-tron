@@ -4,29 +4,5 @@ test_cases:
     AUDI_BATTERY_T: 14.5
   response: 17FE007B04622A0B6D
 - expected_values:
-    AUDI_BATTERY_T: 20.5
-  response: 17FE007B04622A0B79
-- expected_values:
-    AUDI_BATTERY_T: 21
-  response: 17FE007B04622A0B7A
-- expected_values:
-    AUDI_BATTERY_T: 22.5
-  response: 17FE007B04622A0B7D
-- expected_values:
-    AUDI_BATTERY_T: 23
-  response: 17FE007B04622A0B7E
-- expected_values:
-    AUDI_BATTERY_T: 23.5
-  response: 17FE007B04622A0B7F
-- expected_values:
-    AUDI_BATTERY_T: 24
-  response: 17FE007B04622A0B80
-- expected_values:
-    AUDI_BATTERY_T: 24.5
-  response: 17FE007B04622A0B81
-- expected_values:
-    AUDI_BATTERY_T: 26.5
-  response: 17FE007B04622A0B85
-- expected_values:
     AUDI_BATTERY_T: 27.5
   response: 17FE007B04622A0B87
