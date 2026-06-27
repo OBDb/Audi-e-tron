@@ -4,8 +4,8 @@ test_cases:
     AUDI_BMS_V_CHG_DYN_MIN: 390.5
   response: 7ED056251740F41
 - expected_values:
-    AUDI_BMS_V_CHG_DYN_MIN: 768
-  response: 7ED056251741E00
+    AUDI_BMS_V_CHG_DYN_MIN: 435.2
+  response: 7ED056251741100
 - expected_values:
     AUDI_BMS_V_CHG_DYN_MIN: 774
   response: 7ED056251741E3C
