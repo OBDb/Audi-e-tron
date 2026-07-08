@@ -4,10 +4,10 @@ test_cases:
     AUDI_RANGE_EST_CAN: 251
   response: "77A 10 0D 62 2A B5 00 FB 00 \n77A 21 00 00 FB 07 FF 00 00 "
 - expected_values:
-    AUDI_RANGE_EST_CAN: 49
+    AUDI_RANGE_EST_CAN: 43
   response: |-
-    77A100D622AB5003100
-    77A2100003107FF0000
+    77A100D622AB5002B00
+    77A2100002B07FF0000
 - expected_values:
     AUDI_RANGE_EST_CAN: 58
   response: |-

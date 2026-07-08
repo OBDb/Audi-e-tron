@@ -6,6 +6,11 @@ test_cases:
     7AE100D62496500497F
     7AE21D40115E000D077
 - expected_values:
+    AUDI_HVBAT_KWH_V2: 9.9
+  response: |-
+    7AE100D62496500C680
+    7AE210D011770014493
+- expected_values:
     AUDI_HVBAT_KWH_V2: 10.6
   response: |-
     7AE100D62496500D47F
