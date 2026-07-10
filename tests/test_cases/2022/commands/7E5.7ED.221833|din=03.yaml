@@ -1,0 +1,27 @@
+command_id: 7E5.7ED.221833|din=03
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MOD19_T1: -4
+    AUDI_HVBAT_MOD19_T2: -4
+    AUDI_HVBAT_MOD19_T3: -1
+  response: 7ED066218332E2E31
+- expected_values:
+    AUDI_HVBAT_MOD19_T1: 4
+    AUDI_HVBAT_MOD19_T2: 4
+    AUDI_HVBAT_MOD19_T3: 8
+  response: 7ED0662183336363A
+- expected_values:
+    AUDI_HVBAT_MOD19_T1: 29
+    AUDI_HVBAT_MOD19_T2: 29
+    AUDI_HVBAT_MOD19_T3: 47
+  response: 7ED066218334F4F61
+- expected_values:
+    AUDI_HVBAT_MOD19_T1: 34
+    AUDI_HVBAT_MOD19_T2: 35
+    AUDI_HVBAT_MOD19_T3: 40
+  response: 7ED0662183354555A
+- expected_values:
+    AUDI_HVBAT_MOD19_T1: 35
+    AUDI_HVBAT_MOD19_T2: 35
+    AUDI_HVBAT_MOD19_T3: 41
+  response: 7ED0662183355555B
