@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.22180C|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_BMCE_T1: -3
+  response: 7ED0462180C2F
+- expected_values:
+    AUDI_BMS_BMCE_T1: 4
+  response: 7ED0462180C36
+- expected_values:
+    AUDI_BMS_BMCE_T1: 23
+  response: 7ED0462180C49

@@ -1,0 +1,40 @@
+command_id: FC00.FE007B.221E34|ta=7B,c=17
+test_cases:
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+  response: 17FE007B06621E34844E0E
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+  response: 17FE007B06621E34865601
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+  response: 17FE007B06621E34898A21
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+  response: 17FE007B06621E348C0014
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+  response: 17FE007B06621E348DFE15
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+  response: 17FE007B06621E34A21C1D
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+    AUDI_HVBAT_CELL_V_MIN_ID: 105
+  response: 17FE007B07621E340D680069
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+    AUDI_HVBAT_CELL_V_MIN_ID: 1
+  response: 17FE007B07621E340E1F0001
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+    AUDI_HVBAT_CELL_V_MIN_ID: 105
+  response: 17FE007B07621E340EFF0069
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+    AUDI_HVBAT_CELL_V_MIN_ID: 105
+  response: 17FE007B07621E340F010069
+- expected_values:
+    AUDI_HVBAT_CELL_V_MIN: 15.997
+    AUDI_HVBAT_CELL_V_MIN_ID: 2
+  response: 17FE007B07621E3410070002
