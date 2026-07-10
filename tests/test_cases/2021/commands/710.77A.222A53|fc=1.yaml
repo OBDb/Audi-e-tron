@@ -1,0 +1,37 @@
+command_id: 710.77A.222A53|fc=1
+test_cases:
+- expected_values:
+    AUDI_DCDC_I: 0
+    AUDI_DCDC_I_RSV: 0
+    AUDI_DCDC_V_LOW: 12.4
+  response: |-
+    77A1008622A537C01FF
+    77A2101FFAAAAAAAAAA
+- expected_values:
+    AUDI_DCDC_I: 32
+    AUDI_DCDC_I_RSV: 217
+    AUDI_DCDC_V_LOW: 13.2
+  response: |-
+    77A1008622A5384021F
+    77A2102D8AAAAAAAAAA
+- expected_values:
+    AUDI_DCDC_I: 24
+    AUDI_DCDC_I_RSV: 180
+    AUDI_DCDC_V_LOW: 14.6
+  response: |-
+    77A1008622A53920217
+    77A2102B3AAAAAAAAAA
+- expected_values:
+    AUDI_DCDC_I: 46
+    AUDI_DCDC_I_RSV: 161
+    AUDI_DCDC_V_LOW: 14.7
+  response: |-
+    77A1008622A5393022D
+    77A2102A0AAAAAAAAAA
+- expected_values:
+    AUDI_DCDC_I: 37
+    AUDI_DCDC_I_RSV: 196
+    AUDI_DCDC_V_LOW: 15.5
+  response: |-
+    77A1008622A539B0224
+    77A2102C3AAAAAAAAAA
