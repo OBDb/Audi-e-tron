@@ -1,0 +1,8 @@
+command_id: 744.7AE.221557|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_CHRGR_BOOST_LO_I: -112
+  response: 7AE056215570640
+- expected_values:
+    AUDI_CHRGR_BOOST_LO_I: -111
+  response: 7AE056215570644
