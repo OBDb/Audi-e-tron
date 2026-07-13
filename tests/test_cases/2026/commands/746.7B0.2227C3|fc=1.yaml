@@ -1,0 +1,7 @@
+command_id: 746.7B0.2227C3|fc=1
+test_cases:
+- expected_values:
+    AUDI_HVAC_OUTSIDE_HUM: 94.5
+  response: |-
+    7B0100C6227C300D301
+    7B02105015D01BD00AA
