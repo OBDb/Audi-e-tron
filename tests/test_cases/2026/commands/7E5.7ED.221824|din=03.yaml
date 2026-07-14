@@ -3,6 +3,11 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD4_T1: 23
     AUDI_HVBAT_MOD4_T2: 23
+    AUDI_HVBAT_MOD4_T3: 26
+  response: 7ED0662182449494C
+- expected_values:
+    AUDI_HVBAT_MOD4_T1: 23
+    AUDI_HVBAT_MOD4_T2: 23
     AUDI_HVBAT_MOD4_T3: 27
   response: 7ED0662182449494D
 - expected_values:
