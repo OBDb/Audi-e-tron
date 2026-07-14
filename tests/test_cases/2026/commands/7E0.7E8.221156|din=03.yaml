@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.221156|din=03
 test_cases:
 - expected_values:
+    AUDI_HVBAT_SOC: 61
+  response: 7E8046211567A
+- expected_values:
+    AUDI_HVBAT_SOC: 61.5
+  response: 7E8046211567B
+- expected_values:
     AUDI_HVBAT_SOC: 63
   response: 7E8046211567E
 - expected_values:
