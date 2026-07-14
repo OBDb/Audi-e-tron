@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.221E1D|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_I_CHG_LIM_PRED: 379
+  response: 7ED05621E1D017B
+- expected_values:
+    AUDI_BMS_I_CHG_LIM_PRED: 383
+  response: 7ED05621E1D017F
+- expected_values:
+    AUDI_BMS_I_CHG_LIM_PRED: 393
+  response: 7ED05621E1D0189

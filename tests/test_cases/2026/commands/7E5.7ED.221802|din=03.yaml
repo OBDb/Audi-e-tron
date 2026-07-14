@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.221802|din=03
+test_cases:
+- expected_values:
+    AUDI_BMS_I: -92
+  response: 7ED06621802022669
+- expected_values:
+    AUDI_BMS_I: 0.16
+  response: 7ED06621802024A51
+- expected_values:
+    AUDI_BMS_I: 25.76
+  response: 7ED0662180202542C
