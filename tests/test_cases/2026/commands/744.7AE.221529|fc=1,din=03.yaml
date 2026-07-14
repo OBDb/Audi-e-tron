@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_CHRGR_PRX_V_CONN_B: 4668
   response: 7AE05621529123C
+- expected_values:
+    AUDI_CHRGR_PRX_V_CONN_B: 4678
+  response: 7AE056215291246
