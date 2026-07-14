@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_BMS_COOL_OUT_T: 22
   response: 7ED0462181D48
+- expected_values:
+    AUDI_BMS_COOL_OUT_T: 23
+  response: 7ED0462181D49
+- expected_values:
+    AUDI_BMS_COOL_OUT_T: 24
+  response: 7ED0462181D4A
