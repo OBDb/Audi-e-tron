@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_BMS_COOL_PUMP_CTL: 12
   response: 7ED066280EC0A000C
+- expected_values:
+    AUDI_BMS_COOL_PUMP_CTL: 14
+  response: 7ED066280EC0A000E
