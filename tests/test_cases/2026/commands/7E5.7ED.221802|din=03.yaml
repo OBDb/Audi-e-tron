@@ -4,6 +4,9 @@ test_cases:
     AUDI_BMS_I: -92
   response: 7ED06621802022669
 - expected_values:
+    AUDI_BMS_I: -4.96
+  response: 7ED066218020248BE
+- expected_values:
     AUDI_BMS_I: -2.4
   response: 7ED0662180202491D
 - expected_values:
@@ -15,3 +18,6 @@ test_cases:
 - expected_values:
     AUDI_BMS_I: 25.76
   response: 7ED0662180202542C
+- expected_values:
+    AUDI_BMS_I: 38.56
+  response: 7ED06621802025966

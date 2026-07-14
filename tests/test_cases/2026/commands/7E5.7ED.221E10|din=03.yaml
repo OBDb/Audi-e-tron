@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_BMS_T_AVG: 23
   response: 7ED04621E107B
+- expected_values:
+    AUDI_BMS_T_AVG: 24
+  response: 7ED04621E107C
+- expected_values:
+    AUDI_BMS_T_AVG: 25
+  response: 7ED04621E107D
