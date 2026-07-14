@@ -4,3 +4,15 @@ test_cases:
     AUDI_MQB_BAT_V_REST: 13.4
     AUDI_SSB_V_REST: 18.31765
   response: 77A04622A102C
+- expected_values:
+    AUDI_MQB_BAT_V_REST: 13.8
+    AUDI_SSB_V_REST: 19.16471
+  response: 77A04622A1030
+- expected_values:
+    AUDI_MQB_BAT_V_REST: 13.9
+    AUDI_SSB_V_REST: 19.37647
+  response: 77A04622A1031
+- expected_values:
+    AUDI_MQB_BAT_V_REST: 14
+    AUDI_SSB_V_REST: 19.58824
+  response: 77A04622A1032

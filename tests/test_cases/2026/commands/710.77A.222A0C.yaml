@@ -4,3 +4,15 @@ test_cases:
     AUDI_MQB_BAT_CHG_COND: 95
     AUDI_SSB_SOC: 95
   response: 77A04622A0C5F
+- expected_values:
+    AUDI_MQB_BAT_CHG_COND: 97
+    AUDI_SSB_SOC: 97
+  response: 77A04622A0C61
+- expected_values:
+    AUDI_MQB_BAT_CHG_COND: 98
+    AUDI_SSB_SOC: 98
+  response: 77A04622A0C62
+- expected_values:
+    AUDI_MQB_BAT_CHG_COND: 99
+    AUDI_SSB_SOC: 99
+  response: 77A04622A0C63
