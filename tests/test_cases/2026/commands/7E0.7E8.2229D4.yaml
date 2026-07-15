@@ -4,6 +4,9 @@ test_cases:
     AUDI_ENG_TRQ_REQ_1: 0
   response: 7E8056229D40000
 - expected_values:
+    AUDI_ENG_TRQ_REQ_1: 26.9
+  response: 7E8056229D4010D
+- expected_values:
     AUDI_ENG_TRQ_REQ_1: 65.6
   response: 7E8056229D40290
 - expected_values:
