@@ -1,6 +1,16 @@
 command_id: 7E5.7ED.221835|din=03
 test_cases:
 - expected_values:
+    AUDI_HVBAT_MOD21_T1: 21
+    AUDI_HVBAT_MOD21_T2: 21
+    AUDI_HVBAT_MOD21_T3: 26
+  response: 7ED0662183547474C
+- expected_values:
+    AUDI_HVBAT_MOD21_T1: 22
+    AUDI_HVBAT_MOD21_T2: 21
+    AUDI_HVBAT_MOD21_T3: 27
+  response: 7ED0662183548474D
+- expected_values:
     AUDI_HVBAT_MOD21_T1: 24
     AUDI_HVBAT_MOD21_T2: 24
     AUDI_HVBAT_MOD21_T3: 29
@@ -20,3 +30,8 @@ test_cases:
     AUDI_HVBAT_MOD21_T2: 26
     AUDI_HVBAT_MOD21_T3: 30
   response: 7ED066218354C4C50
+- expected_values:
+    AUDI_HVBAT_MOD21_T1: 26
+    AUDI_HVBAT_MOD21_T2: 26
+    AUDI_HVBAT_MOD21_T3: 31
+  response: 7ED066218354C4C51

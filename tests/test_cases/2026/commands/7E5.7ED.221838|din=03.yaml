@@ -1,6 +1,16 @@
 command_id: 7E5.7ED.221838|din=03
 test_cases:
 - expected_values:
+    AUDI_HVBAT_MOD24_T1: 21
+    AUDI_HVBAT_MOD24_T2: 21
+    AUDI_HVBAT_MOD24_T3: 26
+  response: 7ED0662183847474C
+- expected_values:
+    AUDI_HVBAT_MOD24_T1: 22
+    AUDI_HVBAT_MOD24_T2: 22
+    AUDI_HVBAT_MOD24_T3: 27
+  response: 7ED0662183848484D
+- expected_values:
     AUDI_HVBAT_MOD24_T1: 23
     AUDI_HVBAT_MOD24_T2: 23
     AUDI_HVBAT_MOD24_T3: 28
@@ -20,3 +30,13 @@ test_cases:
     AUDI_HVBAT_MOD24_T2: 25
     AUDI_HVBAT_MOD24_T3: 29
   response: 7ED066218384B4B4F
+- expected_values:
+    AUDI_HVBAT_MOD24_T1: 25
+    AUDI_HVBAT_MOD24_T2: 25
+    AUDI_HVBAT_MOD24_T3: 31
+  response: 7ED066218384B4B51
+- expected_values:
+    AUDI_HVBAT_MOD24_T1: 25
+    AUDI_HVBAT_MOD24_T2: 26
+    AUDI_HVBAT_MOD24_T3: 31
+  response: 7ED066218384B4C51

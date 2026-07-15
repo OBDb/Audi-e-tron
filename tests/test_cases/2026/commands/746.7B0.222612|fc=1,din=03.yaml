@@ -6,36 +6,6 @@ test_cases:
     AUDI_T_AFTER_EVAPORATOR: 0
   response: 7B0056226120016
 - expected_values:
-    AUDI_HVAC_EVAP_T: 2.4
-    AUDI_PQ35_EVAP_OUT_T: 0
-    AUDI_T_AFTER_EVAPORATOR: 0
-  response: 7B0056226120018
-- expected_values:
-    AUDI_HVAC_EVAP_T: 2.8
-    AUDI_PQ35_EVAP_OUT_T: 0
-    AUDI_T_AFTER_EVAPORATOR: 0
-  response: 7B005622612001C
-- expected_values:
-    AUDI_HVAC_EVAP_T: 3
-    AUDI_PQ35_EVAP_OUT_T: 0
-    AUDI_T_AFTER_EVAPORATOR: 0
-  response: 7B005622612001E
-- expected_values:
-    AUDI_HVAC_EVAP_T: 3.1
-    AUDI_PQ35_EVAP_OUT_T: 0
-    AUDI_T_AFTER_EVAPORATOR: 0
-  response: 7B005622612001F
-- expected_values:
-    AUDI_HVAC_EVAP_T: 7.3
-    AUDI_PQ35_EVAP_OUT_T: 0
-    AUDI_T_AFTER_EVAPORATOR: 0
-  response: 7B0056226120049
-- expected_values:
-    AUDI_HVAC_EVAP_T: 7.9
-    AUDI_PQ35_EVAP_OUT_T: 0
-    AUDI_T_AFTER_EVAPORATOR: 0
-  response: 7B005622612004F
-- expected_values:
     AUDI_HVAC_EVAP_T: 19.8
     AUDI_PQ35_EVAP_OUT_T: 0
     AUDI_T_AFTER_EVAPORATOR: 0
