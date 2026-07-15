@@ -4,20 +4,8 @@ test_cases:
     AUDI_BMS_I_CHG_LIM_DYN: 379
   response: 7ED05621E1B017B
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_DYN: 383
-  response: 7ED05621E1B017F
+    AUDI_BMS_I_CHG_LIM_DYN: 476
+  response: 7ED05621E1B01DC
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_DYN: 393
-  response: 7ED05621E1B0189
-- expected_values:
-    AUDI_BMS_I_CHG_LIM_DYN: 409
-  response: 7ED05621E1B0199
-- expected_values:
-    AUDI_BMS_I_CHG_LIM_DYN: 412
-  response: 7ED05621E1B019C
-- expected_values:
-    AUDI_BMS_I_CHG_LIM_DYN: 442
-  response: 7ED05621E1B01BA
-- expected_values:
-    AUDI_BMS_I_CHG_LIM_DYN: 447
-  response: 7ED05621E1B01BF
+    AUDI_BMS_I_CHG_LIM_DYN: 518
+  response: 7ED05621E1B0206
