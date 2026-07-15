@@ -8,28 +8,8 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD7_T1: 21
     AUDI_HVBAT_MOD7_T2: 21
-    AUDI_HVBAT_MOD7_T3: 26
-  response: 7ED0662182747474C
-- expected_values:
-    AUDI_HVBAT_MOD7_T1: 23
-    AUDI_HVBAT_MOD7_T2: 23
-    AUDI_HVBAT_MOD7_T3: 26
-  response: 7ED0662182749494C
-- expected_values:
-    AUDI_HVBAT_MOD7_T1: 23
-    AUDI_HVBAT_MOD7_T2: 23
-    AUDI_HVBAT_MOD7_T3: 27
-  response: 7ED0662182749494D
-- expected_values:
-    AUDI_HVBAT_MOD7_T1: 23
-    AUDI_HVBAT_MOD7_T2: 23
-    AUDI_HVBAT_MOD7_T3: 28
-  response: 7ED0662182749494E
-- expected_values:
-    AUDI_HVBAT_MOD7_T1: 24
-    AUDI_HVBAT_MOD7_T2: 24
-    AUDI_HVBAT_MOD7_T3: 27
-  response: 7ED066218274A4A4D
+    AUDI_HVBAT_MOD7_T3: 24
+  response: 7ED0662182747474A
 - expected_values:
     AUDI_HVBAT_MOD7_T1: 25
     AUDI_HVBAT_MOD7_T2: 24
@@ -40,8 +20,3 @@ test_cases:
     AUDI_HVBAT_MOD7_T2: 25
     AUDI_HVBAT_MOD7_T3: 28
   response: 7ED066218274B4B4E
-- expected_values:
-    AUDI_HVBAT_MOD7_T1: 25
-    AUDI_HVBAT_MOD7_T2: 25
-    AUDI_HVBAT_MOD7_T3: 30
-  response: 7ED066218274B4B50

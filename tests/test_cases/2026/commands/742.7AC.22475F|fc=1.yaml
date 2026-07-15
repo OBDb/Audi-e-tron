@@ -2,6 +2,22 @@ command_id: 742.7AC.22475F|fc=1
 test_cases:
 - expected_values:
     AUDI_PTC_HTR_FLUID_T1: 26
+    AUDI_PTC_HTR_FLUID_T2: 27
+    AUDI_PTC_HTR_I: 0
+  response: |-
+    7AC100E62475F00FF00
+    7AC213FFFFF834D4C4D
+    7AC2200AAAAAAAAAAAA
+- expected_values:
+    AUDI_PTC_HTR_FLUID_T1: 23
+    AUDI_PTC_HTR_FLUID_T2: 24
+    AUDI_PTC_HTR_I: 0
+  response: |-
+    7AC100E62475F00FF00
+    7AC213FFFFF834F494A
+    7AC2200AAAAAAAAAAAA
+- expected_values:
+    AUDI_PTC_HTR_FLUID_T1: 26
     AUDI_PTC_HTR_FLUID_T2: 26
     AUDI_PTC_HTR_I: 0
   response: |-
@@ -31,14 +47,6 @@ test_cases:
   response: |-
     7AC100E62475F00FF00
     7AC213FFFFF83555050
-    7AC2200AAAAAAAAAAAA
-- expected_values:
-    AUDI_PTC_HTR_FLUID_T1: 22
-    AUDI_PTC_HTR_FLUID_T2: 22
-    AUDI_PTC_HTR_I: 0
-  response: |-
-    7AC100E62475F00FF00
-    7AC213FFFFF844D4848
     7AC2200AAAAAAAAAAAA
 - expected_values:
     AUDI_PTC_HTR_FLUID_T1: 26

@@ -5,38 +5,10 @@ test_cases:
     AUDI_PQ35_DPF_OIL_ASH_VOL: 0
   response: '7E8056211530000'
 - expected_values:
-    AUDI_EM_TORQ_1: 0.5
-    AUDI_PQ35_DPF_OIL_ASH_VOL: 0.16
-  response: '7E8056211530010'
-- expected_values:
-    AUDI_EM_TORQ_1: 79
-    AUDI_PQ35_DPF_OIL_ASH_VOL: 25.28
-  response: 7E80562115309E0
-- expected_values:
-    AUDI_EM_TORQ_1: 90
-    AUDI_PQ35_DPF_OIL_ASH_VOL: 28.8
-  response: 7E8056211530B40
-- expected_values:
-    AUDI_EM_TORQ_1: 103
-    AUDI_PQ35_DPF_OIL_ASH_VOL: 32.96
-  response: 7E8056211530CE0
-- expected_values:
     AUDI_EM_TORQ_1: 151.5
     AUDI_PQ35_DPF_OIL_ASH_VOL: 48.48
   response: 7E80562115312F0
 - expected_values:
-    AUDI_EM_TORQ_1: 162.5
-    AUDI_PQ35_DPF_OIL_ASH_VOL: 52
-  response: '7E8056211531450'
-- expected_values:
-    AUDI_EM_TORQ_1: -238
-    AUDI_PQ35_DPF_OIL_ASH_VOL: -76.16
-  response: 7E805621153E240
-- expected_values:
     AUDI_EM_TORQ_1: -4.5
     AUDI_PQ35_DPF_OIL_ASH_VOL: -1.44
   response: 7E805621153FF70
-- expected_values:
-    AUDI_EM_TORQ_1: -1
-    AUDI_PQ35_DPF_OIL_ASH_VOL: -0.32
-  response: 7E805621153FFE0

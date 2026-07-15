@@ -7,5 +7,8 @@ test_cases:
     AUDI_BMS_COOL_PUMP_PWR_SP: 13
   response: 7ED0462192B1A
 - expected_values:
+    AUDI_BMS_COOL_PUMP_PWR_SP: 14
+  response: 7ED0462192B1C
+- expected_values:
     AUDI_BMS_COOL_PUMP_PWR_SP: 46
   response: 7ED0462192B5C
