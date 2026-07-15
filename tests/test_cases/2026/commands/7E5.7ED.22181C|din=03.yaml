@@ -4,6 +4,9 @@ test_cases:
     AUDI_BMS_COOL_IN_T: 20
   response: 7ED0462181C46
 - expected_values:
+    AUDI_BMS_COOL_IN_T: 21
+  response: 7ED0462181C47
+- expected_values:
     AUDI_BMS_COOL_IN_T: 22
   response: 7ED0462181C48
 - expected_values:
