@@ -1,8 +1,8 @@
 command_id: 7E5.7ED.225174|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_V_CHG_DYN_MIN: 787.1
-  response: 7ED056251741EBF
+    AUDI_BMS_V_CHG_DYN_MIN: 785.8
+  response: 7ED056251741EB2
 - expected_values:
     AUDI_BMS_V_CHG_DYN_MIN: 792.7
   response: 7ED056251741EF7

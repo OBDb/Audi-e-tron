@@ -10,5 +10,5 @@ test_cases:
     AUDI_MAX_DCHA_CUR_2: -999
   response: 7E805621158D8FA
 - expected_values:
-    AUDI_MAX_DCHA_CUR_2: -997
-  response: 7E805621158D90E
+    AUDI_MAX_DCHA_CUR_2: -998
+  response: 7E805621158D904
