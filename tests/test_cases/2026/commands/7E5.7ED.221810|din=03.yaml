@@ -4,5 +4,5 @@ test_cases:
     AUDI_BMS_BMCE_T_CAN: 20.5
   response: 7ED0462181079
 - expected_values:
-    AUDI_BMS_BMCE_T_CAN: 25.5
-  response: 7ED0462181083
+    AUDI_BMS_BMCE_T_CAN: 26
+  response: 7ED0462181084
