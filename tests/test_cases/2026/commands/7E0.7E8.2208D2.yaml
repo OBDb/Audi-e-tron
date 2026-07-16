@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2208D2
 test_cases:
 - expected_values:
-    AUDI_HVBAT_SOC_DISP_V2: 36.11
-  response: 7E8076208D20E1B0E1B
+    AUDI_HVBAT_SOC_DISP_V2: 29.09
+  response: 7E8076208D20B5D0B5D
 - expected_values:
-    AUDI_HVBAT_SOC_DISP_V2: 38.45
-  response: 7E8076208D20F050F05
+    AUDI_HVBAT_SOC_DISP_V2: 33.29
+  response: 7E8076208D20D010D01
 - expected_values:
     AUDI_HVBAT_SOC_DISP_V2: 61.38
   response: 7E8076208D217FA17FA
