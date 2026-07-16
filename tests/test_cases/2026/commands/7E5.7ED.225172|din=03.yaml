@@ -1,6 +1,9 @@
 command_id: 7E5.7ED.225172|din=03
 test_cases:
 - expected_values:
+    AUDI_BMS_V_CHG_PRED_MIN: 738
+  response: 7ED056251721CD4
+- expected_values:
     AUDI_BMS_V_CHG_PRED_MIN: 742
   response: 7ED056251721CFC
 - expected_values:
