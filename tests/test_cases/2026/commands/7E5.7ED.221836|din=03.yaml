@@ -8,10 +8,10 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD22_T1: 26
     AUDI_HVBAT_MOD22_T2: 26
-    AUDI_HVBAT_MOD22_T3: 30
-  response: 7ED066218364C4C50
-- expected_values:
-    AUDI_HVBAT_MOD22_T1: 26
-    AUDI_HVBAT_MOD22_T2: 26
     AUDI_HVBAT_MOD22_T3: 31
   response: 7ED066218364C4C51
+- expected_values:
+    AUDI_HVBAT_MOD22_T1: 27
+    AUDI_HVBAT_MOD22_T2: 27
+    AUDI_HVBAT_MOD22_T3: 30
+  response: 7ED066218364D4D50
