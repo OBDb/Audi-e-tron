@@ -7,5 +7,5 @@ test_cases:
     AUDI_VSS_DIR: 7.92188
   response: 7E80562115B01FB
 - expected_values:
-    AUDI_VSS_DIR: 53.42188
-  response: 7E80562115B0D5B
+    AUDI_VSS_DIR: 60.29688
+  response: 7E80562115B0F13
