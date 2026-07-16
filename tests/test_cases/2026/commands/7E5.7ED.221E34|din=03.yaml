@@ -1,9 +1,9 @@
 command_id: 7E5.7ED.221E34|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_CELL_V_MIN: 3.58
-    AUDI_BMS_CELL_V_MIN_IDX: 65
-  response: 7ED06621E348BD841
+    AUDI_BMS_CELL_V_MIN: 3.577
+    AUDI_BMS_CELL_V_MIN_IDX: 125
+  response: 7ED06621E348BBA7D
 - expected_values:
     AUDI_BMS_CELL_V_MIN: 3.661
     AUDI_BMS_CELL_V_MIN_IDX: 125
