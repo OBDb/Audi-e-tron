@@ -13,5 +13,15 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD19_T1: 26
     AUDI_HVBAT_MOD19_T2: 26
+    AUDI_HVBAT_MOD19_T3: 28
+  response: 7ED066218334C4C4E
+- expected_values:
+    AUDI_HVBAT_MOD19_T1: 26
+    AUDI_HVBAT_MOD19_T2: 26
     AUDI_HVBAT_MOD19_T3: 31
   response: 7ED066218334C4C51
+- expected_values:
+    AUDI_HVBAT_MOD19_T1: 27
+    AUDI_HVBAT_MOD19_T2: 26
+    AUDI_HVBAT_MOD19_T3: 30
+  response: 7ED066218334D4C50

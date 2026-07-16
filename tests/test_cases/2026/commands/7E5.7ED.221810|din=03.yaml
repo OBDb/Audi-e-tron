@@ -4,26 +4,5 @@ test_cases:
     AUDI_BMS_BMCE_T_CAN: 20.5
   response: 7ED0462181079
 - expected_values:
-    AUDI_BMS_BMCE_T_CAN: 21
-  response: 7ED046218107A
-- expected_values:
-    AUDI_BMS_BMCE_T_CAN: 21.5
-  response: 7ED046218107B
-- expected_values:
-    AUDI_BMS_BMCE_T_CAN: 22
-  response: 7ED046218107C
-- expected_values:
-    AUDI_BMS_BMCE_T_CAN: 22.5
-  response: 7ED046218107D
-- expected_values:
-    AUDI_BMS_BMCE_T_CAN: 23
-  response: 7ED046218107E
-- expected_values:
-    AUDI_BMS_BMCE_T_CAN: 23.5
-  response: 7ED046218107F
-- expected_values:
-    AUDI_BMS_BMCE_T_CAN: 24
-  response: 7ED0462181080
-- expected_values:
-    AUDI_BMS_BMCE_T_CAN: 24.5
-  response: 7ED0462181081
+    AUDI_BMS_BMCE_T_CAN: 25.5
+  response: 7ED0462181083
