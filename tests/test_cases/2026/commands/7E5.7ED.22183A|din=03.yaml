@@ -18,5 +18,5 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_MOD26_T1: 27
     AUDI_HVBAT_MOD26_T2: 27
-    AUDI_HVBAT_MOD26_T3: 31
-  response: 7ED0662183A4D4D51
+    AUDI_HVBAT_MOD26_T3: 32
+  response: 7ED0662183A4D4D52
