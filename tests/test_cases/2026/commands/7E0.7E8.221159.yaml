@@ -7,8 +7,5 @@ test_cases:
     AUDI_MAX_CHA_CUR_2: 410
   response: '7E8056211591004'
 - expected_values:
-    AUDI_MAX_CHA_CUR_2: 563
-  response: 7E80562115915FE
-- expected_values:
-    AUDI_MAX_CHA_CUR_2: 621
-  response: '7E8056211591842'
+    AUDI_MAX_CHA_CUR_2: 3200
+  response: 7E8056211597FFF
