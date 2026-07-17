@@ -7,5 +7,5 @@ test_cases:
     AUDI_ENG_MOTOR_RPM: 3835
   response: 7E805623DF81DF6
 - expected_values:
-    AUDI_ENG_MOTOR_RPM: -308
-  response: 7E805623DF8FD98
+    AUDI_ENG_MOTOR_RPM: -49
+  response: 7E805623DF8FF9E
