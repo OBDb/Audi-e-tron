@@ -1,6 +1,16 @@
 command_id: 746.7B0.2227C3|fc=1
 test_cases:
 - expected_values:
+    AUDI_HVAC_OUTSIDE_HUM: 87
+  response: |-
+    7B0100C6227C300A100
+    7B021E0012C01AE00AA
+- expected_values:
+    AUDI_HVAC_OUTSIDE_HUM: 100
+  response: |-
+    7B0100C6227C300A600
+    7B021F6011801EF00AA
+- expected_values:
     AUDI_HVAC_OUTSIDE_HUM: 89.5
   response: |-
     7B0100C6227C300B301
@@ -10,21 +20,6 @@ test_cases:
   response: |-
     7B0100C6227C300B401
     7B021250170014500AA
-- expected_values:
-    AUDI_HVAC_OUTSIDE_HUM: 39.5
-  response: |-
-    7B0100C6227C300B601
-    7B02124016C014F00AA
-- expected_values:
-    AUDI_HVAC_OUTSIDE_HUM: 14
-  response: |-
-    7B0100C6227C300B700
-    7B021C9011C021C00AA
-- expected_values:
-    AUDI_HVAC_OUTSIDE_HUM: 100
-  response: |-
-    7B0100C6227C300B900
-    7B021FC013801D100AA
 - expected_values:
     AUDI_HVAC_OUTSIDE_HUM: 44.5
   response: |-

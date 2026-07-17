@@ -9,6 +9,6 @@ test_cases:
     AUDI_MISFIRES__CYL__4: 1532
   response: 7E80562115105FC
 - expected_values:
-    AUDI_EM_RPM_1: -100
-    AUDI_MISFIRES__CYL__4: 65108
-  response: 7E805621151FE54
+    AUDI_EM_RPM_1: -89
+    AUDI_MISFIRES__CYL__4: 65358
+  response: 7E805621151FF4E
