@@ -1,15 +1,10 @@
 command_id: 7E5.7ED.221827|din=03
 test_cases:
 - expected_values:
-    AUDI_HVBAT_MOD7_T1: 20
-    AUDI_HVBAT_MOD7_T2: 20
-    AUDI_HVBAT_MOD7_T3: 26
-  response: 7ED0662182746464C
-- expected_values:
-    AUDI_HVBAT_MOD7_T1: 21
-    AUDI_HVBAT_MOD7_T2: 21
-    AUDI_HVBAT_MOD7_T3: 24
-  response: 7ED0662182747474A
+    AUDI_HVBAT_MOD7_T1: 19
+    AUDI_HVBAT_MOD7_T2: 19
+    AUDI_HVBAT_MOD7_T3: 23
+  response: 7ED06621827454549
 - expected_values:
     AUDI_HVBAT_MOD7_T1: 28
     AUDI_HVBAT_MOD7_T2: 28

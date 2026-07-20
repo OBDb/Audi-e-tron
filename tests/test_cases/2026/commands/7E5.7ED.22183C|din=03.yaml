@@ -1,10 +1,10 @@
 command_id: 7E5.7ED.22183C|din=03
 test_cases:
 - expected_values:
-    AUDI_HVBAT_MOD28_T1: 21
-    AUDI_HVBAT_MOD28_T2: 21
-    AUDI_HVBAT_MOD28_T3: 24
-  response: 7ED0662183C47474A
+    AUDI_HVBAT_MOD28_T1: 20
+    AUDI_HVBAT_MOD28_T2: 20
+    AUDI_HVBAT_MOD28_T3: 23
+  response: 7ED0662183C464649
 - expected_values:
     AUDI_HVBAT_MOD28_T1: 29
     AUDI_HVBAT_MOD28_T2: 29
