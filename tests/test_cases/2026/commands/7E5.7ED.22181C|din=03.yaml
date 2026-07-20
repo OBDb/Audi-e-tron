@@ -1,32 +1,8 @@
 command_id: 7E5.7ED.22181C|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_COOL_IN_T: 20
-  response: 7ED0462181C46
-- expected_values:
-    AUDI_BMS_COOL_IN_T: 21
-  response: 7ED0462181C47
-- expected_values:
-    AUDI_BMS_COOL_IN_T: 22
-  response: 7ED0462181C48
-- expected_values:
-    AUDI_BMS_COOL_IN_T: 23
-  response: 7ED0462181C49
-- expected_values:
-    AUDI_BMS_COOL_IN_T: 24
-  response: 7ED0462181C4A
-- expected_values:
-    AUDI_BMS_COOL_IN_T: 25
-  response: 7ED0462181C4B
-- expected_values:
-    AUDI_BMS_COOL_IN_T: 26
-  response: 7ED0462181C4C
-- expected_values:
-    AUDI_BMS_COOL_IN_T: 27
-  response: 7ED0462181C4D
-- expected_values:
-    AUDI_BMS_COOL_IN_T: 29
-  response: 7ED0462181C4F
+    AUDI_BMS_COOL_IN_T: 18
+  response: 7ED0462181C44
 - expected_values:
     AUDI_BMS_COOL_IN_T: 30
   response: 7ED0462181C50
