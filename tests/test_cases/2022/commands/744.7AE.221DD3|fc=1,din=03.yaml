@@ -4,6 +4,9 @@ test_cases:
     AUDI_CHRGR_CHG_PWR_MAX: 0
   response: 7AE05621DD30000
 - expected_values:
+    AUDI_CHRGR_CHG_PWR_MAX: 1549
+  response: 7AE05621DD3060D
+- expected_values:
     AUDI_CHRGR_CHG_PWR_MAX: 1563
   response: 7AE05621DD3061B
 - expected_values:
