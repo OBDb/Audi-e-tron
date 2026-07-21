@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221159
 test_cases:
 - expected_values:
-    AUDI_MAX_CHA_CUR_2: 250
-  response: 7E80562115909C4
+    AUDI_MAX_CHA_CUR_2: 195
+  response: 7E805621159079E
 - expected_values:
     AUDI_MAX_CHA_CUR_2: 410
   response: '7E8056211591004'

@@ -8,6 +8,11 @@ test_cases:
 - expected_values:
     AUDI_HVAC_OUTSIDE_HUM: 100
   response: |-
+    7B0100C6227C300A300
+    7B021B6011501EF00AA
+- expected_values:
+    AUDI_HVAC_OUTSIDE_HUM: 100
+  response: |-
     7B0100C6227C300A600
     7B021F6011801EF00AA
 - expected_values:
