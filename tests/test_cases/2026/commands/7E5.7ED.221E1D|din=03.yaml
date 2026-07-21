@@ -4,8 +4,8 @@ test_cases:
     AUDI_BMS_I_CHG_LIM_PRED: 195
   response: 7ED05621E1D00C3
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 476
-  response: 7ED05621E1D01DC
+    AUDI_BMS_I_CHG_LIM_PRED: 254
+  response: 7ED05621E1D00FE
 - expected_values:
     AUDI_BMS_I_CHG_LIM_PRED: 518
   response: 7ED05621E1D0206
