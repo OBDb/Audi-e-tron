@@ -9,10 +9,6 @@ test_cases:
     AUDI_BMS_CELL_V_MIN_IDX: 125
   response: 7ED06621E3488FE7D
 - expected_values:
-    AUDI_BMS_CELL_V_MIN: 3.661
-    AUDI_BMS_CELL_V_MIN_IDX: 125
-  response: 7ED06621E348F027D
-- expected_values:
     AUDI_BMS_CELL_V_MIN: 3.673
     AUDI_BMS_CELL_V_MIN_IDX: 173
   response: 7ED06621E348F7AAD
@@ -20,6 +16,10 @@ test_cases:
     AUDI_BMS_CELL_V_MIN: 3.799
     AUDI_BMS_CELL_V_MIN_IDX: 1
   response: 7ED06621E34946601
+- expected_values:
+    AUDI_BMS_CELL_V_MIN: 3.84
+    AUDI_BMS_CELL_V_MIN_IDX: 125
+  response: 7ED06621E3496007D
 - expected_values:
     AUDI_BMS_CELL_V_MIN: 4.025
     AUDI_BMS_CELL_V_MIN_IDX: 125
