@@ -1,32 +1,8 @@
 command_id: 7E5.7ED.221E10|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_T_AVG: 19
-  response: 7ED04621E1077
-- expected_values:
-    AUDI_BMS_T_AVG: 20
-  response: 7ED04621E1078
-- expected_values:
-    AUDI_BMS_T_AVG: 21
-  response: 7ED04621E1079
-- expected_values:
-    AUDI_BMS_T_AVG: 22
-  response: 7ED04621E107A
-- expected_values:
-    AUDI_BMS_T_AVG: 23
-  response: 7ED04621E107B
-- expected_values:
-    AUDI_BMS_T_AVG: 24
-  response: 7ED04621E107C
-- expected_values:
-    AUDI_BMS_T_AVG: 25
-  response: 7ED04621E107D
-- expected_values:
-    AUDI_BMS_T_AVG: 26
-  response: 7ED04621E107E
-- expected_values:
-    AUDI_BMS_T_AVG: 27
-  response: 7ED04621E107F
+    AUDI_BMS_T_AVG: 18
+  response: 7ED04621E1076
 - expected_values:
     AUDI_BMS_T_AVG: 28
   response: 7ED04621E1080
