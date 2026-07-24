@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_CHRGR_BOOST_CMD_V: 0
   response: 7AE056215590000
+- expected_values:
+    AUDI_CHRGR_BOOST_CMD_V: 810
+  response: 7AE056215590CA8
