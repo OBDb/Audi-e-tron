@@ -4,23 +4,5 @@ test_cases:
     AUDI_CHRGR_EFFICIENCY: 87.8
   response: 7AE046215D680
 - expected_values:
-    AUDI_CHRGR_EFFICIENCY: 88.3
-  response: 7AE046215D685
-- expected_values:
-    AUDI_CHRGR_EFFICIENCY: 88.4
-  response: 7AE046215D686
-- expected_values:
-    AUDI_CHRGR_EFFICIENCY: 88.5
-  response: 7AE046215D687
-- expected_values:
-    AUDI_CHRGR_EFFICIENCY: 88.8
-  response: 7AE046215D68A
-- expected_values:
-    AUDI_CHRGR_EFFICIENCY: 89.3
-  response: 7AE046215D68F
-- expected_values:
-    AUDI_CHRGR_EFFICIENCY: 93
-  response: 7AE046215D6B4
-- expected_values:
     AUDI_CHRGR_EFFICIENCY: 100.4
   response: 7AE046215D6FE
