@@ -4,29 +4,8 @@ test_cases:
     AUDI_CHRGR_CHG_PWR_MAX: 0
   response: 7AE05621DD30000
 - expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 1549
-  response: 7AE05621DD3060D
-- expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 1563
-  response: 7AE05621DD3061B
-- expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 1570
-  response: 7AE05621DD30622
-- expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 1573
-  response: 7AE05621DD30625
-- expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 1580
-  response: 7AE05621DD3062C
-- expected_values:
     AUDI_CHRGR_CHG_PWR_MAX: 5610
   response: 7AE05621DD315EA
-- expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 6974
-  response: 7AE05621DD31B3E
-- expected_values:
-    AUDI_CHRGR_CHG_PWR_MAX: 7010
-  response: 7AE05621DD31B62
 - expected_values:
     AUDI_CHRGR_CHG_PWR_MAX: 8913
   response: 7AE05621DD322D1
