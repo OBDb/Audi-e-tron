@@ -16,5 +16,5 @@ test_cases:
 
     ERR91
 - expected_values:
-    AUDI_CLR_DIST: 13824
-  response: 7E80562F4313600
+    AUDI_CLR_DIST: 14080
+  response: 7E80562F4313700
