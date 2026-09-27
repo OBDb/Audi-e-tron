@@ -3,12 +3,15 @@ test_cases:
 - expected_values:
     AUDI_BMS_T_MAX: 6
     AUDI_BMS_T_MAX_CELL: 72
+    AUDI_HVBAT_T_MAX: 425.125
   response: 7ED05621E0E6A48
 - expected_values:
     AUDI_BMS_T_MAX: 15
     AUDI_BMS_T_MAX_CELL: 32
+    AUDI_HVBAT_T_MAX: 460.5
   response: 7ED05621E0E7320
 - expected_values:
     AUDI_BMS_T_MAX: 25
     AUDI_BMS_T_MAX_CELL: 38
+    AUDI_HVBAT_T_MAX: 500.59375
   response: 7ED05621E0E7D26
