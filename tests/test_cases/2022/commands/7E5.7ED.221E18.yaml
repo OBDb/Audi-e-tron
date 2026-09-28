@@ -1,4 +1,4 @@
-command_id: 7E5.221E18
+command_id: 7E5.7ED.221E18
 test_cases:
 - expected_values:
     AUDI_HVBAT_ISO_POS: 20470

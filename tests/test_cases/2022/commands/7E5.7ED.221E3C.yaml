@@ -1,0 +1,14 @@
+command_id: 7E5.7ED.221E3C
+test_cases:
+- expected_values:
+    AUDI_HVBAT_CELL_SUM_V: 100.36499
+  response: 7ED06621E3C0645D7
+- expected_values:
+    AUDI_HVBAT_CELL_SUM_V: 100.72119
+  response: 7ED06621E3C064B8A
+- expected_values:
+    AUDI_HVBAT_CELL_SUM_V: 103.84619
+  response: 7ED06621E3C067D8A
+- expected_values:
+    AUDI_HVBAT_CELL_SUM_V: 104.27075
+  response: 7ED06621E3C068455
