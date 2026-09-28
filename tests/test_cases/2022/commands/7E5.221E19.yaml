@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_HV_ISO_NEG_SYS: 3370
   response: 7ED06621E19015104
+- expected_values:
+    AUDI_HV_ISO_NEG_SYS: 3450
+  response: 7ED06621E19015904
