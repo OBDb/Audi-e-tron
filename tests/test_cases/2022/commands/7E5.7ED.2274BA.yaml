@@ -1,5 +1,8 @@
-command_id: 7E5.2274BA
+command_id: 7E5.7ED.2274BA
 test_cases:
+- expected_values:
+    AUDI_HV_INTERLOCK_SRC_V: 0.65995
+  response: 7ED056274BA0872
 - expected_values:
     AUDI_HV_INTERLOCK_SRC_V: 0.6627
   response: 7ED056274BA087B
