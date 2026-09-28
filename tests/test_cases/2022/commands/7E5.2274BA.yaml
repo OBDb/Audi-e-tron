@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_HV_INTERLOCK_SRC_V: 0.6627
   response: 7ED056274BA087B
+- expected_values:
+    AUDI_HV_INTERLOCK_SRC_V: 0.66545
+  response: 7ED056274BA0884

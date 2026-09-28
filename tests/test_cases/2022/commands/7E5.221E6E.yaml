@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_CELL_47_V: 0.96118
   response: 7ED05621E6E0F61
+- expected_values:
+    AUDI_HVBAT_CELL_47_V: 0.96167
+  response: 7ED05621E6E0F63
