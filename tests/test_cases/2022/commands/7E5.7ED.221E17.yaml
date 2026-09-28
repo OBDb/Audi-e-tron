@@ -1,0 +1,14 @@
+command_id: 7E5.7ED.221E17
+test_cases:
+- expected_values:
+    AUDI_HV_ISO_POS_SYS: 3300
+  response: 7ED06621E17014A04
+- expected_values:
+    AUDI_HV_ISO_POS_SYS: 3350
+  response: 7ED06621E17014F04
+- expected_values:
+    AUDI_HV_ISO_POS_SYS: 3360
+  response: 7ED06621E17015002
+- expected_values:
+    AUDI_HV_ISO_POS_SYS: 3360
+  response: 7ED06621E17015004

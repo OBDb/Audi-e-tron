@@ -1,4 +1,4 @@
-command_id: 7E5.2274B9
+command_id: 7E5.7ED.2274B9
 test_cases:
 - expected_values:
     AUDI_HV_INTERLOCK_DET_V: 0.62485

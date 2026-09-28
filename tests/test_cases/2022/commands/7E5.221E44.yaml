@@ -1,6 +1,12 @@
 command_id: 7E5.221E44
 test_cases:
 - expected_values:
+    AUDI_HVBAT_CELL_5_V: 0.927
+  response: 7ED05621E440ED5
+- expected_values:
+    AUDI_HVBAT_CELL_5_V: 0.93335
+  response: 7ED05621E440EEF
+- expected_values:
     AUDI_HVBAT_CELL_5_V: 0.95752
   response: 7ED05621E440F52
 - expected_values:

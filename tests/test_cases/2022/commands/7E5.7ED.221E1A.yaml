@@ -1,4 +1,4 @@
-command_id: 7E5.221E1A
+command_id: 7E5.7ED.221E1A
 test_cases:
 - expected_values:
     AUDI_HVBAT_ISO_NEG: 20470
