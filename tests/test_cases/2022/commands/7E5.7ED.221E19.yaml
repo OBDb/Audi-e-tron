@@ -1,6 +1,12 @@
 command_id: 7E5.7ED.221E19
 test_cases:
 - expected_values:
+    AUDI_HV_ISO_NEG_SYS: 3330
+  response: 7ED06621E19014D04
+- expected_values:
+    AUDI_HV_ISO_NEG_SYS: 3340
+  response: 7ED06621E19014E04
+- expected_values:
     AUDI_HV_ISO_NEG_SYS: 3360
   response: 7ED06621E19015004
 - expected_values:
