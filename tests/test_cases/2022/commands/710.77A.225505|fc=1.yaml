@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     AUDI_STEER_WHL_T: 77
   response: 77A056255054D00
+- expected_values:
+    AUDI_STEER_WHL_T: 84
+  response: 77A056255055400
