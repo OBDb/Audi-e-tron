@@ -19,5 +19,14 @@ test_cases:
     AUDI_HVBAT_CELL_24_V: 0.95312
   response: 7ED05621E570F40
 - expected_values:
+    AUDI_HVBAT_CELL_24_V: 0.95898
+  response: 7ED05621E570F58
+- expected_values:
+    AUDI_HVBAT_CELL_24_V: 0.96045
+  response: 7ED05621E570F5E
+- expected_values:
     AUDI_HVBAT_CELL_24_V: 0.96558
   response: 7ED05621E570F73
+- expected_values:
+    AUDI_HVBAT_CELL_24_V: 0.96973
+  response: 7ED05621E570F84

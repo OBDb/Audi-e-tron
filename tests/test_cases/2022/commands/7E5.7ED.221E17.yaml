@@ -13,6 +13,12 @@ test_cases:
     AUDI_HV_ISO_POS_SYS: 3300
   response: 7ED06621E17014A04
 - expected_values:
+    AUDI_HV_ISO_POS_SYS: 3330
+  response: 7ED06621E17014D04
+- expected_values:
+    AUDI_HV_ISO_POS_SYS: 3350
+  response: 7ED06621E17014F02
+- expected_values:
     AUDI_HV_ISO_POS_SYS: 3350
   response: 7ED06621E17014F04
 - expected_values:
@@ -21,3 +27,6 @@ test_cases:
 - expected_values:
     AUDI_HV_ISO_POS_SYS: 3360
   response: 7ED06621E17015004
+- expected_values:
+    AUDI_HV_ISO_POS_SYS: 3370
+  response: 7ED06621E17015104
