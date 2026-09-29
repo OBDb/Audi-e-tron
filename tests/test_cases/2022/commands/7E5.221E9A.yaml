@@ -4,23 +4,8 @@ test_cases:
     AUDI_HVBAT_CELL_91_V: 0.91968
   response: 7ED05621E9A0EB7
 - expected_values:
-    AUDI_HVBAT_CELL_91_V: 0.92285
-  response: 7ED05621E9A0EC4
-- expected_values:
-    AUDI_HVBAT_CELL_91_V: 0.92627
-  response: 7ED05621E9A0ED2
-- expected_values:
-    AUDI_HVBAT_CELL_91_V: 0.93359
-  response: 7ED05621E9A0EF0
-- expected_values:
-    AUDI_HVBAT_CELL_91_V: 0.93408
-  response: 7ED05621E9A0EF2
-- expected_values:
     AUDI_HVBAT_CELL_91_V: 0.93652
   response: 7ED05621E9A0EFC
 - expected_values:
-    AUDI_HVBAT_CELL_91_V: 0.96143
-  response: 7ED05621E9A0F62
-- expected_values:
-    AUDI_HVBAT_CELL_91_V: 0.96533
-  response: 7ED05621E9A0F72
+    AUDI_HVBAT_CELL_91_V: 0.9563
+  response: 7ED05621E9A0F4D
