@@ -21,6 +21,11 @@ test_cases:
     AUDI_APP2: 20.78431
   response: 7E80462F44A35
 - expected_values:
+    AUDI_ACCEL_PEDAL_POS_2: 21.56863
+    AUDI_ACCEL_POS_2: 21.56863
+    AUDI_APP2: 21.56863
+  response: 7E80462F44A37
+- expected_values:
     AUDI_ACCEL_PEDAL_POS_2: 22.35294
     AUDI_ACCEL_POS_2: 22.35294
     AUDI_APP2: 22.35294
