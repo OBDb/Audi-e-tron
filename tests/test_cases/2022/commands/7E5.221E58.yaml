@@ -4,8 +4,11 @@ test_cases:
     AUDI_HVBAT_CELL_25_V: 0.92676
   response: 7ED05621E580ED4
 - expected_values:
-    AUDI_HVBAT_CELL_25_V: 0.99805
-  response: 7ED05621E580FF8
+    AUDI_HVBAT_CELL_25_V: 0.93628
+  response: 7ED05621E580EFB
+- expected_values:
+    AUDI_HVBAT_CELL_25_V: 0.93896
+  response: 7ED05621E580F06
 - expected_values:
     AUDI_HVBAT_CELL_25_V: 1.00195
   response: 7ED05621E581008
