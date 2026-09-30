@@ -7,5 +7,5 @@ test_cases:
     AUDI_HVBAT_CELL_97_V: 0.93481
   response: 7ED05621EA00EF5
 - expected_values:
-    AUDI_HVBAT_CELL_97_V: 0.95825
-  response: 7ED05621EA00F55
+    AUDI_HVBAT_CELL_97_V: 1.00537
+  response: 7ED05621EA01016

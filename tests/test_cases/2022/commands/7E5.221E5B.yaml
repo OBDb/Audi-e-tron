@@ -4,29 +4,8 @@ test_cases:
     AUDI_HVBAT_CELL_28_V: 0.92285
   response: 7ED05621E5B0EC4
 - expected_values:
-    AUDI_HVBAT_CELL_28_V: 0.92529
-  response: 7ED05621E5B0ECE
+    AUDI_HVBAT_CELL_28_V: 0.99707
+  response: 7ED05621E5B0FF4
 - expected_values:
-    AUDI_HVBAT_CELL_28_V: 0.9292
-  response: 7ED05621E5B0EDE
-- expected_values:
-    AUDI_HVBAT_CELL_28_V: 0.93359
-  response: 7ED05621E5B0EF0
-- expected_values:
-    AUDI_HVBAT_CELL_28_V: 0.93384
-  response: 7ED05621E5B0EF1
-- expected_values:
-    AUDI_HVBAT_CELL_28_V: 0.95337
-  response: 7ED05621E5B0F41
-- expected_values:
-    AUDI_HVBAT_CELL_28_V: 0.95459
-  response: 7ED05621E5B0F46
-- expected_values:
-    AUDI_HVBAT_CELL_28_V: 0.95874
-  response: 7ED05621E5B0F57
-- expected_values:
-    AUDI_HVBAT_CELL_28_V: 0.96387
-  response: 7ED05621E5B0F6C
-- expected_values:
-    AUDI_HVBAT_CELL_28_V: 0.96533
-  response: 7ED05621E5B0F72
+    AUDI_HVBAT_CELL_28_V: 1.00513
+  response: 7ED05621E5B1015

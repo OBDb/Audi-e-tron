@@ -8,6 +8,9 @@ test_cases:
   response: 77D07622B2100000002
 - expected_values:
     AUDI_BRAKE_P_V2: -42.503
+  response: 77D07622B2100000007
+- expected_values:
+    AUDI_BRAKE_P_V2: -42.503
   response: 77D07622B2100000009
 - expected_values:
     AUDI_BRAKE_P_V2: -42.503
