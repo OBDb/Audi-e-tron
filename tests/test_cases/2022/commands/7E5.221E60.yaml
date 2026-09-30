@@ -7,5 +7,5 @@ test_cases:
     AUDI_HVBAT_CELL_33_V: 0.93457
   response: 7ED05621E600EF4
 - expected_values:
-    AUDI_HVBAT_CELL_33_V: 0.95801
-  response: 7ED05621E600F54
+    AUDI_HVBAT_CELL_33_V: 1.00195
+  response: 7ED05621E601008

@@ -32,3 +32,11 @@ test_cases:
     AUDI_CHG_PWR_LOSS: 500
     AUDI_CHRGR_PWR_LOSS: 500
   response: 7AE046215E119
+- expected_values:
+    AUDI_CHG_PWR_LOSS: 640
+    AUDI_CHRGR_PWR_LOSS: 640
+  response: 7AE046215E120
+- expected_values:
+    AUDI_CHG_PWR_LOSS: 660
+    AUDI_CHRGR_PWR_LOSS: 660
+  response: 7AE046215E121
