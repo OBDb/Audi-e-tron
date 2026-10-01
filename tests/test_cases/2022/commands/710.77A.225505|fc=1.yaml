@@ -1,8 +1,8 @@
 command_id: 710.77A.225505|fc=1
 test_cases:
 - expected_values:
-    AUDI_STEER_WHL_T: 67
+    ETRON_TRON_STEER_WHL_T: 67
   response: 77A056255054300
 - expected_values:
-    AUDI_STEER_WHL_T: 84
+    ETRON_TRON_STEER_WHL_T: 84
   response: 77A056255055400

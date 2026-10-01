@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222061
+test_cases:
+- expected_values:
+    ETRON_APP_POS1: 0.751
+  response: 7E80562206102EF
+- expected_values:
+    ETRON_APP_POS1: 0.767
+  response: 7E80562206102FF
+- expected_values:
+    ETRON_APP_POS1: 0.768
+  response: '7E8056220610300'
+- expected_values:
+    ETRON_APP_POS1: 4.355
+  response: '7E8056220611103'

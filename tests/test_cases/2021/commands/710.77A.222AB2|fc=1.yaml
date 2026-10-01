@@ -1,14 +1,14 @@
 command_id: 710.77A.222AB2|fc=1
 test_cases:
 - expected_values:
-    AUDI_HVBAT_CAP: 4950
+    ETRON_HVBAT_E_MAX: 4950
   response: 77A07622AB200630400
 - expected_values:
-    AUDI_HVBAT_CAP: 12350
+    ETRON_HVBAT_E_MAX: 12350
   response: 77A07622AB200F70400
 - expected_values:
-    AUDI_HVBAT_CAP: 13100
+    ETRON_HVBAT_E_MAX: 13100
   response: 77A07622AB201060400
 - expected_values:
-    AUDI_HVBAT_CAP: 19500
+    ETRON_HVBAT_E_MAX: 19500
   response: 77A07622AB201860401

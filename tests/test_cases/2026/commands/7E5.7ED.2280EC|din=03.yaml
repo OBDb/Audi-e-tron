@@ -1,23 +1,23 @@
 command_id: 7E5.7ED.2280EC|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_COOL_PUMP_CTL: 12
+    ETRON_BMS_COOL_PUMP_CTL: 12
   response: 7ED066280EC0A000C
 - expected_values:
-    AUDI_BMS_COOL_PUMP_CTL: 14
+    ETRON_BMS_COOL_PUMP_CTL: 14
   response: 7ED066280EC0A000E
 - expected_values:
-    AUDI_BMS_COOL_PUMP_CTL: 15
+    ETRON_BMS_COOL_PUMP_CTL: 15
   response: 7ED066280EC0A000F
 - expected_values:
-    AUDI_BMS_COOL_PUMP_CTL: 36
+    ETRON_BMS_COOL_PUMP_CTL: 36
   response: 7ED066280EC0A0024
 - expected_values:
-    AUDI_BMS_COOL_PUMP_CTL: 46
+    ETRON_BMS_COOL_PUMP_CTL: 46
   response: 7ED066280EC0A002E
 - expected_values:
-    AUDI_BMS_COOL_PUMP_CTL: 63
+    ETRON_BMS_COOL_PUMP_CTL: 63
   response: 7ED066280EC0A003F
 - expected_values:
-    AUDI_BMS_COOL_PUMP_CTL: 96
+    ETRON_BMS_COOL_PUMP_CTL: 96
   response: 7ED066280EC0A0060

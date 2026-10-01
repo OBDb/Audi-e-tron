@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221159
 test_cases:
 - expected_values:
-    AUDI_MAX_CHA_CUR_2: 195
+    ETRON_MAX_CHA_CUR_2: 195
   response: 7E805621159079E
 - expected_values:
-    AUDI_MAX_CHA_CUR_2: 512
+    ETRON_MAX_CHA_CUR_2: 512
   response: '7E8056211591400'
 - expected_values:
-    AUDI_MAX_CHA_CUR_2: 3200
+    ETRON_MAX_CHA_CUR_2: 3200
   response: 7E8056211597FFF

@@ -1,23 +1,23 @@
 command_id: 7E5.7ED.22192B|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_COOL_PUMP_PWR_SP: 12
+    ETRON_BMS_COOL_PUMP_PWR_SP: 12
   response: 7ED0462192B18
 - expected_values:
-    AUDI_BMS_COOL_PUMP_PWR_SP: 13
+    ETRON_BMS_COOL_PUMP_PWR_SP: 13
   response: 7ED0462192B1A
 - expected_values:
-    AUDI_BMS_COOL_PUMP_PWR_SP: 14
+    ETRON_BMS_COOL_PUMP_PWR_SP: 14
   response: 7ED0462192B1C
 - expected_values:
-    AUDI_BMS_COOL_PUMP_PWR_SP: 15
+    ETRON_BMS_COOL_PUMP_PWR_SP: 15
   response: 7ED0462192B1E
 - expected_values:
-    AUDI_BMS_COOL_PUMP_PWR_SP: 33
+    ETRON_BMS_COOL_PUMP_PWR_SP: 33
   response: 7ED0462192B42
 - expected_values:
-    AUDI_BMS_COOL_PUMP_PWR_SP: 46
+    ETRON_BMS_COOL_PUMP_PWR_SP: 46
   response: 7ED0462192B5C
 - expected_values:
-    AUDI_BMS_COOL_PUMP_PWR_SP: 96
+    ETRON_BMS_COOL_PUMP_PWR_SP: 96
   response: 7ED0462192BC0

@@ -1,23 +1,23 @@
 command_id: 744.7AE.2215D5|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 0
+    ETRON_CHRGR_PWR_MAX: 0
   response: 7AE056215D50000
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 6
+    ETRON_CHRGR_PWR_MAX: 6
   response: 7AE056215D50006
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 22
+    ETRON_CHRGR_PWR_MAX: 22
   response: 7AE056215D50016
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 27
+    ETRON_CHRGR_PWR_MAX: 27
   response: 7AE056215D5001B
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 28
+    ETRON_CHRGR_PWR_MAX: 28
   response: 7AE056215D5001C
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 33
+    ETRON_CHRGR_PWR_MAX: 33
   response: 7AE056215D50021
 - expected_values:
-    AUDI_CHRGR_PWR_MAX: 35
+    ETRON_CHRGR_PWR_MAX: 35
   response: 7AE056215D50023

@@ -1,29 +1,29 @@
 command_id: FC00.FE007B.22028C|ta=7B,c=17
 test_cases:
 - expected_values:
-    AUDI_SOC_DISP: 14
+    ETRON_SOC: 18.4
   response: 17FE007B0462028C2E
 - expected_values:
-    AUDI_SOC_DISP: 14.44348
+    ETRON_SOC: 18.8
   response: 17FE007B0462028C2F
 - expected_values:
-    AUDI_SOC_DISP: 18.87826
+    ETRON_SOC: 22.8
   response: 17FE007B0462028C39
 - expected_values:
-    AUDI_SOC_DISP: 19.32174
+    ETRON_SOC: 23.2
   response: 17FE007B0462028C3A
 - expected_values:
-    AUDI_SOC_DISP: 19.76522
+    ETRON_SOC: 23.6
   response: 17FE007B0462028C3B
 - expected_values:
-    AUDI_SOC_DISP: 20.2087
+    ETRON_SOC: 24
   response: 17FE007B0462028C3C
 - expected_values:
-    AUDI_SOC_DISP: 20.65217
+    ETRON_SOC: 24.4
   response: 17FE007B0462028C3D
 - expected_values:
-    AUDI_SOC_DISP: 21.09565
+    ETRON_SOC: 24.8
   response: 17FE007B0462028C3E
 - expected_values:
-    AUDI_SOC_DISP: 23.75652
+    ETRON_SOC: 27.2
   response: 17FE007B0462028C44

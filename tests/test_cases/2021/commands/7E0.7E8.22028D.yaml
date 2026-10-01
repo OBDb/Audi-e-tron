@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.22028D
 test_cases:
 - expected_values:
-    AUDI_ECU_TEMP: 25
-    AUDI_ENG_CTRL_MODULE_T: 25
+    ETRON_TRON_ENG_CTRL_MODULE_T: 25
   response: 7E80562028D00FA
 - expected_values:
-    AUDI_ECU_TEMP: 51
-    AUDI_ENG_CTRL_MODULE_T: 51
+    ETRON_TRON_ENG_CTRL_MODULE_T: 51
   response: 7E80562028D01FE
 - expected_values:
-    AUDI_ECU_TEMP: 52
-    AUDI_ENG_CTRL_MODULE_T: 52
+    ETRON_TRON_ENG_CTRL_MODULE_T: 52
   response: 7E80562028D0208
