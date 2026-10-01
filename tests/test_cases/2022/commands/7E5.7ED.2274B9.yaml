@@ -1,11 +1,11 @@
 command_id: 7E5.7ED.2274B9
 test_cases:
 - expected_values:
-    AUDI_HV_INTERLOCK_DET_V: 0.61935
+    ETRON_HV_INTERLOCK_DET_V: 0.61935
   response: 7ED056274B907ED
 - expected_values:
-    AUDI_HV_INTERLOCK_DET_V: 0.6221
+    ETRON_HV_INTERLOCK_DET_V: 0.6221
   response: 7ED056274B907F6
 - expected_values:
-    AUDI_HV_INTERLOCK_DET_V: 0.62485
+    ETRON_HV_INTERLOCK_DET_V: 0.62485
   response: 7ED056274B907FF

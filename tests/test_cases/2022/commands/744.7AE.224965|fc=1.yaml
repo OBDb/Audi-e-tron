@@ -1,97 +1,97 @@
 command_id: 744.7AE.224965|fc=1
 test_cases:
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 2.4
+    ETRON_HVBAT_KWH: 2.4
   response: |-
     7AE100D62496500307F
     7AE21DC011770009D8D
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 4.55
+    ETRON_HVBAT_KWH: 4.55
   response: |-
     7AE100D624965005B7F
     7AE21F601177000CC93
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 5.15
+    ETRON_HVBAT_KWH: 5.15
   response: |-
     7AE100D62496500677E
     7AE210401177000D98C
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 6.35
+    ETRON_HVBAT_KWH: 6.35
   response: |-
     7AE100D624965007F7C
     7AE21FF01177000F58C
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 10.65
+    ETRON_HVBAT_KWH: 10.65
   response: |-
     7AE100D62496500D57F
     7AE21F00115E001787E
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 10.65
+    ETRON_HVBAT_KWH: 10.65
   response: |-
     7AE100D62496500D580
     7AE2100000FA0015589
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 10.95
+    ETRON_HVBAT_KWH: 10.95
   response: |-
     7AE100D62496500DB7F
     7AE21EF0115E0017C7F
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 11
+    ETRON_HVBAT_KWH: 11
   response: |-
     7AE100D62496500DC81
     7AE21E30607F3017C80
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 11
+    ETRON_HVBAT_KWH: 11
   response: |-
     7AE100D62496500DC8D
     7AE2109060DAC015D8A
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 11.3
+    ETRON_HVBAT_KWH: 11.3
   response: |-
     7AE100D62496500E286
     7AE21FD0606FF01847E
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 12.8
+    ETRON_HVBAT_KWH: 12.8
   response: |-
     7AE100D62496501007E
     7AE212C01177001878A
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 25.55
+    ETRON_HVBAT_KWH: 25.55
   response: |-
     7AE100D62496501FF7F
     7AE216B01177002A492
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 31.15
+    ETRON_HVBAT_KWH: 31.15
   response: |-
     7AE100D624965026F7E
     7AE21B8010B3403704A
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 35.85
+    ETRON_HVBAT_KWH: 35.85
   response: |-
     7AE100D62496502CD7F
     7AE21F401100F03E55F
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 37.05
+    ETRON_HVBAT_KWH: 37.05
   response: |-
     7AE100D62496502E57F
     7AE2150010FF603F95E
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 57.4
+    ETRON_HVBAT_KWH: 57.4
   response: |-
     7AE100D624965047C84
     7AE21F206050005CFA1
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 57.5
+    ETRON_HVBAT_KWH: 57.5
   response: |-
     7AE100D624965047E5C
     7AE21ED01170205707D
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 76.7
+    ETRON_HVBAT_KWH: 76.7
   response: |-
     7AE100D62496505FE7F
     7AE21F001013207AA90
 - expected_values:
-    AUDI_HVBAT_KWH_V2: 102.3
+    ETRON_HVBAT_KWH: 102.3
   response: |-
     7AE100D62496507FE80
     7AE2100000FA00436FE

@@ -1,42 +1,32 @@
 command_id: 744.7AE.2215E1|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CHG_PWR_LOSS: 0
-    AUDI_CHRGR_PWR_LOSS: 0
+    ETRON_CHRGR_PWR_LOSS: 0
   response: 7AE046215E100
 - expected_values:
-    AUDI_CHG_PWR_LOSS: 160
-    AUDI_CHRGR_PWR_LOSS: 160
+    ETRON_CHRGR_PWR_LOSS: 160
   response: 7AE046215E108
 - expected_values:
-    AUDI_CHG_PWR_LOSS: 180
-    AUDI_CHRGR_PWR_LOSS: 180
+    ETRON_CHRGR_PWR_LOSS: 180
   response: 7AE046215E109
 - expected_values:
-    AUDI_CHG_PWR_LOSS: 200
-    AUDI_CHRGR_PWR_LOSS: 200
+    ETRON_CHRGR_PWR_LOSS: 200
   response: 7AE046215E10A
 - expected_values:
-    AUDI_CHG_PWR_LOSS: 340
-    AUDI_CHRGR_PWR_LOSS: 340
+    ETRON_CHRGR_PWR_LOSS: 340
   response: 7AE046215E111
 - expected_values:
-    AUDI_CHG_PWR_LOSS: 440
-    AUDI_CHRGR_PWR_LOSS: 440
+    ETRON_CHRGR_PWR_LOSS: 440
   response: 7AE046215E116
 - expected_values:
-    AUDI_CHG_PWR_LOSS: 480
-    AUDI_CHRGR_PWR_LOSS: 480
+    ETRON_CHRGR_PWR_LOSS: 480
   response: 7AE046215E118
 - expected_values:
-    AUDI_CHG_PWR_LOSS: 500
-    AUDI_CHRGR_PWR_LOSS: 500
+    ETRON_CHRGR_PWR_LOSS: 500
   response: 7AE046215E119
 - expected_values:
-    AUDI_CHG_PWR_LOSS: 640
-    AUDI_CHRGR_PWR_LOSS: 640
+    ETRON_CHRGR_PWR_LOSS: 640
   response: 7AE046215E120
 - expected_values:
-    AUDI_CHG_PWR_LOSS: 660
-    AUDI_CHRGR_PWR_LOSS: 660
+    ETRON_CHRGR_PWR_LOSS: 660
   response: 7AE046215E121

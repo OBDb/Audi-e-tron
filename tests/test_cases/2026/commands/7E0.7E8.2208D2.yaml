@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2208D2
 test_cases:
 - expected_values:
-    AUDI_HVBAT_SOC_DISP_V2: 19.78
+    ETRON_HVBAT_SOC_DISP: 19.78
   response: 7E8076208D207BA07BA
 - expected_values:
-    AUDI_HVBAT_SOC_DISP_V2: 33.29
+    ETRON_HVBAT_SOC_DISP: 33.29
   response: 7E8076208D20D010D01
 - expected_values:
-    AUDI_HVBAT_SOC_DISP_V2: 48.61
+    ETRON_HVBAT_SOC_DISP: 48.61
   response: 7E8076208D212FD12FD
 - expected_values:
-    AUDI_HVBAT_SOC_DISP_V2: 79.41
+    ETRON_HVBAT_SOC_DISP: 79.41
   response: 7E8076208D21F051F05

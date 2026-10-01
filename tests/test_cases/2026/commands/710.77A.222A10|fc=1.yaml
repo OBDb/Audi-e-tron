@@ -1,0 +1,29 @@
+command_id: 710.77A.222A10|fc=1
+test_cases:
+- expected_values:
+    ETRON_TRON_BAT_V_AT_REST: 13.4
+  response: 77A04622A102C
+- expected_values:
+    ETRON_TRON_BAT_V_AT_REST: 13.5
+  response: 77A04622A102D
+- expected_values:
+    ETRON_TRON_BAT_V_AT_REST: 13.6
+  response: 77A04622A102E
+- expected_values:
+    ETRON_TRON_BAT_V_AT_REST: 13.7
+  response: 77A04622A102F
+- expected_values:
+    ETRON_TRON_BAT_V_AT_REST: 13.8
+  response: 77A04622A1030
+- expected_values:
+    ETRON_TRON_BAT_V_AT_REST: 13.9
+  response: 77A04622A1031
+- expected_values:
+    ETRON_TRON_BAT_V_AT_REST: 14
+  response: 77A04622A1032
+- expected_values:
+    ETRON_TRON_BAT_V_AT_REST: 14.1
+  response: 77A04622A1033
+- expected_values:
+    ETRON_TRON_BAT_V_AT_REST: 14.2
+  response: 77A04622A1034

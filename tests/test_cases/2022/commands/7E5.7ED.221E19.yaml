@@ -1,11 +1,11 @@
 command_id: 7E5.7ED.221E19
 test_cases:
 - expected_values:
-    AUDI_HV_ISO_NEG_SYS: 2740
+    ETRON_HV_ISO_NEG_SYS: 2740
   response: 7ED06621E19011202
 - expected_values:
-    AUDI_HV_ISO_NEG_SYS: 2740
+    ETRON_HV_ISO_NEG_SYS: 2740
   response: 7ED06621E19011204
 - expected_values:
-    AUDI_HV_ISO_NEG_SYS: 3450
+    ETRON_HV_ISO_NEG_SYS: 3450
   response: 7ED06621E19015904
