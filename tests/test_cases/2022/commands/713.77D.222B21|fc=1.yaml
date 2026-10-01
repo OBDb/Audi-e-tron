@@ -1,26 +1,26 @@
 command_id: 713.77D.222B21|fc=1
 test_cases:
 - expected_values:
-    AUDI_BRAKE_P_V2: -42.503
+    ETRON_TRON_BRAKE_P: -42.503
   response: 77D07622B2100000000
 - expected_values:
-    AUDI_BRAKE_P_V2: -42.503
+    ETRON_TRON_BRAKE_P: -42.503
   response: 77D07622B2100000001
 - expected_values:
-    AUDI_BRAKE_P_V2: -42.503
+    ETRON_TRON_BRAKE_P: -42.503
   response: 77D07622B2100000002
 - expected_values:
-    AUDI_BRAKE_P_V2: -42.503
+    ETRON_TRON_BRAKE_P: -42.503
   response: 77D07622B2100000003
 - expected_values:
-    AUDI_BRAKE_P_V2: -42.503
+    ETRON_TRON_BRAKE_P: -42.503
   response: 77D07622B2100000004
 - expected_values:
-    AUDI_BRAKE_P_V2: -42.503
+    ETRON_TRON_BRAKE_P: -42.503
   response: 77D07622B2100000007
 - expected_values:
-    AUDI_BRAKE_P_V2: -42.503
+    ETRON_TRON_BRAKE_P: -42.503
   response: 77D07622B2100000009
 - expected_values:
-    AUDI_BRAKE_P_V2: -42.503
+    ETRON_TRON_BRAKE_P: -42.503
   response: 77D07622B21000004C9

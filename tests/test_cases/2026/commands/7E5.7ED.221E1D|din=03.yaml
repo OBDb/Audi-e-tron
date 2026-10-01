@@ -1,14 +1,11 @@
 command_id: 7E5.7ED.221E1D|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 195
-    AUDI_HVBAT_CHG_I_LIM_PRED: 0
+    ETRON_BMS_I_CHG_LIM_PRED: 195
   response: 7ED05621E1D00C3
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 254
-    AUDI_HVBAT_CHG_I_LIM_PRED: 0
+    ETRON_BMS_I_CHG_LIM_PRED: 254
   response: 7ED05621E1D00FE
 - expected_values:
-    AUDI_BMS_I_CHG_LIM_PRED: 512
-    AUDI_HVBAT_CHG_I_LIM_PRED: 2
+    ETRON_BMS_I_CHG_LIM_PRED: 512
   response: 7ED05621E1D0200

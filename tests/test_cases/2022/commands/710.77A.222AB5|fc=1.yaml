@@ -1,40 +1,40 @@
 command_id: 710.77A.222AB5|fc=1
 test_cases:
 - expected_values:
-    AUDI_RANGE_EST_CAN: 251
+    ETRON_RANGE_EST_CAN: 251
   response: "77A 10 0D 62 2A B5 00 FB 00 \n77A 21 00 00 FB 07 FF 00 00 "
 - expected_values:
-    AUDI_RANGE_EST_CAN: 11
+    ETRON_RANGE_EST_CAN: 11
   response: |-
     77A100D622AB5000B00
     77A2100000B07FF0000
 - expected_values:
-    AUDI_RANGE_EST_CAN: 15
+    ETRON_RANGE_EST_CAN: 15
   response: |-
     77A100D622AB5000F00
     77A2100000F07FF0000
 - expected_values:
-    AUDI_RANGE_EST_CAN: 32
+    ETRON_RANGE_EST_CAN: 32
   response: |-
     77A100D622AB5002000
     77A2100002007FF0000
 - expected_values:
-    AUDI_RANGE_EST_CAN: 50
+    ETRON_RANGE_EST_CAN: 50
   response: |-
     77A100D622AB5003200
     77A2100003200000000
 - expected_values:
-    AUDI_RANGE_EST_CAN: 255
+    ETRON_RANGE_EST_CAN: 255
   response: |-
     77A100D622AB500FF00
     77A210000FF07FF0000
 - expected_values:
-    AUDI_RANGE_EST_CAN: 256
+    ETRON_RANGE_EST_CAN: 256
   response: |-
     77A100D622AB5010000
     77A2100010000000000
 - expected_values:
-    AUDI_RANGE_EST_CAN: 386
+    ETRON_RANGE_EST_CAN: 386
   response: |-
     77A100D622AB5018200
     77A2100018207FF0000

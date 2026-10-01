@@ -1,0 +1,17 @@
+command_id: 710.77A.222A09|fc=1
+test_cases:
+- expected_values:
+    ETRON_TRON_BAT_I: 0.083
+  response: 77A07622A0900000053
+- expected_values:
+    ETRON_TRON_BAT_I: 8.444
+  response: 77A07622A09000020FC
+- expected_values:
+    ETRON_TRON_BAT_I: 35.84
+  response: 77A07622A0900008C00
+- expected_values:
+    ETRON_TRON_BAT_I: -43.05
+  response: 77A07622A09FFFF57D6
+- expected_values:
+    ETRON_TRON_BAT_I: -0.2
+  response: 77A07622A09FFFFFF38

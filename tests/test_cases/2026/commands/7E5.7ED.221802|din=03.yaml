@@ -1,14 +1,14 @@
 command_id: 7E5.7ED.221802|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_I: -143.2
+    ETRON_BMS_I: -143.2
   response: 7ED06621802021223
 - expected_values:
-    AUDI_BMS_I: -33.12
+    ETRON_BMS_I: -33.12
   response: 7ED06621802023DFD
 - expected_values:
-    AUDI_BMS_I: -2.4
+    ETRON_BMS_I: -2.4
   response: 7ED06621802024901
 - expected_values:
-    AUDI_BMS_I: 48.8
+    ETRON_BMS_I: 48.8
   response: 7ED06621802025D83

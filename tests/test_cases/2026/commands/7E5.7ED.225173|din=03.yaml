@@ -1,14 +1,14 @@
 command_id: 7E5.7ED.225173|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_V_DCHG_PRED_MIN: 669
+    ETRON_BMS_V_DCHG_PRED_MIN: 669
   response: 7ED056251731A22
 - expected_values:
-    AUDI_BMS_V_DCHG_PRED_MIN: 691
+    ETRON_BMS_V_DCHG_PRED_MIN: 691
   response: 7ED056251731AFE
 - expected_values:
-    AUDI_BMS_V_DCHG_PRED_MIN: 692
+    ETRON_BMS_V_DCHG_PRED_MIN: 692
   response: 7ED056251731B08
 - expected_values:
-    AUDI_BMS_V_DCHG_PRED_MIN: 744
+    ETRON_BMS_V_DCHG_PRED_MIN: 744
   response: 7ED056251731D10

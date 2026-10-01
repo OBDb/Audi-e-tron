@@ -1,22 +1,14 @@
 command_id: 7E5.7ED.221E3B|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_CELL_V_SUM: 693
-    AUDI_HVBAT_V: 1000
-    AUDI_HVBAT_VOLTS: 1000
+    ETRON_BMS_CELL_V_SUM: 693
   response: 7ED05621E3B1B12
 - expected_values:
-    AUDI_BMS_CELL_V_SUM: 742.8
-    AUDI_HVBAT_V: 1000
-    AUDI_HVBAT_VOLTS: 1000
+    ETRON_BMS_CELL_V_SUM: 742.8
   response: 7ED05621E3B1D04
 - expected_values:
-    AUDI_BMS_CELL_V_SUM: 767.9
-    AUDI_HVBAT_V: 1000
-    AUDI_HVBAT_VOLTS: 1000
+    ETRON_BMS_CELL_V_SUM: 767.9
   response: 7ED05621E3B1DFF
 - expected_values:
-    AUDI_BMS_CELL_V_SUM: 795.9
-    AUDI_HVBAT_V: 1000
-    AUDI_HVBAT_VOLTS: 1000
+    ETRON_BMS_CELL_V_SUM: 795.9
   response: 7ED05621E3B1F17

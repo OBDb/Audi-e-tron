@@ -1,17 +1,17 @@
 command_id: 744.7AE.2215EF|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_CHRGR_E_TOTAL: 39969
+    ETRON_CHRGR_E_TOTAL: 39969
   response: 7AE076215EF00009C21
 - expected_values:
-    AUDI_CHRGR_E_TOTAL: 98056
+    ETRON_CHRGR_E_TOTAL: 98056
   response: 7AE076215EF00017F08
 - expected_values:
-    AUDI_CHRGR_E_TOTAL: 99583
+    ETRON_CHRGR_E_TOTAL: 99583
   response: 7AE076215EF000184FF
 - expected_values:
-    AUDI_CHRGR_E_TOTAL: 113955
+    ETRON_CHRGR_E_TOTAL: 113955
   response: 7AE076215EF0001BD23
 - expected_values:
-    AUDI_CHRGR_E_TOTAL: 268337
+    ETRON_CHRGR_E_TOTAL: 268337
   response: 7AE076215EF00041831

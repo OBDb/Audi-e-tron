@@ -1,0 +1,14 @@
+command_id: 746.7B0.222612|fc=1
+test_cases:
+- expected_values:
+    ETRON_TRON_CLIMATE_T_AFTER_EVAP: 0
+  response: 7B0056226120000
+- expected_values:
+    ETRON_TRON_CLIMATE_T_AFTER_EVAP: 0
+  response: 7B00562261200D9
+- expected_values:
+    ETRON_TRON_CLIMATE_T_AFTER_EVAP: -0.33333
+  response: 7B005622612FFD5
+- expected_values:
+    ETRON_TRON_CLIMATE_T_AFTER_EVAP: -0.33333
+  response: 7B005622612FFFF

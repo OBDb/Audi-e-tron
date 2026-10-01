@@ -1,0 +1,11 @@
+command_id: 710.77A.222A0F|fc=1
+test_cases:
+- expected_values:
+    ETRON_TRON_USE_BAT_CHG: 41
+  response: '77A 04 62 2A 0F 29 '
+- expected_values:
+    ETRON_TRON_USE_BAT_CHG: 0
+  response: 77A04622A0F00
+- expected_values:
+    ETRON_TRON_USE_BAT_CHG: 48
+  response: 77A04622A0F30
