@@ -1,0 +1,6 @@
+command_id: FC00.FE007B.221E34|ta=7B,c=17,f=2026-
+test_cases:
+- expected_values:
+    ETRON_HVBAT_CELL_V_MIN_2026: 3.736
+    ETRON_HVBAT_CELL_V_MIN_ID_2026: 125
+  response: 17FE007B06621E3491F07D

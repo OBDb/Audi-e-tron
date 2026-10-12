@@ -157,8 +157,8 @@
   ]},
 { "hdr": "742", "rax": "7AC", "fcm1": true, "cmd": {"22": "27D6"}, "freq": 1, "dbgfilter": { "years": [2020, 2023, 2024] },
   "signals": [
-    {"id": "ETRON_PTC_PUMP_RPM", "path": "Engine.Water pump", "fmt": {           "len": 8, "max": 76500, "mul": 300, "unit": "rpm"     }, "name": "Water pump RPM"},
-    {"id": "ETRON_PTC_PUMP_PWR", "path": "Engine.Water pump", "fmt": {"bix": 16, "len": 8, "max": 10200, "mul": 40,  "unit": "unknown" }, "name": "Water pump power"}
+    {"id": "ETRON_PTC_PUMP_RPM", "path": "Engine.Water pump", "fmt": {           "len": 8, "max": 76500, "mul": 300, "nullmax": 76500, "unit": "rpm"     }, "name": "Water pump RPM"},
+    {"id": "ETRON_PTC_PUMP_PWR", "path": "Engine.Water pump", "fmt": {"bix": 16, "len": 8, "max": 10200, "mul": 40,  "nullmax": 10200, "unit": "unknown" }, "name": "Water pump power"}
   ]},
 { "hdr": "742", "rax": "7AC", "fcm1": true, "cmd": {"22": "475F"}, "freq": 1, "dbgfilter": { "years": [2020, 2021, 2023, 2024] },
   "signals": [
@@ -1248,15 +1248,25 @@
     {"id": "ETRON_BMS_CELL_SOC_MIN",     "path": "Battery", "fmt": {          "len": 8, "max": 100, "unit": "percent" }, "name": "Cell state of charge min, value"},
     {"id": "ETRON_BMS_CELL_SOC_MIN_IDX", "path": "Battery", "fmt": {"bix": 8, "len": 8, "max": 255, "unit": "scalar"  }, "name": "Cell state of charge min, index"}
   ]},
-{ "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E33"}, "freq": 1, "dbgfilter": { "years": [2020, 2023, 2024] },
+{ "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E33"}, "freq": 1, "filter": { "to": 2025 }, "dbgfilter": { "years": [2020, 2023, 2024] },
   "signals": [
-    {"id": "ETRON_BMS_CELL_V_MAX",     "path": "Battery", "fmt": {           "len": 16, "max": 6.5535, "div": 10000, "unit": "volts"  }, "name": "Cell voltage max, value"},
-    {"id": "ETRON_BMS_CELL_V_MAX_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "Cell voltage max, index"}
+    {"id": "ETRON_BMS_CELL_V_MAX",     "path": "Battery", "fmt": {           "len": 16, "max": 65.53, "div": 1000, "unit": "volts"  }, "name": "Cell voltage max, value"},
+    {"id": "ETRON_BMS_CELL_V_MAX_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,              "unit": "scalar" }, "name": "Cell voltage max, index"}
   ]},
-{ "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E34"}, "freq": 1, "dbgfilter": { "years": [2020, 2023, 2024] },
+{ "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E33"}, "freq": 1, "filter": { "from": 2026 },
   "signals": [
-    {"id": "ETRON_BMS_CELL_V_MIN",     "path": "Battery", "fmt": {           "len": 16, "max": 6.5535, "div": 10000, "unit": "volts"  }, "name": "Cell voltage min, value"},
-    {"id": "ETRON_BMS_CELL_V_MIN_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "Cell voltage min, index"}
+    {"id": "ETRON_BMS_CELL_V_MAX_2026",     "path": "Battery", "fmt": {           "len": 16, "max": 6.5535, "div": 10000, "unit": "volts"  }, "name": "Cell voltage max, value"},
+    {"id": "ETRON_BMS_CELL_V_MAX_IDX_2026", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "Cell voltage max, index"}
+  ]},
+{ "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E34"}, "freq": 1, "filter": { "to": 2025 }, "dbgfilter": { "years": [2020, 2023, 2024] },
+  "signals": [
+    {"id": "ETRON_BMS_CELL_V_MIN",     "path": "Battery", "fmt": {           "len": 16, "max": 65.53, "div": 1000, "unit": "volts"  }, "name": "Cell voltage min, value"},
+    {"id": "ETRON_BMS_CELL_V_MIN_IDX", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,              "unit": "scalar" }, "name": "Cell voltage min, index"}
+  ]},
+{ "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E34"}, "freq": 1, "filter": { "from": 2026 },
+  "signals": [
+    {"id": "ETRON_BMS_CELL_V_MIN_2026",     "path": "Battery", "fmt": {           "len": 16, "max": 6.5535, "div": 10000, "unit": "volts"  }, "name": "Cell voltage min, value"},
+    {"id": "ETRON_BMS_CELL_V_MIN_IDX_2026", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "Cell voltage min, index"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E3B"}, "freq": 1, "dbgfilter": { "years": [2023, 2024] },
   "signals": [
@@ -1268,7 +1278,7 @@
   ]},
 { "hdr": "7E5", "rax": "7ED", "cmd": {"22": "1E3D"}, "freq": 5, "dbgfilter": { "from": 2023 },
   "signals": [
-    {"id": "ETRON_HVBAT_CURRENT", "path": "Battery", "fmt": { "len": 16, "max": 200, "min": -200, "div": 4, "add": -511, "unit": "amps" }, "name": "HV battery current", "suggestedMetric": "tractionBatteryCurrent"}
+    {"id": "ETRON_HVBAT_CURRENT", "path": "Battery", "fmt": { "len": 24, "max": 1500, "min": -1500, "div": 100, "add": -1500, "unit": "amps" }, "name": "HV battery current", "suggestedMetric": "tractionBatteryCurrent"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "cmd": {"22": "1E40"}, "freq": 30, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
@@ -1704,7 +1714,7 @@
   ]},
 { "hdr": "7E5", "rax": "7ED", "cmd": {"22": "51E0"}, "freq": 30, "dbgfilter": { "years": [2023, 2024] },
   "signals": [
-    {"id": "ETRON_HVBAT_SOH", "path": "Battery", "fmt": { "len": 16, "max": 6524, "min": -1798.574, "mul": 0.127, "add": -1798.574, "unit": "percent" }, "name": "HV battery health", "suggestedMetric": "stateOfHealth"}
+    {"id": "ETRON_HVBAT_SOH", "path": "Battery", "fmt": { "len": 16, "max": 6524, "min": -1798.574, "mul": 0.127, "add": -1798.574, "nullmax": 6524, "unit": "percent" }, "name": "HV battery health", "suggestedMetric": "stateOfHealth"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "cmd": {"22": "5200"}, "freq": 3600, "dbgfilter": { "to": 2021, "years": [2023, 2024] },
   "signals": [
@@ -1740,18 +1750,18 @@
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "189D"}, "freq": 1, "dbgfilter": { "years": [2020], "from": 2023 },
   "signals": [
-    {"id": "ETRON_HVBAT_T_OUT", "path": "Battery", "fmt": {           "len": 16, "max": 511, "min": -512, "div": 64, "sign": true, "unit": "celsius" }, "name": "Battery temperature, outlet"},
-    {"id": "ETRON_HVBAT_T_IN",  "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 511, "min": -512, "div": 64, "sign": true, "unit": "celsius" }, "name": "Battery temperature, inlet"}
+    {"id": "ETRON_HVBAT_T_OUT", "path": "Battery", "fmt": {          "len": 8, "max": 155, "min": -100, "add": -100, "unit": "celsius" }, "name": "Battery temperature, outlet"},
+    {"id": "ETRON_HVBAT_T_IN",  "path": "Battery", "fmt": {"bix": 8, "len": 8, "max": 155, "min": -100, "add": -100, "unit": "celsius" }, "name": "Battery temperature, inlet"}
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E0E"}, "freq": 1, "dbgfilter": { "years": [2020, 2023, 2024] },
   "signals": [
-    {"id": "ETRON_HVBAT_T_MAX_V2", "path": "Battery", "fmt": {           "len": 16, "max": 511,   "min": -512, "div": 64, "sign": true, "unit": "celsius" }, "name": "Battery temperature, max"},
-    {"id": "ETRON_HVBAT_T_MAX_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,                                       "unit": "scalar"  }, "name": "Battery temperature, max sensor ID"}
+    {"id": "ETRON_HVBAT_T_MAX_V2", "path": "Battery", "fmt": {          "len": 8, "max": 155, "min": -100, "add": -100, "unit": "celsius" }, "name": "Battery temperature, max"},
+    {"id": "ETRON_HVBAT_T_MAX_ID", "path": "Battery", "fmt": {"bix": 8, "len": 8, "max": 255,                           "unit": "scalar"  }, "name": "Battery temperature, max sensor ID"}
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E0F"}, "freq": 1, "dbgfilter": { "years": [2020, 2023, 2024] },
   "signals": [
-    {"id": "ETRON_HVBAT_T_MIN",    "path": "Battery", "fmt": {           "len": 16, "max": 511,   "min": -512, "div": 64, "sign": true, "unit": "celsius" }, "name": "Battery temperature, min"},
-    {"id": "ETRON_HVBAT_T_MIN_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,                                       "unit": "scalar"  }, "name": "Battery temperature, min sensor ID"}
+    {"id": "ETRON_HVBAT_T_MIN",    "path": "Battery", "fmt": {          "len": 8, "max": 155, "min": -100, "add": -100, "unit": "celsius" }, "name": "Battery temperature, min"},
+    {"id": "ETRON_HVBAT_T_MIN_ID", "path": "Battery", "fmt": {"bix": 8, "len": 8, "max": 255,                           "unit": "scalar"  }, "name": "Battery temperature, min sensor ID"}
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E1B"}, "freq": 1, "dbgfilter": { "years": [2020, 2023, 2024] },
   "signals": [
@@ -1771,15 +1781,25 @@
     {"id": "ETRON_HVBAT_CELL_SOC_MIN",    "path": "Battery", "fmt": {           "len": 16, "max": 100,   "div": 100, "unit": "percent" }, "name": "Battery cell soc, minimum"},
     {"id": "ETRON_HVBAT_CELL_SOC_MIN_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,             "unit": "scalar"  }, "name": "Battery cell soc min, ID"}
   ]},
-{ "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E33"}, "freq": 1, "dbgfilter": { "years": [2020, 2023, 2024] },
+{ "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E33"}, "freq": 1, "filter": { "to": 2025 }, "dbgfilter": { "years": [2020, 2023, 2024] },
   "signals": [
-    {"id": "ETRON_HVBAT_CELL_V_MAX_V2", "path": "Battery", "fmt": {           "len": 16, "max": 15.997, "mul": 2441, "div": 10000, "unit": "volts"  }, "name": "HV battery cell voltage, maximum"},
-    {"id": "ETRON_HVBAT_CELL_V_MAX_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,                             "unit": "scalar" }, "name": "HV battery cell voltage max, ID"}
+    {"id": "ETRON_HVBAT_CELL_V_MAX_V2", "path": "Battery", "fmt": {           "len": 16, "max": 65.53, "div": 1000, "unit": "volts"  }, "name": "HV battery cell voltage, maximum"},
+    {"id": "ETRON_HVBAT_CELL_V_MAX_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,              "unit": "scalar" }, "name": "HV battery cell voltage max, ID"}
   ]},
-{ "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E34"}, "freq": 1, "dbgfilter": { "years": [2020, 2023, 2024] },
+{ "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E33"}, "freq": 1, "filter": { "from": 2026 },
   "signals": [
-    {"id": "ETRON_HVBAT_CELL_V_MIN_V2", "path": "Battery", "fmt": {           "len": 16, "max": 15.997, "mul": 2441, "div": 10000, "unit": "volts"  }, "name": "HV battery cell voltage, minimum"},
-    {"id": "ETRON_HVBAT_CELL_V_MIN_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,                             "unit": "scalar" }, "name": "HV battery cell voltage min, ID"}
+    {"id": "ETRON_HVBAT_CELL_V_MAX_2026",    "path": "Battery", "fmt": {           "len": 16, "max": 6.5535, "div": 10000, "unit": "volts"  }, "name": "HV battery cell voltage, maximum"},
+    {"id": "ETRON_HVBAT_CELL_V_MAX_ID_2026", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "HV battery cell voltage max, ID"}
+  ]},
+{ "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E34"}, "freq": 1, "filter": { "to": 2025 }, "dbgfilter": { "years": [2020, 2023, 2024] },
+  "signals": [
+    {"id": "ETRON_HVBAT_CELL_V_MIN_V2", "path": "Battery", "fmt": {           "len": 16, "max": 65.53, "div": 1000, "unit": "volts"  }, "name": "HV battery cell voltage, minimum"},
+    {"id": "ETRON_HVBAT_CELL_V_MIN_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,              "unit": "scalar" }, "name": "HV battery cell voltage min, ID"}
+  ]},
+{ "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E34"}, "freq": 1, "filter": { "from": 2026 },
+  "signals": [
+    {"id": "ETRON_HVBAT_CELL_V_MIN_2026",    "path": "Battery", "fmt": {           "len": 16, "max": 6.5535, "div": 10000, "unit": "volts"  }, "name": "HV battery cell voltage, minimum"},
+    {"id": "ETRON_HVBAT_CELL_V_MIN_ID_2026", "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "HV battery cell voltage min, ID"}
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E3B"}, "freq": 1, "dbgfilter": { "years": [2020, 2023, 2024] },
   "signals": [
@@ -2245,7 +2265,7 @@
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "F40C"}, "freq": 1, "dbgfilter": { "years": [2020, 2023, 2024] },
   "signals": [
-    {"id": "ETRON_ELDRIVE_MOTOR_RPM", "path": "Movement", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Motor RPM"}
+    {"id": "ETRON_ELDRIVE_MOTOR_RPM", "path": "Movement", "fmt": { "len": 16, "max": 16383.75, "div": 4, "nullmax": 16383.75, "unit": "rpm" }, "name": "Motor RPM"}
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "years": [2020, 2023, 2024] },
   "signals": [
