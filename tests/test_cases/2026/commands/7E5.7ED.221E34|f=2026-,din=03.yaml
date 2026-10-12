@@ -1,0 +1,26 @@
+command_id: 7E5.7ED.221E34|f=2026-,din=03
+test_cases:
+- expected_values:
+    ETRON_BMS_CELL_V_MIN_2026: 3.489
+    ETRON_BMS_CELL_V_MIN_IDX_2026: 125
+  response: 7ED06621E34884A7D
+- expected_values:
+    ETRON_BMS_CELL_V_MIN_2026: 3.507
+    ETRON_BMS_CELL_V_MIN_IDX_2026: 125
+  response: 7ED06621E3488FE7D
+- expected_values:
+    ETRON_BMS_CELL_V_MIN_2026: 3.673
+    ETRON_BMS_CELL_V_MIN_IDX_2026: 173
+  response: 7ED06621E348F7AAD
+- expected_values:
+    ETRON_BMS_CELL_V_MIN_2026: 3.799
+    ETRON_BMS_CELL_V_MIN_IDX_2026: 1
+  response: 7ED06621E34946601
+- expected_values:
+    ETRON_BMS_CELL_V_MIN_2026: 3.84
+    ETRON_BMS_CELL_V_MIN_IDX_2026: 125
+  response: 7ED06621E3496007D
+- expected_values:
+    ETRON_BMS_CELL_V_MIN_2026: 4.025
+    ETRON_BMS_CELL_V_MIN_IDX_2026: 125
+  response: 7ED06621E349D3A7D

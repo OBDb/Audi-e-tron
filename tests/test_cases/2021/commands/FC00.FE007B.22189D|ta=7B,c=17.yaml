@@ -1,8 +1,10 @@
 command_id: FC00.FE007B.22189D|ta=7B,c=17
 test_cases:
 - expected_values:
-    ETRON_HVBAT_T_OUT: 413.625
+    ETRON_HVBAT_T_IN: 4
+    ETRON_HVBAT_T_OUT: 3
   response: 17FE007B0562189D6768
 - expected_values:
-    ETRON_HVBAT_T_OUT: 457.79688
+    ETRON_HVBAT_T_IN: 15
+    ETRON_HVBAT_T_OUT: 14
   response: 17FE007B0562189D7273

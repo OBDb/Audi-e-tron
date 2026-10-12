@@ -1,6 +1,6 @@
 command_id: 742.7AC.2227D6|fc=1
 test_cases:
 - expected_values:
-    ETRON_PTC_PUMP_PWR: 10200
-    ETRON_PTC_PUMP_RPM: 76500
+    ETRON_PTC_PUMP_PWR: null
+    ETRON_PTC_PUMP_RPM: null
   response: 7AC066227D6FFFFFF

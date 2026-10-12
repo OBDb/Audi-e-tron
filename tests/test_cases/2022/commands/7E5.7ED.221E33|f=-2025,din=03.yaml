@@ -1,0 +1,47 @@
+command_id: 7E5.7ED.221E33|f=-2025,din=03
+test_cases:
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 34.01
+  response: 7ED06621E3384DA1A
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 35.07
+  response: 7ED06621E3388FE1F
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 35.26
+  response: 7ED06621E3389BC0A
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 35.84
+  response: 7ED06621E338C001F
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 36.77
+  response: 7ED06621E338FA221
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 37.45
+  response: 7ED06621E33924A01
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 41.99
+  response: 7ED06621E33A40601
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 3.44
+    ETRON_BMS_CELL_V_MAX_IDX: 11
+  response: 7ED07621E330D70000B
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 3.583
+    ETRON_BMS_CELL_V_MAX_IDX: 17
+  response: 7ED07621E330DFF0011
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 3.584
+    ETRON_BMS_CELL_V_MAX_IDX: 17
+  response: 7ED07621E330E000011
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 3.707
+    ETRON_BMS_CELL_V_MAX_IDX: 108
+  response: 7ED07621E330E7B006C
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 3.964
+    ETRON_BMS_CELL_V_MAX_IDX: 1
+  response: 7ED07621E330F7C0001
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 4.097
+    ETRON_BMS_CELL_V_MAX_IDX: 22
+  response: 7ED07621E3310010016

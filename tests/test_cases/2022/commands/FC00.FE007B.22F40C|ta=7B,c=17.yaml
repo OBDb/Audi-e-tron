@@ -4,5 +4,11 @@ test_cases:
     ETRON_ELDRIVE_MOTOR_RPM: 0
   response: 17FE007B0562F40C0000
 - expected_values:
-    ETRON_ELDRIVE_MOTOR_RPM: 16383.75
+    ETRON_ELDRIVE_MOTOR_RPM: 127
+  response: 17FE007B0562F40C01FC
+- expected_values:
+    ETRON_ELDRIVE_MOTOR_RPM: 8918
+  response: 17FE007B0562F40C8B58
+- expected_values:
+    ETRON_ELDRIVE_MOTOR_RPM: null
   response: 17FE007B0562F40CFFFF

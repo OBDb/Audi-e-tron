@@ -1,22 +1,22 @@
 command_id: 7E5.7ED.221E3D
 test_cases:
 - expected_values:
-    ETRON_HVBAT_CURRENT: -200
+    ETRON_HVBAT_CURRENT: -3
   response: |-
     221E3D1
     7ED06621E3D0248C4
 - expected_values:
-    ETRON_HVBAT_CURRENT: -200
+    ETRON_HVBAT_CURRENT: -289.75
   response: 7ED06621E3D01D8C1
 - expected_values:
-    ETRON_HVBAT_CURRENT: -200
+    ETRON_HVBAT_CURRENT: -190.55
   response: 7ED06621E3D01FF81
 - expected_values:
-    ETRON_HVBAT_CURRENT: -200
+    ETRON_HVBAT_CURRENT: -173.85
   response: 7ED06621E3D020607
 - expected_values:
-    ETRON_HVBAT_CURRENT: -200
+    ETRON_HVBAT_CURRENT: -102.25
   response: 7ED06621E3D0221FF
 - expected_values:
-    ETRON_HVBAT_CURRENT: -200
+    ETRON_HVBAT_CURRENT: -4.95
   response: 7ED06621E3D024801
