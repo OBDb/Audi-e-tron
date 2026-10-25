@@ -1,0 +1,20 @@
+command_id: FC00.FE007B.22F40D|ta=7B,c=17
+test_cases:
+- expected_values:
+    ETRON_VSS_V2: 0
+  response: 17FE007B0462F40D00
+- expected_values:
+    ETRON_VSS_V2: 29
+  response: 17FE007B0462F40D1D
+- expected_values:
+    ETRON_VSS_V2: 31
+  response: 17FE007B0462F40D1F
+- expected_values:
+    ETRON_VSS_V2: 53
+  response: 17FE007B0462F40D35
+- expected_values:
+    ETRON_VSS_V2: 57
+  response: 17FE007B0462F40D39
+- expected_values:
+    ETRON_VSS_V2: 255
+  response: 17FE007B0462F40DFF

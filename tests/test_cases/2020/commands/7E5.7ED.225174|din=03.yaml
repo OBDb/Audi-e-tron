@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.225174|din=03
+test_cases:
+- expected_values:
+    ETRON_BMS_V_CHG_DYN_MIN: 415
+  response: 7ED056251741036
+- expected_values:
+    ETRON_BMS_V_CHG_DYN_MIN: 429.3
+  response: 7ED0562517410C5
+- expected_values:
+    ETRON_BMS_V_CHG_DYN_MIN: 437.2
+  response: 7ED056251741114

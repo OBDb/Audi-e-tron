@@ -1,5 +1,8 @@
 command_id: 7E5.7ED.2251E0
 test_cases:
 - expected_values:
+    ETRON_HVBAT_SOH: 92.964
+  response: 7ED056251E03A2E
+- expected_values:
     ETRON_HVBAT_SOH: null
   response: 7ED056251E0FFFE

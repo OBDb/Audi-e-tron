@@ -1,0 +1,37 @@
+command_id: 710.77A.222A53|fc=1
+test_cases:
+- expected_values:
+    ETRON_DCDC_I: 0
+    ETRON_DCDC_I_RSV: 0
+    ETRON_DCDC_V_LOW: 12.2
+  response: |-
+    77A1008622A537A01FF
+    77A2101FFAAAAAAAAAA
+- expected_values:
+    ETRON_DCDC_I: 29
+    ETRON_DCDC_I_RSV: 213
+    ETRON_DCDC_V_LOW: 12.9
+  response: |-
+    77A1008622A5381021C
+    77A2102D4AAAAAAAAAA
+- expected_values:
+    ETRON_DCDC_I: 29
+    ETRON_DCDC_I_RSV: 210
+    ETRON_DCDC_V_LOW: 13
+  response: |-
+    77A1008622A5382021C
+    77A2102D1AAAAAAAAAA
+- expected_values:
+    ETRON_DCDC_I: 26
+    ETRON_DCDC_I_RSV: 216
+    ETRON_DCDC_V_LOW: 15
+  response: |-
+    77A1008622A53960219
+    77A2102D7AAAAAAAAAA
+- expected_values:
+    ETRON_DCDC_I: 29
+    ETRON_DCDC_I_RSV: 207
+    ETRON_DCDC_V_LOW: 15.2
+  response: |-
+    77A1008622A5398021C
+    77A2102CEAAAAAAAAAA

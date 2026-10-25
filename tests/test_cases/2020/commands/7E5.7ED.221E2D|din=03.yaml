@@ -1,0 +1,26 @@
+command_id: 7E5.7ED.221E2D|din=03
+test_cases:
+- expected_values:
+    ETRON_BMS_CELL_SOC_MIN: 58
+    ETRON_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D3A002E
+- expected_values:
+    ETRON_BMS_CELL_SOC_MIN: 59
+    ETRON_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D3B002E
+- expected_values:
+    ETRON_BMS_CELL_SOC_MIN: 70
+    ETRON_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D460037
+- expected_values:
+    ETRON_BMS_CELL_SOC_MIN: 71
+    ETRON_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D470068
+- expected_values:
+    ETRON_BMS_CELL_SOC_MIN: 77
+    ETRON_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D4D0065
+- expected_values:
+    ETRON_BMS_CELL_SOC_MIN: 78
+    ETRON_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D4E0065

@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221159
+test_cases:
+- expected_values:
+    ETRON_MAX_CHA_CUR_2: 68
+  response: 7E80562115902A8
+- expected_values:
+    ETRON_MAX_CHA_CUR_2: 143
+  response: '7E8056211590596'
+- expected_values:
+    ETRON_MAX_CHA_CUR_2: 149
+  response: 7E80562115905D2
+- expected_values:
+    ETRON_MAX_CHA_CUR_2: 151
+  response: 7E80562115905E6
+- expected_values:
+    ETRON_MAX_CHA_CUR_2: 157
+  response: '7E8056211590622'
+- expected_values:
+    ETRON_MAX_CHA_CUR_2: 198
+  response: 7E80562115907BC
+- expected_values:
+    ETRON_MAX_CHA_CUR_2: 203
+  response: 7E80562115907EE
+- expected_values:
+    ETRON_MAX_CHA_CUR_2: 211
+  response: 7E805621159083E
+- expected_values:
+    ETRON_MAX_CHA_CUR_2: 216
+  response: '7E8056211590870'
+- expected_values:
+    ETRON_MAX_CHA_CUR_2: 244
+  response: '7E8056211590988'

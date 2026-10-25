@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.221E6D
+test_cases:
+- expected_values:
+    ETRON_HVBAT_CELL_46_V: 0.9209
+  response: 7ED05621E6D0EBC
+- expected_values:
+    ETRON_HVBAT_CELL_46_V: 0.92114
+  response: 7ED05621E6D0EBD
+- expected_values:
+    ETRON_HVBAT_CELL_46_V: 0.92139
+  response: 7ED05621E6D0EBE

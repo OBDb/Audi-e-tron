@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221154
+test_cases:
+- expected_values:
+    ETRON_EM_TORQ_2: 0
+  response: '7E8056211540000'
+- expected_values:
+    ETRON_EM_TORQ_2: 6.5
+  response: 7E80562115400D0
+- expected_values:
+    ETRON_EM_TORQ_2: 27.5
+  response: '7E8056211540370'
+- expected_values:
+    ETRON_EM_TORQ_2: 46
+  response: 7E80562115405C0
+- expected_values:
+    ETRON_EM_TORQ_2: 51.5
+  response: '7E8056211540670'
+- expected_values:
+    ETRON_EM_TORQ_2: -125
+  response: 7E805621154F060
+- expected_values:
+    ETRON_EM_TORQ_2: -99
+  response: 7E805621154F3A0
+- expected_values:
+    ETRON_EM_TORQ_2: -64.5
+  response: 7E805621154F7F0
+- expected_values:
+    ETRON_EM_TORQ_2: -5.5
+  response: 7E805621154FF50
+- expected_values:
+    ETRON_EM_TORQ_2: -0.5
+  response: 7E805621154FFF0

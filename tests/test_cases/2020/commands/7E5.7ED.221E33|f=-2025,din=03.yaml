@@ -1,0 +1,18 @@
+command_id: 7E5.7ED.221E33|f=-2025,din=03
+test_cases:
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 3.773
+    ETRON_BMS_CELL_V_MAX_IDX: 9
+  response: 7ED07621E330EBD0009
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 3.828
+    ETRON_BMS_CELL_V_MAX_IDX: 9
+  response: 7ED07621E330EF40009
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 3.86
+    ETRON_BMS_CELL_V_MAX_IDX: 25
+  response: 7ED07621E330F140019
+- expected_values:
+    ETRON_BMS_CELL_V_MAX: 3.937
+    ETRON_BMS_CELL_V_MAX_IDX: 82
+  response: 7ED07621E330F610052

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2229D4
+test_cases:
+- expected_values:
+    ETRON_ENG_TRQ_REQ_1: 0
+  response: 7E8056229D40000
+- expected_values:
+    ETRON_ENG_TRQ_REQ_1: 1.4
+  response: 7E8056229D4000E
+- expected_values:
+    ETRON_ENG_TRQ_REQ_1: 3.8
+  response: 7E8056229D40026
+- expected_values:
+    ETRON_ENG_TRQ_REQ_1: 4.1
+  response: 7E8056229D40029
+- expected_values:
+    ETRON_ENG_TRQ_REQ_1: 19
+  response: 7E8056229D400BE

@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.2274BA
+test_cases:
+- expected_values:
+    ETRON_HV_INTERLOCK_SRC_V: 0.64896
+  response: 7ED056274BA084E
+- expected_values:
+    ETRON_HV_INTERLOCK_SRC_V: 0.65171
+  response: 7ED056274BA0857
+- expected_values:
+    ETRON_HV_INTERLOCK_SRC_V: 0.65446
+  response: 7ED056274BA0860

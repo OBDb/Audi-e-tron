@@ -1,0 +1,52 @@
+command_id: 744.7AE.221DDA|fc=1
+test_cases:
+- expected_values:
+    ETRON_OBC_T_A: -55
+  response: |-
+    7AE100A621DDA000000
+    7AE21FE700000040B00
+- expected_values:
+    ETRON_OBC_T_A: -55
+  response: |-
+    7AE100A621DDA000000
+    7AE21FE7002A8040B00
+- expected_values:
+    ETRON_OBC_T_A: -55
+  response: |-
+    7AE100A621DDA000000
+    7AE21FE7005D2040B00
+- expected_values:
+    ETRON_OBC_T_A: -55
+  response: |-
+    7AE100A621DDA000000
+    7AE21FE700618040B00
+- expected_values:
+    ETRON_OBC_T_A: -55
+  response: |-
+    7AE100A621DDA000000
+    7AE21FE7007F8040B00
+- expected_values:
+    ETRON_OBC_T_A: -55
+  response: |-
+    7AE100A621DDA000000
+    7AE21FE70085C040B00
+- expected_values:
+    ETRON_OBC_T_A: -55
+  response: |-
+    7AE100A621DDA000000
+    7AE21FE702A06040B00
+- expected_values:
+    ETRON_OBC_T_A: -55
+  response: |-
+    7AE100A621DDA000000
+    7AE21FE707F00040B00
+- expected_values:
+    ETRON_OBC_T_A: -55
+  response: |-
+    7AE100A621DDA020000
+    7AE2100C809880C0B00
+- expected_values:
+    ETRON_OBC_T_A: -55
+  response: |-
+    7AE100A621DDA020000
+    7AE2100C84F530C0B00

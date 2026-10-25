@@ -4,5 +4,5 @@ test_cases:
     ETRON_TRON_BAT_SOC: 74
   response: 77A04622A0C4A
 - expected_values:
-    ETRON_TRON_BAT_SOC: 93
-  response: 77A04622A0C5D
+    ETRON_TRON_BAT_SOC: 95
+  response: 77A04622A0C5F

@@ -1,0 +1,20 @@
+command_id: FC00.FE007B.221E1B|ta=7B,c=17
+test_cases:
+- expected_values:
+    ETRON_HVBAT_I_LIM_CHG: 28.8
+  response: 17FE007B05621E1B0090
+- expected_values:
+    ETRON_HVBAT_I_LIM_CHG: 30.6
+  response: 17FE007B05621E1B0099
+- expected_values:
+    ETRON_HVBAT_I_LIM_CHG: 31.8
+  response: 17FE007B05621E1B009F
+- expected_values:
+    ETRON_HVBAT_I_LIM_CHG: 42.6
+  response: 17FE007B05621E1B00D5
+- expected_values:
+    ETRON_HVBAT_I_LIM_CHG: 43.4
+  response: 17FE007B05621E1B00D9
+- expected_values:
+    ETRON_HVBAT_I_LIM_CHG: 48.8
+  response: 17FE007B05621E1B00F4

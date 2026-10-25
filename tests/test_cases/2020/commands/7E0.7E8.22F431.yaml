@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
+    ETRON_TRON_CLR_DIST: 1231
+  response: 7E80562F43104CF
+- expected_values:
+    ETRON_TRON_CLR_DIST: 1244
+  response: 7E80562F43104DC
+- expected_values:
     ETRON_TRON_CLR_DIST: 42107
   response: 7E80562F431A47B
-- expected_values:
-    ETRON_TRON_CLR_DIST: 42162
-  response: 7E80562F431A4B2
