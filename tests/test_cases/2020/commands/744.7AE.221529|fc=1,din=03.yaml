@@ -16,5 +16,8 @@ test_cases:
     ETRON_CHRGR_PRX_V_CONN_B: 4653
   response: 7AE05621529122D
 - expected_values:
+    ETRON_CHRGR_PRX_V_CONN_B: 4658
+  response: 7AE056215291232
+- expected_values:
     ETRON_CHRGR_PRX_V_CONN_B: 4663
   response: 7AE056215291237

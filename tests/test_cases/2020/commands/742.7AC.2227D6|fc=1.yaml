@@ -9,6 +9,10 @@ test_cases:
     ETRON_PTC_PUMP_RPM: 0
   response: 7AC066227D600D500
 - expected_values:
+    ETRON_PTC_PUMP_PWR: 800
+    ETRON_PTC_PUMP_RPM: 2400
+  response: 7AC066227D608C814
+- expected_values:
     ETRON_PTC_PUMP_PWR: 880
     ETRON_PTC_PUMP_RPM: 2400
   response: 7AC066227D608D316

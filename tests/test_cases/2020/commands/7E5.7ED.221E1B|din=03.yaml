@@ -4,29 +4,8 @@ test_cases:
     ETRON_BMS_I_CHG_LIM_DYN: 68
   response: 7ED05621E1B0044
 - expected_values:
-    ETRON_BMS_I_CHG_LIM_DYN: 143
-  response: 7ED05621E1B008F
-- expected_values:
-    ETRON_BMS_I_CHG_LIM_DYN: 144
-  response: 7ED05621E1B0090
-- expected_values:
-    ETRON_BMS_I_CHG_LIM_DYN: 149
-  response: 7ED05621E1B0095
-- expected_values:
-    ETRON_BMS_I_CHG_LIM_DYN: 150
-  response: 7ED05621E1B0096
-- expected_values:
-    ETRON_BMS_I_CHG_LIM_DYN: 156
-  response: 7ED05621E1B009C
-- expected_values:
-    ETRON_BMS_I_CHG_LIM_DYN: 204
-  response: 7ED05621E1B00CC
-- expected_values:
-    ETRON_BMS_I_CHG_LIM_DYN: 210
-  response: 7ED05621E1B00D2
-- expected_values:
-    ETRON_BMS_I_CHG_LIM_DYN: 214
-  response: 7ED05621E1B00D6
-- expected_values:
     ETRON_BMS_I_CHG_LIM_DYN: 244
   response: 7ED05621E1B00F4
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_DYN: 600
+  response: 7ED05621E1B0258

@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     ETRON_TRON_ODO_MILEAGE_HR: 89999.326
   response: 77E076222B8055D47DE
+- expected_values:
+    ETRON_TRON_ODO_MILEAGE_HR: 90012.754
+  response: 77E076222B8055D7C52
+- expected_values:
+    ETRON_TRON_ODO_MILEAGE_HR: 90012.756
+  response: 77E076222B8055D7C54
+- expected_values:
+    ETRON_TRON_ODO_MILEAGE_HR: 90012.757
+  response: 77E076222B8055D7C55

@@ -1,5 +1,8 @@
 command_id: 744.7AE.224237
 test_cases:
 - expected_values:
+    ETRON_CHG_HV_I: 0
+  response: 7AE056242370000
+- expected_values:
     ETRON_CHG_HV_I: 1.25
   response: 7AE056242370005

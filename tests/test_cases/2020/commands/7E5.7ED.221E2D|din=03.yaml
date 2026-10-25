@@ -1,6 +1,10 @@
 command_id: 7E5.7ED.221E2D|din=03
 test_cases:
 - expected_values:
+    ETRON_BMS_CELL_SOC_MIN: 55
+    ETRON_BMS_CELL_SOC_MIN_IDX: 0
+  response: 7ED06621E2D37002E
+- expected_values:
     ETRON_BMS_CELL_SOC_MIN: 58
     ETRON_BMS_CELL_SOC_MIN_IDX: 0
   response: 7ED06621E2D3A002E

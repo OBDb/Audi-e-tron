@@ -4,11 +4,11 @@ test_cases:
     ETRON_TRON_BAT_I: 0.069
   response: 77A07622A0900000045
 - expected_values:
-    ETRON_TRON_BAT_I: 1.567
-  response: 77A07622A090000061F
+    ETRON_TRON_BAT_I: 0.784
+  response: 77A07622A0900000310
 - expected_values:
-    ETRON_TRON_BAT_I: -15.158
-  response: 77A07622A09FFFFC4CA
+    ETRON_TRON_BAT_I: -19.035
+  response: 77A07622A09FFFFB5A5
 - expected_values:
     ETRON_TRON_BAT_I: -0.103
   response: 77A07622A09FFFFFF99

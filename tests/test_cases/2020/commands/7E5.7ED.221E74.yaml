@@ -1,6 +1,21 @@
 command_id: 7E5.7ED.221E74
 test_cases:
 - expected_values:
+    ETRON_HVBAT_CELL_53_V: 0.90869
+  response: 7ED05621E740E8A
+- expected_values:
+    ETRON_HVBAT_CELL_53_V: 0.90918
+  response: 7ED05621E740E8C
+- expected_values:
+    ETRON_HVBAT_CELL_53_V: 0.90942
+  response: 7ED05621E740E8D
+- expected_values:
+    ETRON_HVBAT_CELL_53_V: 0.91016
+  response: 7ED05621E740E90
+- expected_values:
+    ETRON_HVBAT_CELL_53_V: 0.9104
+  response: 7ED05621E740E91
+- expected_values:
     ETRON_HVBAT_CELL_53_V: 0.92285
   response: 7ED05621E740EC4
 - expected_values:

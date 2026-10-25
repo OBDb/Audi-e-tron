@@ -1,8 +1,8 @@
 command_id: 7E5.7ED.225172|din=03
 test_cases:
 - expected_values:
-    ETRON_BMS_V_CHG_PRED_MIN: 415
-  response: 7ED056251721036
+    ETRON_BMS_V_CHG_PRED_MIN: 411.4
+  response: 7ED056251721012
 - expected_values:
     ETRON_BMS_V_CHG_PRED_MIN: 432.4
   response: 7ED0562517210E4

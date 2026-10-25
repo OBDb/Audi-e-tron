@@ -4,8 +4,5 @@ test_cases:
     ETRON_CHRGR_V_OUT: 0
   response: 7AE05621DA70004
 - expected_values:
-    ETRON_CHRGR_V_OUT: 1
-  response: 7AE05621DA70199
-- expected_values:
-    ETRON_CHRGR_V_OUT: 1
-  response: 7AE05621DA701AE
+    ETRON_CHRGR_V_OUT: 3
+  response: 7AE05621DA703FE

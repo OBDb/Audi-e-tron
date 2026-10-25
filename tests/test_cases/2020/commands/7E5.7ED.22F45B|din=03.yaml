@@ -1,6 +1,12 @@
 command_id: 7E5.7ED.22F45B|din=03
 test_cases:
 - expected_values:
+    ETRON_BMS_SOC_HIRES: 55.68627
+  response: 7ED0462F45B8E
+- expected_values:
+    ETRON_BMS_SOC_HIRES: 56.07843
+  response: 7ED0462F45B8F
+- expected_values:
     ETRON_BMS_SOC_HIRES: 59.21569
   response: 7ED0462F45B97
 - expected_values:

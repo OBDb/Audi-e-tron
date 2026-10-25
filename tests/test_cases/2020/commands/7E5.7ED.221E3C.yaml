@@ -1,20 +1,11 @@
 command_id: 7E5.7ED.221E3C
 test_cases:
 - expected_values:
-    ETRON_HVBAT_CELL_SUM_V: 99.76904
-  response: 7ED06621E3C063C4E
-- expected_values:
-    ETRON_HVBAT_CELL_SUM_V: 99.78003
-  response: 7ED06621E3C063C7B
+    ETRON_HVBAT_CELL_SUM_V: 98.12842
+  response: 7ED06621E3C06220E
 - expected_values:
     ETRON_HVBAT_CELL_SUM_V: 99.80396
   response: 7ED06621E3C063CDD
 - expected_values:
     ETRON_HVBAT_CELL_SUM_V: 99.82617
   response: 7ED06621E3C063D38
-- expected_values:
-    ETRON_HVBAT_CELL_SUM_V: 99.83862
-  response: 7ED06621E3C063D6B
-- expected_values:
-    ETRON_HVBAT_CELL_SUM_V: 99.85205
-  response: 7ED06621E3C063DA2
