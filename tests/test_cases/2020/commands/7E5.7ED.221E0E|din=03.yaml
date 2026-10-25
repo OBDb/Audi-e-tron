@@ -5,30 +5,14 @@ test_cases:
     ETRON_BMS_T_MAX_CELL: 49
   response: 7ED05621E0E6831
 - expected_values:
-    ETRON_BMS_T_MAX: 5
-    ETRON_BMS_T_MAX_CELL: 15
-  response: 7ED05621E0E690F
-- expected_values:
-    ETRON_BMS_T_MAX: 5
-    ETRON_BMS_T_MAX_CELL: 47
-  response: 7ED05621E0E692F
-- expected_values:
     ETRON_BMS_T_MAX: 7
     ETRON_BMS_T_MAX_CELL: 12
   response: 7ED05621E0E6B0C
 - expected_values:
-    ETRON_BMS_T_MAX: 7
-    ETRON_BMS_T_MAX_CELL: 49
-  response: 7ED05621E0E6B31
-- expected_values:
-    ETRON_BMS_T_MAX: 9
-    ETRON_BMS_T_MAX_CELL: 49
-  response: 7ED05621E0E6D31
-- expected_values:
-    ETRON_BMS_T_MAX: 12
+    ETRON_BMS_T_MAX: 13
     ETRON_BMS_T_MAX_CELL: 57
-  response: 7ED05621E0E7039
+  response: 7ED05621E0E7139
 - expected_values:
-    ETRON_BMS_T_MAX: 12
-    ETRON_BMS_T_MAX_CELL: 60
-  response: 7ED05621E0E703C
+    ETRON_BMS_T_MAX: 13
+    ETRON_BMS_T_MAX_CELL: 71
+  response: 7ED05621E0E7147

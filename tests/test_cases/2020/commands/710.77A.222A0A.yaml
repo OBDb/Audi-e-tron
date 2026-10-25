@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     ETRON_TRON_MQB_BAT_SEN_T: 15
   response: 77A04622A0A37
+- expected_values:
+    ETRON_TRON_MQB_BAT_SEN_T: 16
+  response: 77A04622A0A38
+- expected_values:
+    ETRON_TRON_MQB_BAT_SEN_T: 17
+  response: 77A04622A0A39
+- expected_values:
+    ETRON_TRON_MQB_BAT_SEN_T: 18
+  response: 77A04622A0A3A

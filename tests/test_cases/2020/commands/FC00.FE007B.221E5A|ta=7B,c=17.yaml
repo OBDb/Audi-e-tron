@@ -5,25 +5,7 @@ test_cases:
   response: 17FE007B05621E5A0E23
 - expected_values:
     ETRON_HVBAT_CELL_V_027: 4.5
-  response: 17FE007B05621E5A0EC5
-- expected_values:
-    ETRON_HVBAT_CELL_V_027: 4.5
-  response: 17FE007B05621E5A0EC6
-- expected_values:
-    ETRON_HVBAT_CELL_V_027: 4.5
-  response: 17FE007B05621E5A0EC7
-- expected_values:
-    ETRON_HVBAT_CELL_V_027: 4.5
   response: 17FE007B05621E5A0EC8
 - expected_values:
     ETRON_HVBAT_CELL_V_027: 4.5
   response: 17FE007B05621E5A0F06
-- expected_values:
-    ETRON_HVBAT_CELL_V_027: 4.5
-  response: 17FE007B05621E5A0F0B
-- expected_values:
-    ETRON_HVBAT_CELL_V_027: 4.5
-  response: 17FE007B05621E5A0F53
-- expected_values:
-    ETRON_HVBAT_CELL_V_027: 4.5
-  response: 17FE007B05621E5A0F60

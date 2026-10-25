@@ -1,11 +1,20 @@
 command_id: 7E5.7ED.221E17
 test_cases:
 - expected_values:
+    ETRON_HV_ISO_POS_SYS: 3450
+  response: 7ED06621E17015904
+- expected_values:
     ETRON_HV_ISO_POS_SYS: 3680
   response: 7ED06621E17017004
+- expected_values:
+    ETRON_HV_ISO_POS_SYS: 3700
+  response: 7ED06621E17017204
 - expected_values:
     ETRON_HV_ISO_POS_SYS: 3710
   response: 7ED06621E17017302
 - expected_values:
     ETRON_HV_ISO_POS_SYS: 3710
   response: 7ED06621E17017304
+- expected_values:
+    ETRON_HV_ISO_POS_SYS: 20470
+  response: 7ED06621E1707FF01

@@ -24,3 +24,15 @@ test_cases:
     ETRON_HVBAT_T_MIN: 11
     ETRON_HVBAT_T_MIN_ID: 61
   response: 17FE007B05621E0F6F3D
+- expected_values:
+    ETRON_HVBAT_T_MIN: 12
+    ETRON_HVBAT_T_MIN_ID: 19
+  response: 17FE007B05621E0F7013
+- expected_values:
+    ETRON_HVBAT_T_MIN: 12
+    ETRON_HVBAT_T_MIN_ID: 61
+  response: 17FE007B05621E0F703D
+- expected_values:
+    ETRON_HVBAT_T_MIN: 12
+    ETRON_HVBAT_T_MIN_ID: 72
+  response: 17FE007B05621E0F7048

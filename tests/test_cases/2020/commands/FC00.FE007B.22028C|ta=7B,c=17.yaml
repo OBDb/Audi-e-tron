@@ -1,6 +1,12 @@
 command_id: FC00.FE007B.22028C|ta=7B,c=17
 test_cases:
 - expected_values:
+    ETRON_SOC: 22
+  response: 17FE007B0462028C37
+- expected_values:
+    ETRON_SOC: 22.4
+  response: 17FE007B0462028C38
+- expected_values:
     ETRON_SOC: 23.6
   response: 17FE007B0462028C3B
 - expected_values:

@@ -16,3 +16,11 @@ test_cases:
     ETRON_HVBAT_T_IN: 12
     ETRON_HVBAT_T_OUT: 13
   response: 17FE007B0562189D7170
+- expected_values:
+    ETRON_HVBAT_T_IN: 13
+    ETRON_HVBAT_T_OUT: 13
+  response: 17FE007B0562189D7171
+- expected_values:
+    ETRON_HVBAT_T_IN: 13
+    ETRON_HVBAT_T_OUT: 14
+  response: 17FE007B0562189D7271

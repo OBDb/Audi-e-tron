@@ -7,6 +7,15 @@ test_cases:
     ETRON_OBC_V_PROX_A: 4658
   response: 7AE056215251232
 - expected_values:
+    ETRON_OBC_V_PROX_A: 4663
+  response: 7AE056215251237
+- expected_values:
+    ETRON_OBC_V_PROX_A: 4667
+  response: 7AE05621525123B
+- expected_values:
+    ETRON_OBC_V_PROX_A: 4682
+  response: 7AE05621525124A
+- expected_values:
     ETRON_OBC_V_PROX_A: 4990
   response: 7AE05621525137E
 - expected_values:

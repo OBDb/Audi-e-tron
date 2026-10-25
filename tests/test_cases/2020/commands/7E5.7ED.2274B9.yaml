@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ETRON_HV_INTERLOCK_DET_V: 0.61386
   response: 7ED056274B907DB
+- expected_values:
+    ETRON_HV_INTERLOCK_DET_V: 0.61661
+  response: 7ED056274B907E4

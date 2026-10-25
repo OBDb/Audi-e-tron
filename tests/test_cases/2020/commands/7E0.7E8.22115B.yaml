@@ -4,6 +4,9 @@ test_cases:
     ETRON_VSS_DIR: 0
   response: 7E80562115B0000
 - expected_values:
+    ETRON_VSS_DIR: 0.03125
+  response: 7E80562115B0002
+- expected_values:
     ETRON_VSS_DIR: 13.4375
   response: 7E80562115B035C
 - expected_values:

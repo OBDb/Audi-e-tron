@@ -1,26 +1,11 @@
 command_id: FC00.FE007B.221E3B|ta=7B,c=17
 test_cases:
 - expected_values:
-    ETRON_DC_BATTERY_V: 1013.75
-  response: 17FE007B05621E3B0FD7
-- expected_values:
-    ETRON_DC_BATTERY_V: 1020.5
-  response: 17FE007B05621E3B0FF2
-- expected_values:
-    ETRON_DC_BATTERY_V: 1021.25
-  response: 17FE007B05621E3B0FF5
+    ETRON_DC_BATTERY_V: 1003
+  response: 17FE007B05621E3B0FAC
 - expected_values:
     ETRON_DC_BATTERY_V: 1021.75
   response: 17FE007B05621E3B0FF7
 - expected_values:
     ETRON_DC_BATTERY_V: 1040.5
   response: 17FE007B05621E3B1042
-- expected_values:
-    ETRON_DC_BATTERY_V: 1057.5
-  response: 17FE007B05621E3B1086
-- expected_values:
-    ETRON_DC_BATTERY_V: 1061.75
-  response: 17FE007B05621E3B1097
-- expected_values:
-    ETRON_DC_BATTERY_V: 1063.75
-  response: 17FE007B05621E3B109F

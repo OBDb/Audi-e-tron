@@ -1,6 +1,27 @@
 command_id: 7E5.7ED.221E19
 test_cases:
 - expected_values:
+    ETRON_HV_ISO_NEG_SYS: 3570
+  response: 7ED06621E19016504
+- expected_values:
+    ETRON_HV_ISO_NEG_SYS: 3740
+  response: 7ED06621E19017604
+- expected_values:
+    ETRON_HV_ISO_NEG_SYS: 3750
+  response: 7ED06621E19017702
+- expected_values:
+    ETRON_HV_ISO_NEG_SYS: 3750
+  response: 7ED06621E19017704
+- expected_values:
+    ETRON_HV_ISO_NEG_SYS: 3760
+  response: 7ED06621E19017802
+- expected_values:
+    ETRON_HV_ISO_NEG_SYS: 3760
+  response: 7ED06621E19017804
+- expected_values:
+    ETRON_HV_ISO_NEG_SYS: 3780
+  response: 7ED06621E19017A04
+- expected_values:
     ETRON_HV_ISO_NEG_SYS: 3790
   response: 7ED06621E19017B02
 - expected_values:
