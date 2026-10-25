@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.22F41F
 test_cases:
 - expected_values:
-    ETRON_TRON_RUNTM: 30
-  response: 7E80562F41F001E
-- expected_values:
-    ETRON_TRON_RUNTM: 257
-  response: 7E80562F41F0101
+    ETRON_TRON_RUNTM: 0
+  response: 7E80562F41F0000
 - expected_values:
     ETRON_TRON_RUNTM: 511
   response: 7E80562F41F01FF

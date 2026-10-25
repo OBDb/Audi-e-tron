@@ -1,0 +1,32 @@
+command_id: FC00.FE007B.221EAB|ta=7B,c=17
+test_cases:
+- expected_values:
+    ETRON_HVBAT_CELL_V_108: 4.5
+  response: 17FE007B05621EAB0E5C
+- expected_values:
+    ETRON_HVBAT_CELL_V_108: 4.5
+  response: 17FE007B05621EAB0ECC
+- expected_values:
+    ETRON_HVBAT_CELL_V_108: 4.5
+  response: 17FE007B05621EAB0ECD
+- expected_values:
+    ETRON_HVBAT_CELL_V_108: 4.5
+  response: 17FE007B05621EAB0ECF
+- expected_values:
+    ETRON_HVBAT_CELL_V_108: 4.5
+  response: 17FE007B05621EAB0ED0
+- expected_values:
+    ETRON_HVBAT_CELL_V_108: 4.5
+  response: 17FE007B05621EAB0ED1
+- expected_values:
+    ETRON_HVBAT_CELL_V_108: 4.5
+  response: 17FE007B05621EAB0F0B
+- expected_values:
+    ETRON_HVBAT_CELL_V_108: 4.5
+  response: 17FE007B05621EAB0F46
+- expected_values:
+    ETRON_HVBAT_CELL_V_108: 4.5
+  response: 17FE007B05621EAB0F51
+- expected_values:
+    ETRON_HVBAT_CELL_V_108: 4.5
+  response: 17FE007B05621EAB0F5F

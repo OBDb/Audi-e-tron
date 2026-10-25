@@ -1,6 +1,18 @@
 command_id: 710.77A.222AB2|fc=1
 test_cases:
 - expected_values:
+    ETRON_HVBAT_E_MAX: 50050
+  response: 77A07622AB203E90400
+- expected_values:
+    ETRON_HVBAT_E_MAX: 50200
+  response: 77A07622AB203EC0400
+- expected_values:
+    ETRON_HVBAT_E_MAX: 50650
+  response: 77A07622AB203F50400
+- expected_values:
+    ETRON_HVBAT_E_MAX: 51250
+  response: 77A07622AB204010400
+- expected_values:
     ETRON_HVBAT_E_MAX: 57150
   response: 77A07622AB204770400
 - expected_values:

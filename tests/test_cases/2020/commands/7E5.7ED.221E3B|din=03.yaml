@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     ETRON_BMS_CELL_V_SUM: 384
   response: 7ED05621E3B0F00
+- expected_values:
+    ETRON_BMS_CELL_V_SUM: 410.2
+  response: 7ED05621E3B1006

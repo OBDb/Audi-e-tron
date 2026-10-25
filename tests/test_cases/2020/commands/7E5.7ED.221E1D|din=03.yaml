@@ -1,0 +1,32 @@
+command_id: 7E5.7ED.221E1D|din=03
+test_cases:
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_PRED: 66
+  response: 7ED05621E1D0042
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_PRED: 67
+  response: 7ED05621E1D0043
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_PRED: 68
+  response: 7ED05621E1D0044
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_PRED: 69
+  response: 7ED05621E1D0045
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_PRED: 71
+  response: 7ED05621E1D0047
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_PRED: 96
+  response: 7ED05621E1D0060
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_PRED: 100
+  response: 7ED05621E1D0064
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_PRED: 102
+  response: 7ED05621E1D0066
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_PRED: 180
+  response: 7ED05621E1D00B4
+- expected_values:
+    ETRON_BMS_I_CHG_LIM_PRED: 181
+  response: 7ED05621E1D00B5

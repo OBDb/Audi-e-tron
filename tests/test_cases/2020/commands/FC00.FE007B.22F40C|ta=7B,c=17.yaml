@@ -1,0 +1,20 @@
+command_id: FC00.FE007B.22F40C|ta=7B,c=17
+test_cases:
+- expected_values:
+    ETRON_ELDRIVE_MOTOR_RPM: 0
+  response: 17FE007B0562F40C0000
+- expected_values:
+    ETRON_ELDRIVE_MOTOR_RPM: 863
+  response: 17FE007B0562F40C0D7C
+- expected_values:
+    ETRON_ELDRIVE_MOTOR_RPM: 2128
+  response: 17FE007B0562F40C2140
+- expected_values:
+    ETRON_ELDRIVE_MOTOR_RPM: 3687
+  response: 17FE007B0562F40C399C
+- expected_values:
+    ETRON_ELDRIVE_MOTOR_RPM: 5333
+  response: 17FE007B0562F40C5354
+- expected_values:
+    ETRON_ELDRIVE_MOTOR_RPM: null
+  response: 17FE007B0562F40CFFFF

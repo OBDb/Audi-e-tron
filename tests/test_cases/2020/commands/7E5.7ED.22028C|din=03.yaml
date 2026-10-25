@@ -4,5 +4,5 @@ test_cases:
     ETRON_BMS_SOC: 12
   response: 7ED0462028C0C
 - expected_values:
-    ETRON_BMS_SOC: 31
-  response: 7ED0462028C1F
+    ETRON_BMS_SOC: 78
+  response: 7ED0462028C4E

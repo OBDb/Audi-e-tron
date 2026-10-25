@@ -1,0 +1,14 @@
+command_id: 742.7AC.2227D6|fc=1
+test_cases:
+- expected_values:
+    ETRON_PTC_PUMP_PWR: 0
+    ETRON_PTC_PUMP_RPM: 0
+  response: 7AC066227D6000000
+- expected_values:
+    ETRON_PTC_PUMP_PWR: 0
+    ETRON_PTC_PUMP_RPM: 0
+  response: 7AC066227D600D500
+- expected_values:
+    ETRON_PTC_PUMP_PWR: 880
+    ETRON_PTC_PUMP_RPM: 2400
+  response: 7AC066227D608D316

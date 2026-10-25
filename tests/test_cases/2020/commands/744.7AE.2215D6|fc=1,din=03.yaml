@@ -1,0 +1,23 @@
+command_id: 744.7AE.2215D6|fc=1,din=03
+test_cases:
+- expected_values:
+    ETRON_CHRGR_EFFICIENCY: 91.9
+  response: 7AE046215D6A9
+- expected_values:
+    ETRON_CHRGR_EFFICIENCY: 92.1
+  response: 7AE046215D6AB
+- expected_values:
+    ETRON_CHRGR_EFFICIENCY: 92.2
+  response: 7AE046215D6AC
+- expected_values:
+    ETRON_CHRGR_EFFICIENCY: 92.6
+  response: 7AE046215D6B0
+- expected_values:
+    ETRON_CHRGR_EFFICIENCY: 93.5
+  response: 7AE046215D6B9
+- expected_values:
+    ETRON_CHRGR_EFFICIENCY: 93.8
+  response: 7AE046215D6BC
+- expected_values:
+    ETRON_CHRGR_EFFICIENCY: 100.5
+  response: 7AE046215D6FF

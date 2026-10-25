@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     ETRON_TRON_BAT_INT_R: 4
   response: 77A04622A0E14
+- expected_values:
+    ETRON_TRON_BAT_INT_R: 5.2
+  response: 77A04622A0E1A
+- expected_values:
+    ETRON_TRON_BAT_INT_R: 5.4
+  response: 77A04622A0E1B

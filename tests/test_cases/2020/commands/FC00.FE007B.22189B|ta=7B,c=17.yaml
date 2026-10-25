@@ -1,0 +1,26 @@
+command_id: FC00.FE007B.22189B|ta=7B,c=17
+test_cases:
+- expected_values:
+    ETRON_HVBAT_AFTER_CONTACTS_V: -991.5
+  response: 17FE007B0562189B0011
+- expected_values:
+    ETRON_HVBAT_AFTER_CONTACTS_V: 998.5
+  response: 17FE007B0562189B0F9D
+- expected_values:
+    ETRON_HVBAT_AFTER_CONTACTS_V: 1041
+  response: 17FE007B0562189B0FF2
+- expected_values:
+    ETRON_HVBAT_AFTER_CONTACTS_V: 1042.5
+  response: 17FE007B0562189B0FF5
+- expected_values:
+    ETRON_HVBAT_AFTER_CONTACTS_V: 1043.5
+  response: 17FE007B0562189B0FF7
+- expected_values:
+    ETRON_HVBAT_AFTER_CONTACTS_V: 1075
+  response: 17FE007B0562189B1036
+- expected_values:
+    ETRON_HVBAT_AFTER_CONTACTS_V: 1108.5
+  response: 17FE007B0562189B1079
+- expected_values:
+    ETRON_HVBAT_AFTER_CONTACTS_V: 1115
+  response: 17FE007B0562189B1086
