@@ -6,15 +6,15 @@ test_cases:
     77A100D622AB5008F00
     77A2100008F07FF0000
 - expected_values:
+    ETRON_RANGE_EST_CAN: 155
+  response: |-
+    77A100D622AB5009B00
+    77A2100009B00000000
+- expected_values:
     ETRON_RANGE_EST_CAN: 160
   response: |-
     77A100D622AB500A000
     77A210000A007FF0000
-- expected_values:
-    ETRON_RANGE_EST_CAN: 165
-  response: |-
-    77A100D622AB500A500
-    77A210000A500000000
 - expected_values:
     ETRON_RANGE_EST_CAN: 242
   response: |-
