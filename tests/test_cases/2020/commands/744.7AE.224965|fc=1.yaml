@@ -61,6 +61,11 @@ test_cases:
     7AE100D62496502DCFF
     7AE21A500177003A3D5
 - expected_values:
+    ETRON_HVBAT_KWH: 36.7
+  response: |-
+    7AE100D62496502DEFF
+    7AE215D00177003A29F
+- expected_values:
     ETRON_HVBAT_KWH: 39.55
   response: |-
     7AE100D624965031700
@@ -70,8 +75,3 @@ test_cases:
   response: |-
     7AE100D624965046D00
     7AE2100000FA0055F4C
-- expected_values:
-    ETRON_HVBAT_KWH: 57.5
-  response: |-
-    7AE100D624965047EFF
-    7AE216A00157205719F
