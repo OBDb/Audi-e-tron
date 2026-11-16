@@ -16,5 +16,5 @@ test_cases:
     ETRON_VSS_V2: 57
   response: 17FE007B0462F40D39
 - expected_values:
-    ETRON_VSS_V2: 255
+    ETRON_VSS_V2: null
   response: 17FE007B0462F40DFF
