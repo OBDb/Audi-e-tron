@@ -155,7 +155,7 @@
   "signals": [
     {"id": "ETRON_PTC_OUTSIDE_T", "path": "Climate", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Outside temperature"}
   ]},
-{ "hdr": "742", "rax": "7AC", "fcm1": true, "cmd": {"22": "27D6"}, "freq": 1, "dbgfilter": { "years": [2023, 2024] },
+{ "hdr": "742", "rax": "7AC", "fcm1": true, "cmd": {"22": "27D6"}, "freq": 1, "dbgfilter": { "from": 2023 },
   "signals": [
     {"id": "ETRON_PTC_PUMP_RPM", "path": "Engine.Water pump", "fmt": {           "len": 8, "max": 76500, "mul": 300, "nullmax": 76500, "unit": "rpm"     }, "name": "Water pump RPM"},
     {"id": "ETRON_PTC_PUMP_PWR", "path": "Engine.Water pump", "fmt": {"bix": 16, "len": 8, "max": 10200, "mul": 40,  "nullmax": 10200, "unit": "unknown" }, "name": "Water pump power"}
@@ -1712,7 +1712,7 @@
   "signals": [
     {"id": "ETRON_BMS_V_DCHG_DYN_MIN", "path": "Battery", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "volts" }, "name": "Minimum dynamic discharge voltage"}
   ]},
-{ "hdr": "7E5", "rax": "7ED", "cmd": {"22": "51E0"}, "freq": 30, "dbgfilter": { "years": [2023, 2024] },
+{ "hdr": "7E5", "rax": "7ED", "cmd": {"22": "51E0"}, "freq": 30, "dbgfilter": { "to": 2019, "years": [2021, 2023, 2024] },
   "signals": [
     {"id": "ETRON_HVBAT_SOH", "path": "Battery", "fmt": { "len": 16, "max": 6524, "min": -1798.574, "mul": 0.127, "add": -1798.574, "nullmax": 6524, "unit": "percent" }, "name": "HV battery health", "suggestedMetric": "stateOfHealth"}
   ]},
